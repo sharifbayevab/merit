@@ -6,7 +6,7 @@ metagenomic profiles. It is trained only on the sample at hand: no pre-trained w
 
 This repository accompanies the paper
 
-> A. Sharifbaev and N. Mirzaev, "MERIT: Interpretable Module-Level Rule Ensembles for Small High-Dimensional Data,"
+> A. Sharifbaev, N. Mirzaev and Sh. Fazilov, "MERIT: Interpretable Module-Level Rule Ensembles for Small High-Dimensional Data,"
 > submitted to *IEEE Access*, 2026.
 
 ## Method
@@ -79,7 +79,7 @@ foundation-model baselines.
 
 ```bibtex
 @article{sharifbaev2026merit,
-  author  = {Sharifbaev, Abdurakhmon and Mirzaev, Nomaz},
+  author  = {Sharifbaev, Abdurakhmon and Mirzaev, Nomaz and Fazilov, Shavkat},
   title   = {{MERIT}: Interpretable Module-Level Rule Ensembles for Small High-Dimensional Data},
   journal = {IEEE Access},
   year    = {2026},

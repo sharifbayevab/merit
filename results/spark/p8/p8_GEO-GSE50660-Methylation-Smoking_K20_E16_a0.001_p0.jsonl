@@ -1,0 +1,10 @@
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.44828791055206146, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 118.5226845741272}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.544199860237596, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 129.97819352149963}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.4488769092542677, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 118.23706865310669}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.6076923076923078, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 116.34776973724365}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.5662393162393163, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 161.54598546028137}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.4301187980433263, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 120.7093551158905}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.5782669461914746, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 116.46821427345276}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.4740341419586702, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 117.20575308799744}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.5317663817663818, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 134.44060730934143}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.514957264957265, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 130.39616584777832}

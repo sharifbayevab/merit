@@ -1,0 +1,160 @@
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "DENSITY", "D": 0.0014894542291803425, "inner_lr_all": 0.962424740010947, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "WIDE8k", "bacc": 1.0, "t": 22.062965631484985}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "DENSITY", "D": 0.06711241574255278, "inner_lr_all": 0.9866057838660579, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "WIDE8k", "bacc": 0.9545454545454546, "t": 17.157121896743774}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "DENSITY", "D": 0.054050355774493575, "inner_lr_all": 0.960845311199586, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "WIDE8k", "bacc": 0.9908256880733946, "t": 16.63463830947876}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "DENSITY", "D": 0.01992337164750957, "inner_lr_all": 0.9632183908045976, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "WIDE8k", "bacc": 0.9954128440366973, "t": 17.90204906463623}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "DENSITY", "D": 0.03800526351305755, "inner_lr_all": 0.9635741652983033, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "WIDE8k", "bacc": 1.0, "t": 20.096964359283447}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "DENSITY", "D": 0.002646752292477239, "inner_lr_all": 0.9409219395520765, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "WIDE8k", "bacc": 1.0, "t": 17.507031440734863}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "DENSITY", "D": 0.021064924158925247, "inner_lr_all": 0.962424740010947, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "WIDE8k", "bacc": 0.9954128440366973, "t": 19.947673320770264}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "DENSITY", "D": 0.002290977798772076, "inner_lr_all": 0.9650793650793652, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "WIDE8k", "bacc": 0.9499582985821518, "t": 19.916717052459717}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "DENSITY", "D": 0.04867849832422344, "inner_lr_all": 0.9754946727549467, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "WIDE8k", "bacc": 1.0, "t": 18.148152112960815}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "DENSITY", "D": -0.010763209393346407, "inner_lr_all": 0.9635820380742439, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "WIDE8k", "bacc": 0.9499582985821518, "t": 16.493704080581665}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "HYB-L1K20", "bacc": 0.9952830188679245, "t": 2.1693484783172607}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "HYB-L1K20", "bacc": 1.0, "t": 2.267359495162964}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "HYB-L1K20", "bacc": 0.9911504424778761, "t": 2.3026721477508545}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "HYB-L1K20", "bacc": 0.9861111111111112, "t": 2.5915849208831787}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "HYB-L1K20", "bacc": 0.9955357142857143, "t": 1.8317523002624512}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "HYB-L1K20", "bacc": 0.9550264550264551, "t": 2.0955450534820557}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "HYB-L1K20", "bacc": 0.9907407407407407, "t": 1.696657657623291}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "HYB-L1K20", "bacc": 1.0, "t": 1.6708855628967285}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "HYB-L1K20", "bacc": 0.9954128440366973, "t": 3.4447431564331055}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "HYB-L1K20", "bacc": 0.9953703703703703, "t": 3.4542415142059326}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "LR", "bacc": 1.0, "t": 1.7128784656524658}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "XGB", "bacc": 1.0, "t": 21.699337005615234}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "TR2m", "bacc": 1.0, "t": 0.33176183700561523}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "KTSP", "bacc": 0.8228511530398324, "t": 0.3373594284057617}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "HYB-K20", "bacc": 1.0, "t": 1.2342448234558105}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "HYB-K50", "bacc": 1.0, "t": 2.505331039428711}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "TPFN-CGf", "bacc": 0.9444444444444444, "t": 4.8452136516571045}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "LR", "bacc": 1.0, "t": 2.237913131713867}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "XGB", "bacc": 0.9, "t": 19.115947246551514}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "TR2m", "bacc": 0.9666666666666667, "t": 0.32894468307495117}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "KTSP", "bacc": 0.8393081761006289, "t": 0.26996278762817383}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "HYB-K20", "bacc": 1.0, "t": 1.629007339477539}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "HYB-K50", "bacc": 1.0, "t": 2.086815595626831}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "TPFN-CGf", "bacc": 0.9666666666666667, "t": 1.4305038452148438}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "LR", "bacc": 1.0, "t": 2.7359189987182617}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "XGB", "bacc": 0.995575221238938, "t": 28.049421310424805}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "TR2m", "bacc": 0.9911504424778761, "t": 0.6853229999542236}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "KTSP", "bacc": 0.786504424778761, "t": 0.5558886528015137}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "HYB-K20", "bacc": 0.9911504424778761, "t": 1.9971845149993896}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "HYB-K50", "bacc": 0.9867256637168141, "t": 2.726269483566284}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.921816349029541}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "LR", "bacc": 0.9953703703703703, "t": 1.455374002456665}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "XGB", "bacc": 0.9953703703703703, "t": 19.89659810066223}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "TR2m", "bacc": 0.9953703703703703, "t": 0.34624695777893066}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "KTSP", "bacc": 0.8596866096866097, "t": 0.2860839366912842}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "HYB-K20", "bacc": 0.9768518518518519, "t": 1.9340903759002686}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "HYB-K50", "bacc": 0.9814814814814814, "t": 3.3811686038970947}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "TPFN-CGf", "bacc": 0.9953703703703703, "t": 2.372313976287842}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "LR", "bacc": 0.9455357142857144, "t": 2.503472089767456}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "XGB", "bacc": 0.95, "t": 24.410893201828003}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "TR2m", "bacc": 1.0, "t": 0.47940707206726074}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "KTSP", "bacc": 0.9464285714285714, "t": 0.7789337635040283}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "HYB-K20", "bacc": 0.9866071428571428, "t": 1.8250155448913574}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "HYB-K50", "bacc": 0.9455357142857144, "t": 2.602605104446411}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "TPFN-CGf", "bacc": 0.9455357142857144, "t": 1.5794572830200195}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "LR", "bacc": 0.9642857142857143, "t": 3.51880145072937}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "XGB", "bacc": 0.9642857142857143, "t": 18.35631561279297}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "TR2m", "bacc": 0.9953703703703703, "t": 1.0213959217071533}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "KTSP", "bacc": 0.8948412698412699, "t": 0.9580590724945068}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "HYB-K20", "bacc": 0.9768518518518519, "t": 1.5890519618988037}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "HYB-K50", "bacc": 0.9907407407407407, "t": 3.465780258178711}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "TPFN-CGf", "bacc": 0.9642857142857143, "t": 2.6145777702331543}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "LR", "bacc": 0.9569088319088319, "t": 2.2091429233551025}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "XGB", "bacc": 0.9184472934472934, "t": 21.151261568069458}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "TR2m", "bacc": 0.9953703703703703, "t": 0.3931119441986084}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "KTSP", "bacc": 0.875, "t": 0.44651222229003906}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "HYB-K20", "bacc": 0.9907407407407407, "t": 2.176084518432617}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "HYB-K50", "bacc": 0.9907407407407407, "t": 4.121133327484131}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "TPFN-CGf", "bacc": 0.9953703703703703, "t": 2.4449799060821533}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "LR", "bacc": 0.9955357142857143, "t": 2.171938180923462}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "XGB", "bacc": 0.9375, "t": 25.80319619178772}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "TR2m", "bacc": 0.9330357142857143, "t": 0.622398853302002}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "KTSP", "bacc": 0.9241071428571428, "t": 0.28122639656066895}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "HYB-K20", "bacc": 1.0, "t": 1.5358803272247314}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "HYB-K50", "bacc": 0.9955357142857143, "t": 3.7956650257110596}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "TPFN-CGf", "bacc": 1.0, "t": 2.684413433074951}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "LR", "bacc": 1.0, "t": 1.9229950904846191}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "XGB", "bacc": 1.0, "t": 22.070128440856934}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "TR2m", "bacc": 1.0, "t": 0.5304288864135742}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "KTSP", "bacc": 0.8017329255861366, "t": 0.770392656326294}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "HYB-K20", "bacc": 0.9954128440366973, "t": 2.366604804992676}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "HYB-K50", "bacc": 0.9954128440366973, "t": 3.3801519870758057}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.154242753982544}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "LR", "bacc": 1.0, "t": 1.8689825534820557}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "XGB", "bacc": 0.9090909090909092, "t": 21.26604461669922}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "TR2m", "bacc": 0.9499158249158248, "t": 0.32164525985717773}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "KTSP", "bacc": 0.8573232323232323, "t": 0.23939061164855957}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "HYB-K20", "bacc": 0.9953703703703703, "t": 1.993070363998413}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "HYB-K50", "bacc": 0.9953703703703703, "t": 3.98165225982666}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "TPFN-CGf", "bacc": 0.9090909090909092, "t": 2.877885341644287}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.9952830188679245, "t": 2.6193039417266846}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.9666666666666667, "t": 0.9822583198547363}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.9690501689910889}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.9861111111111112, "t": 0.9870865345001221}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.9955357142857143, "t": 0.9805948734283447}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.9831173419952393}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.9907407407407407, "t": 0.9866487979888916}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.9782958030700684}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.9954128440366973, "t": 0.9844679832458496}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.9499158249158248, "t": 0.9885103702545166}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "WIDE8kbal", "bacc": 0.9954128440366973, "t": 17.270573139190674}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "WIDE8kbal", "bacc": 0.9862385321100917, "t": 14.391112089157104}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "WIDE8kbal", "bacc": 0.9908256880733946, "t": 14.34851360321045}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "WIDE8kbal", "bacc": 0.9862385321100917, "t": 14.360858678817749}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "WIDE8kbal", "bacc": 1.0, "t": 14.39100432395935}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "WIDE8kbal", "bacc": 1.0, "t": 14.387426137924194}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "WIDE8kbal", "bacc": 0.9862385321100917, "t": 14.388030290603638}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "WIDE8kbal", "bacc": 0.9954128440366973, "t": 14.403351306915283}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "WIDE8kbal", "bacc": 0.9908256880733946, "t": 14.402692317962646}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "WIDE8kbal", "bacc": 0.9908256880733946, "t": 14.386139392852783}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.9952830188679245}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "TICL2-CGf", "bacc": 0.9397274633123689, "t": 2.711578130722046}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.9666666666666667}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "TICL2-CGf", "bacc": 0.9666666666666667, "t": 1.357337236404419}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.9911504424778761}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.345395803451538}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.9861111111111112}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "TICL2-CGf", "bacc": 0.9953703703703703, "t": 1.3468899726867676}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.95}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "TICL2-CGf", "bacc": 0.95, "t": 1.349130392074585}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.9953703703703703}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "TICL2-CGf", "bacc": 0.9642857142857143, "t": 1.3475534915924072}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.9907407407407407}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "TICL2-CGf", "bacc": 0.9953703703703703, "t": 1.3537638187408447}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.9955357142857143}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.3462839126586914}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.9954128440366973}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.354874849319458}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.9499158249158248}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "TICL2-CGf", "bacc": 0.9545454545454546, "t": 1.3520612716674805}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "RFbal", "bacc": 1.0, "t": 7.00109338760376}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 0, "method": "RSEbal", "bacc": 1.0, "t": 5.670710325241089}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "RFbal", "bacc": 0.9333333333333333, "t": 4.584353685379028}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 1, "method": "RSEbal", "bacc": 1.0, "t": 10.592979431152344}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "RFbal", "bacc": 1.0, "t": 6.8448944091796875}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 2, "method": "RSEbal", "bacc": 0.995575221238938, "t": 7.3137547969818115}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "RFbal", "bacc": 0.9569088319088319, "t": 5.888749361038208}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 3, "method": "RSEbal", "bacc": 0.9907407407407407, "t": 4.8902199268341064}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "RFbal", "bacc": 0.85, "t": 4.635721206665039}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 4, "method": "RSEbal", "bacc": 0.95, "t": 3.102917432785034}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "RFbal", "bacc": 0.9642857142857143, "t": 5.8012003898620605}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 5, "method": "RSEbal", "bacc": 0.9596560846560847, "t": 5.53392219543457}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "RFbal", "bacc": 0.9184472934472934, "t": 5.749291658401489}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 6, "method": "RSEbal", "bacc": 0.9953703703703703, "t": 6.697997093200684}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "RFbal", "bacc": 0.9375, "t": 6.108039617538452}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 7, "method": "RSEbal", "bacc": 1.0, "t": 2.883657455444336}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "RFbal", "bacc": 1.0, "t": 6.932068586349487}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 8, "method": "RSEbal", "bacc": 1.0, "t": 6.949445962905884}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "RFbal", "bacc": 0.9090909090909092, "t": 6.243684530258179}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "split": 9, "method": "RSEbal", "bacc": 0.9953703703703703, "t": 3.998279571533203}

@@ -1,0 +1,10 @@
+{"ds": "gut-cirrhosis", "split": 0, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.8532608695652174, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 35.08692908287048}
+{"ds": "gut-cirrhosis", "split": 1, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.8958333333333333, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 27.746031999588013}
+{"ds": "gut-cirrhosis", "split": 2, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.826086956521739, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 28.825588703155518}
+{"ds": "gut-cirrhosis", "split": 3, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.8913043478260869, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 24.588985443115234}
+{"ds": "gut-cirrhosis", "split": 4, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.8731060606060606, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 24.373817205429077}
+{"ds": "gut-cirrhosis", "split": 5, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.8740942028985508, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 24.806384563446045}
+{"ds": "gut-cirrhosis", "split": 6, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.8315217391304348, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 21.699629306793213}
+{"ds": "gut-cirrhosis", "split": 7, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.8695652173913043, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 23.247782945632935}
+{"ds": "gut-cirrhosis", "split": 8, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9130434782608695, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 25.57486867904663}
+{"ds": "gut-cirrhosis", "split": 9, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.7878787878787878, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 18.89239192008972}

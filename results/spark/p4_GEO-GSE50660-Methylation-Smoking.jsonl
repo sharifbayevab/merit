@@ -1,0 +1,160 @@
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "DENSITY", "D": 0.018073848924912816, "inner_lr_all": 0.4663275357424294, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "WIDE8k", "bacc": 0.4344863731656185, "t": 17.121216773986816}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "DENSITY", "D": -0.02630445795339409, "inner_lr_all": 0.44944557019025105, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "WIDE8k", "bacc": 0.4903913347309574, "t": 14.507920026779175}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "DENSITY", "D": -0.008994708994709, "inner_lr_all": 0.43015873015873013, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "WIDE8k", "bacc": 0.4988319856244385, "t": 14.504705429077148}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "DENSITY", "D": -0.0061964378865788095, "inner_lr_all": 0.44326613740758175, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "WIDE8k", "bacc": 0.46581196581196577, "t": 14.640063524246216}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "DENSITY", "D": -0.006632505830887647, "inner_lr_all": 0.44087095464829956, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "WIDE8k", "bacc": 0.48789173789173795, "t": 13.703341960906982}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "DENSITY", "D": 0.0034363390746369182, "inner_lr_all": 0.4820316897444557, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "WIDE8k", "bacc": 0.47449336128581415, "t": 13.197426795959473}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "DENSITY", "D": 0.03455617471574918, "inner_lr_all": 0.4729398851739277, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "WIDE8k", "bacc": 0.480083857442348, "t": 15.04409146308899}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "DENSITY", "D": -0.0003306878306877925, "inner_lr_all": 0.45443121693121696, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "WIDE8k", "bacc": 0.47008086253369274, "t": 13.714438438415527}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "DENSITY", "D": 0.007219935055565896, "inner_lr_all": 0.42989180155796886, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "WIDE8k", "bacc": 0.4764957264957265, "t": 15.5570969581604}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "DENSITY", "D": 0.015852859473626635, "inner_lr_all": 0.4738134084253353, "n": 464, "d": 30000, "C": 3, "grouped": false}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "WIDE8k", "bacc": 0.45726495726495725, "t": 13.72566533088684}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "LR", "bacc": 0.4652341020265549, "t": 7.9278693199157715}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "XGB", "bacc": 0.48969252271139063, "t": 170.10944056510925}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "TR2m", "bacc": 0.5068134171907757, "t": 0.5143687725067139}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "KTSP", "bacc": 0.5543326345213138, "t": 0.26572203636169434}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "HYB-K20", "bacc": 0.44828791055206146, "t": 3.6458613872528076}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "HYB-K50", "bacc": 0.4764150943396226, "t": 8.201590061187744}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "TPFN-CGf", "bacc": 0.4737945492662474, "t": 3.589900493621826}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "LR", "bacc": 0.49266247379454925, "t": 10.000387191772461}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "XGB", "bacc": 0.486722571628232, "t": 160.1722731590271}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "TR2m", "bacc": 0.5127533193570929, "t": 0.5664205551147461}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "KTSP", "bacc": 0.6046470999301188, "t": 0.39982104301452637}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "HYB-K20", "bacc": 0.5646401118099231, "t": 8.77932095527649}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "HYB-K50", "bacc": 0.5193920335429769, "t": 4.313692569732666}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "TPFN-CGf", "bacc": 0.5323200559049616, "t": 1.704240083694458}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "LR", "bacc": 0.4767295597484276, "t": 22.84422254562378}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "XGB", "bacc": 0.5146451033243485, "t": 157.24234771728516}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "TR2m", "bacc": 0.5126684636118598, "t": 0.5238094329833984}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "KTSP", "bacc": 0.483737646001797, "t": 0.3161327838897705}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "HYB-K20", "bacc": 0.5504043126684636, "t": 8.186640739440918}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "HYB-K50", "bacc": 0.5344115004492364, "t": 9.151626110076904}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "TPFN-CGf", "bacc": 0.6292902066486973, "t": 0.9925038814544678}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "LR", "bacc": 0.4358974358974359, "t": 15.2325119972229}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "XGB", "bacc": 0.4444444444444445, "t": 405.93738079071045}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "TR2m", "bacc": 0.6098290598290599, "t": 818.9964816570282}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "KTSP", "bacc": 0.5200854700854701, "t": 104.52995729446411}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "HYB-K20", "bacc": 0.4836182336182337, "t": 13.30886960029602}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "HYB-K50", "bacc": 0.5160968660968661, "t": 6.348553895950317}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "TPFN-CGf", "bacc": 0.5417378917378918, "t": 5.108313322067261}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "LR", "bacc": 0.49715099715099714, "t": 9.551695108413696}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "XGB", "bacc": 0.5092592592592592, "t": 70.61423444747925}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "TR2m", "bacc": 0.45441595441595445, "t": 0.454754114151001}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "KTSP", "bacc": 0.4615384615384615, "t": 0.23177814483642578}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "HYB-K20", "bacc": 0.5007122507122507, "t": 2.416558027267456}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "HYB-K50", "bacc": 0.5598290598290598, "t": 2.97994327545166}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "TPFN-CGf", "bacc": 0.5776353276353275, "t": 1.9931156635284424}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "LR", "bacc": 0.4807826694619148, "t": 5.055114030838013}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "XGB", "bacc": 0.4807826694619148, "t": 74.63254642486572}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "TR2m", "bacc": 0.5504891684136967, "t": 0.47362232208251953}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "KTSP", "bacc": 0.5501397624039134, "t": 0.2520325183868408}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "HYB-K20", "bacc": 0.48899371069182385, "t": 2.5651426315307617}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "HYB-K50", "bacc": 0.4612159329140461, "t": 2.798969030380249}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "TPFN-CGf", "bacc": 0.47414395527603076, "t": 0.799968957901001}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "LR", "bacc": 0.5167714884696016, "t": 4.021817684173584}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "XGB", "bacc": 0.4956324248777079, "t": 72.25912022590637}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "TR2m", "bacc": 0.4475890985324948, "t": 0.47467923164367676}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "KTSP", "bacc": 0.6201956673654787, "t": 0.25293803215026855}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "HYB-K20", "bacc": 0.40461215932914046, "t": 2.5184547901153564}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "HYB-K50", "bacc": 0.539832285115304, "t": 3.2226076126098633}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "TPFN-CGf", "bacc": 0.5452480782669462, "t": 0.8165261745452881}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "LR", "bacc": 0.527403414195867, "t": 5.135575771331787}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "XGB", "bacc": 0.5085354896675652, "t": 67.5733106136322}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "TR2m", "bacc": 0.5822102425876011, "t": 0.4660210609436035}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "KTSP", "bacc": 0.5444743935309974, "t": 0.23895001411437988}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "HYB-K20", "bacc": 0.48355795148247976, "t": 2.5640804767608643}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "HYB-K50", "bacc": 0.5220125786163522, "t": 3.059866428375244}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "TPFN-CGf", "bacc": 0.5940700808625338, "t": 0.799314022064209}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "LR", "bacc": 0.47863247863247865, "t": 4.67366886138916}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "XGB", "bacc": 0.4601139601139601, "t": 67.39640784263611}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "TR2m", "bacc": 0.48005698005698005, "t": 0.4786660671234131}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "KTSP", "bacc": 0.5528490028490028, "t": 0.25522518157958984}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "HYB-K20", "bacc": 0.5274928774928774, "t": 2.602205753326416}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "HYB-K50", "bacc": 0.4871794871794872, "t": 2.95306658744812}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "TPFN-CGf", "bacc": 0.5284900284900286, "t": 0.829254150390625}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "LR", "bacc": 0.4358974358974359, "t": 4.679688930511475}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "XGB", "bacc": 0.45085470085470086, "t": 72.34811496734619}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "TR2m", "bacc": 0.532051282051282, "t": 0.47855615615844727}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "KTSP", "bacc": 0.559116809116809, "t": 0.2565920352935791}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "HYB-K20", "bacc": 0.4280626780626781, "t": 2.456185817718506}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "HYB-K50", "bacc": 0.4337606837606837, "t": 2.8246665000915527}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "TPFN-CGf", "bacc": 0.559116809116809, "t": 0.8174395561218262}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "HYB-L1K20", "bacc": 0.5157232704402516, "t": 815.8568091392517}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "HYB-L1K20", "bacc": 0.470125786163522, "t": 811.0514569282532}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.5960866526904263, "t": 2.392151117324829}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.6801187980433263, "t": 0.808326005935669}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.6772686433063791, "t": 0.8001329898834229}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.6041310541310541, "t": 0.8015315532684326}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.5512820512820512, "t": 0.8039155006408691}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.544199860237596, "t": 0.8071126937866211}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.7323549965059399, "t": 0.8117399215698242}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.6835579514824798, "t": 0.7942366600036621}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.6928774928774928, "t": 0.8068692684173584}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.5512820512820512, "t": 0.8065071105957031}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "WIDE8kbal", "bacc": 0.41422082459818305, "t": 14.196836233139038}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "WIDE8kbal", "bacc": 0.5871767994409504, "t": 11.527659893035889}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "WIDE8kbal", "bacc": 0.6107816711590296, "t": 11.549181461334229}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "WIDE8kbal", "bacc": 0.5061253561253561, "t": 11.527894258499146}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "WIDE8kbal", "bacc": 0.5356125356125356, "t": 11.538424253463745}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "WIDE8kbal", "bacc": 0.5997554157931516, "t": 11.5378258228302}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "WIDE8kbal", "bacc": 0.5041928721174004, "t": 11.544524431228638}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "WIDE8kbal", "bacc": 0.6328840970350403, "t": 11.54532527923584}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "WIDE8kbal", "bacc": 0.7025641025641026, "t": 11.543385982513428}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "WIDE8kbal", "bacc": 0.4793447293447293, "t": 11.585065603256226}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "HYB-L1K20", "bacc": 0.4867924528301886, "t": 811.1769411563873}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "HYB-L1K20", "bacc": 0.4423076923076923, "t": 816.2769598960876}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "HYB-L1K20", "bacc": 0.5925925925925926, "t": 804.5521676540375}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.5379105520614954}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "TICL2-CGf", "bacc": 0.49895178197064993, "t": 2.4616353511810303}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.605695317959469}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "TICL2-CGf", "bacc": 0.46488469601677157, "t": 1.1140203475952148}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.7123090745732256}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "TICL2-CGf", "bacc": 0.5529200359389038, "t": 1.1060988903045654}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.5913105413105413}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "TICL2-CGf", "bacc": 0.5360398860398861, "t": 1.1077427864074707}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.6175213675213675}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "TICL2-CGf", "bacc": 0.6210826210826211, "t": 1.121910810470581}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.6093640810621942}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "TICL2-CGf", "bacc": 0.49301187980433264, "t": 1.1124725341796875}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.7105171208944793}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "TICL2-CGf", "bacc": 0.49231306778476586, "t": 1.1092209815979004}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.6866127583108715}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "TICL2-CGf", "bacc": 0.5529200359389038, "t": 1.1089403629302979}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.7977207977207977}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "TICL2-CGf", "bacc": 0.534900284900285, "t": 1.1095693111419678}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.5284900284900286}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "TICL2-CGf", "bacc": 0.5776353276353275, "t": 1.113020420074463}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "HYB-L1K20", "bacc": 0.4605171208944794, "t": 802.2192711830139}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "HYB-L1K20", "bacc": 0.6046470999301188, "t": 756.1442115306854}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "HYB-L1K20", "bacc": 0.46145552560646896, "t": 771.0907256603241}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "HYB-L1K20", "bacc": 0.590883190883191, "t": 753.8784325122833}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "HYB-L1K20", "bacc": 0.584045584045584, "t": 2029.8484127521515}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "RFbal", "bacc": 0.43186582809224316, "t": 20.823509216308594}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 0, "method": "RSEbal", "bacc": 0.47414395527603076, "t": 16.311450004577637}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "RFbal", "bacc": 0.40670859538784065, "t": 19.985334157943726}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 1, "method": "RSEbal", "bacc": 0.48305380852550667, "t": 25.266882181167603}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "RFbal", "bacc": 0.3845462713387242, "t": 20.49870467185974}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 2, "method": "RSEbal", "bacc": 0.4767295597484276, "t": 20.41461968421936}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "RFbal", "bacc": 0.39316239316239315, "t": 21.732584476470947}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 3, "method": "RSEbal", "bacc": 0.44800569800569806, "t": 17.73019051551819}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "RFbal", "bacc": 0.4280626780626781, "t": 21.861167669296265}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 4, "method": "RSEbal", "bacc": 0.48148148148148145, "t": 14.465848207473755}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "RFbal", "bacc": 0.40408805031446543, "t": 20.682873964309692}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 5, "method": "RSEbal", "bacc": 0.4619147449336129, "t": 19.53616952896118}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "RFbal", "bacc": 0.4315164220824598, "t": 22.849485158920288}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 6, "method": "RSEbal", "bacc": 0.480083857442348, "t": 23.16752338409424}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "RFbal", "bacc": 0.4415094339622641, "t": 22.083275318145752}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 7, "method": "RSEbal", "bacc": 0.4959568733153639, "t": 21.220561027526855}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "RFbal", "bacc": 0.4280626780626781, "t": 19.293614387512207}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 8, "method": "RSEbal", "bacc": 0.5, "t": 17.296714782714844}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "RFbal", "bacc": 0.39031339031339035, "t": 21.021668672561646}
+{"ds": "GEO-GSE50660-Methylation-Smoking", "split": 9, "method": "RSEbal", "bacc": 0.4166666666666667, "t": 18.189757347106934}

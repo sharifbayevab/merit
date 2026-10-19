@@ -1,0 +1,10 @@
+{"ds": "dev:TOX_171", "split": 0, "method": "NR-K20-E16-a0.03", "bacc": 0.798611111111111, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 20.435313940048218}
+{"ds": "dev:TOX_171", "split": 1, "method": "NR-K20-E16-a0.03", "bacc": 0.65625, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 16.770424127578735}
+{"ds": "dev:TOX_171", "split": 2, "method": "NR-K20-E16-a0.03", "bacc": 0.7430555555555556, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 17.800443172454834}
+{"ds": "dev:TOX_171", "split": 3, "method": "NR-K20-E16-a0.03", "bacc": 0.8888888888888888, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 17.866826057434082}
+{"ds": "dev:TOX_171", "split": 4, "method": "NR-K20-E16-a0.03", "bacc": 0.7698412698412699, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 17.03165102005005}
+{"ds": "dev:TOX_171", "split": 5, "method": "NR-K20-E16-a0.03", "bacc": 0.8333333333333334, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 12.212373971939087}
+{"ds": "dev:TOX_171", "split": 6, "method": "NR-K20-E16-a0.03", "bacc": 0.7430555555555556, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 16.773128032684326}
+{"ds": "dev:TOX_171", "split": 7, "method": "NR-K20-E16-a0.03", "bacc": 0.8611111111111112, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 16.363072872161865}
+{"ds": "dev:TOX_171", "split": 8, "method": "NR-K20-E16-a0.03", "bacc": 0.7395833333333333, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 12.649134874343872}
+{"ds": "dev:TOX_171", "split": 9, "method": "NR-K20-E16-a0.03", "bacc": 0.8611111111111112, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 15.783400774002075}

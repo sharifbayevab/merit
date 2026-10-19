@@ -1,0 +1,180 @@
+{"ds": "arcene", "split": 0, "red": "CGf", "head": "KTSP", "acc": 0.6, "bacc": 0.6161616161616161, "t_head": 0.0031473636627197266}
+{"ds": "arcene", "split": 0, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.7, "bacc": 0.696969696969697, "teacher_bacc": 0.7702020202020202, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 9.066381454467773}
+{"ds": "arcene", "split": 0, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.7, "bacc": 0.696969696969697, "teacher_bacc": 0.7702020202020202, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 3.9368789196014404}
+{"ds": "arcene", "split": 0, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.75, "bacc": 0.7626262626262625, "teacher_bacc": 0.7702020202020202, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 3.529099464416504}
+{"ds": "arcene", "split": 0, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.7, "bacc": 0.6919191919191919, "teacher_bacc": 0.7878787878787878, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 9.057096481323242}
+{"ds": "arcene", "split": 0, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.625, "bacc": 0.6085858585858586, "teacher_bacc": 0.7702020202020202, "agree_teacher": 0.75, "n_aug": 2126, "t_head": 4.248424291610718}
+{"ds": "arcene", "split": 0, "red": "F500", "head": "KTSP", "acc": 0.6, "bacc": 0.6161616161616161, "t_head": 0.021775484085083008}
+{"ds": "arcene", "split": 0, "red": "F500", "head": "T-PFN-TR2", "acc": 0.625, "bacc": 0.6237373737373737, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 30.796356201171875}
+{"ds": "arcene", "split": 0, "red": "F500", "head": "T-PFN-TR3", "acc": 0.65, "bacc": 0.6515151515151515, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 30.41666531562805}
+{"ds": "arcene", "split": 0, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.65, "bacc": 0.6616161616161615, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 24.845076084136963}
+{"ds": "arcene", "split": 0, "red": "F500", "head": "T-ICL-TR3", "acc": 0.625, "bacc": 0.6035353535353536, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.675, "n_aug": 3200, "t_head": 39.032649517059326}
+{"ds": "arcene", "split": 0, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.7, "bacc": 0.702020202020202, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.75, "n_aug": 1892, "t_head": 30.22739553451538}
+{"ds": "arcene", "split": 1, "red": "CGf", "head": "KTSP", "acc": 0.7, "bacc": 0.7171717171717171, "t_head": 0.006970882415771484}
+{"ds": "arcene", "split": 1, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.725, "bacc": 0.7348484848484849, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.875, "n_aug": 3200, "t_head": 3.5207912921905518}
+{"ds": "arcene", "split": 1, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.725, "bacc": 0.7297979797979798, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.875, "n_aug": 3200, "t_head": 4.515143871307373}
+{"ds": "arcene", "split": 1, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.725, "bacc": 0.7297979797979798, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.875, "n_aug": 3200, "t_head": 3.0923638343811035}
+{"ds": "arcene", "split": 1, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.725, "bacc": 0.7348484848484849, "teacher_bacc": 0.8484848484848485, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 7.289611101150513}
+{"ds": "arcene", "split": 1, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.725, "bacc": 0.7297979797979798, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.875, "n_aug": 2693, "t_head": 5.809340953826904}
+{"ds": "arcene", "split": 1, "red": "F500", "head": "KTSP", "acc": 0.725, "bacc": 0.7449494949494949, "t_head": 0.02091193199157715}
+{"ds": "arcene", "split": 1, "red": "F500", "head": "T-PFN-TR2", "acc": 0.675, "bacc": 0.6893939393939394, "teacher_bacc": 0.8484848484848485, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 32.72617721557617}
+{"ds": "arcene", "split": 1, "red": "F500", "head": "T-PFN-TR3", "acc": 0.675, "bacc": 0.6893939393939394, "teacher_bacc": 0.8484848484848485, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 14.180500268936157}
+{"ds": "arcene", "split": 1, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.7, "bacc": 0.7171717171717171, "teacher_bacc": 0.8484848484848485, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 8.997405052185059}
+{"ds": "arcene", "split": 1, "red": "F500", "head": "T-ICL-TR3", "acc": 0.7, "bacc": 0.702020202020202, "teacher_bacc": 0.8813131313131313, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 18.86575937271118}
+{"ds": "arcene", "split": 1, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.675, "bacc": 0.6792929292929293, "teacher_bacc": 0.8484848484848485, "agree_teacher": 0.775, "n_aug": 1614, "t_head": 9.458156108856201}
+{"ds": "arcene", "split": 2, "red": "CGf", "head": "KTSP", "acc": 0.725, "bacc": 0.7449494949494949, "t_head": 0.0033271312713623047}
+{"ds": "arcene", "split": 2, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.75, "bacc": 0.7626262626262625, "teacher_bacc": 0.8585858585858586, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 1.3054611682891846}
+{"ds": "arcene", "split": 2, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.725, "bacc": 0.7297979797979798, "teacher_bacc": 0.8585858585858586, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 1.4492030143737793}
+{"ds": "arcene", "split": 2, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.7, "bacc": 0.7171717171717171, "teacher_bacc": 0.8585858585858586, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.6486244201660156}
+{"ds": "arcene", "split": 2, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.75, "bacc": 0.7575757575757576, "teacher_bacc": 0.8358585858585859, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 3.6071083545684814}
+{"ds": "arcene", "split": 2, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.675, "bacc": 0.6843434343434344, "teacher_bacc": 0.8585858585858586, "agree_teacher": 0.775, "n_aug": 2188, "t_head": 1.4429800510406494}
+{"ds": "arcene", "split": 2, "red": "F500", "head": "KTSP", "acc": 0.7, "bacc": 0.7171717171717171, "t_head": 0.019593238830566406}
+{"ds": "arcene", "split": 2, "red": "F500", "head": "T-PFN-TR2", "acc": 0.725, "bacc": 0.7348484848484849, "teacher_bacc": 0.595959595959596, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 11.133044004440308}
+{"ds": "arcene", "split": 2, "red": "F500", "head": "T-PFN-TR3", "acc": 0.75, "bacc": 0.7575757575757576, "teacher_bacc": 0.595959595959596, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 8.964117288589478}
+{"ds": "arcene", "split": 2, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.725, "bacc": 0.7348484848484849, "teacher_bacc": 0.595959595959596, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 8.920457124710083}
+{"ds": "arcene", "split": 2, "red": "F500", "head": "T-ICL-TR3", "acc": 0.7, "bacc": 0.7121212121212122, "teacher_bacc": 0.6792929292929293, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 13.94333791732788}
+{"ds": "arcene", "split": 2, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.65, "bacc": 0.6565656565656566, "teacher_bacc": 0.595959595959596, "agree_teacher": 0.75, "n_aug": 1378, "t_head": 9.825427770614624}
+{"ds": "arcene", "split": 3, "red": "CGf", "head": "KTSP", "acc": 0.7, "bacc": 0.6930946291560103, "t_head": 0.003526449203491211}
+{"ds": "arcene", "split": 3, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.75, "bacc": 0.7365728900255755, "teacher_bacc": 0.7877237851662404, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.341907262802124}
+{"ds": "arcene", "split": 3, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.675, "bacc": 0.6560102301790282, "teacher_bacc": 0.7877237851662404, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.8024616241455078}
+{"ds": "arcene", "split": 3, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.7, "bacc": 0.6854219948849105, "teacher_bacc": 0.7877237851662404, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 1.6099743843078613}
+{"ds": "arcene", "split": 3, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.725, "bacc": 0.7071611253196931, "teacher_bacc": 0.7583120204603581, "agree_teacher": 0.9, "n_aug": 3200, "t_head": 3.2473297119140625}
+{"ds": "arcene", "split": 3, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.775, "bacc": 0.7583120204603581, "teacher_bacc": 0.7877237851662404, "agree_teacher": 0.825, "n_aug": 2762, "t_head": 1.7940514087677002}
+{"ds": "arcene", "split": 3, "red": "F500", "head": "KTSP", "acc": 0.75, "bacc": 0.7442455242966752, "t_head": 0.018408536911010742}
+{"ds": "arcene", "split": 3, "red": "F500", "head": "T-PFN-TR2", "acc": 0.675, "bacc": 0.6560102301790282, "teacher_bacc": 0.7953964194373402, "agree_teacher": 0.675, "n_aug": 3200, "t_head": 10.286458015441895}
+{"ds": "arcene", "split": 3, "red": "F500", "head": "T-PFN-TR3", "acc": 0.675, "bacc": 0.6483375959079284, "teacher_bacc": 0.7953964194373402, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 9.233062505722046}
+{"ds": "arcene", "split": 3, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.775, "bacc": 0.7736572890025575, "teacher_bacc": 0.7953964194373402, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 9.62515377998352}
+{"ds": "arcene", "split": 3, "red": "F500", "head": "T-ICL-TR3", "acc": 0.75, "bacc": 0.7289002557544757, "teacher_bacc": 0.8759590792838874, "agree_teacher": 0.675, "n_aug": 3200, "t_head": 14.007750988006592}
+{"ds": "arcene", "split": 3, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.7, "bacc": 0.670076726342711, "teacher_bacc": 0.7953964194373402, "agree_teacher": 0.75, "n_aug": 2274, "t_head": 9.80580735206604}
+{"ds": "arcene", "split": 4, "red": "CGf", "head": "KTSP", "acc": 0.65, "bacc": 0.6649616368286444, "t_head": 0.0027456283569335938}
+{"ds": "arcene", "split": 4, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.675, "bacc": 0.6943734015345269, "teacher_bacc": 0.7519181585677749, "agree_teacher": 0.675, "n_aug": 3200, "t_head": 1.0923607349395752}
+{"ds": "arcene", "split": 4, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.725, "bacc": 0.7455242966751918, "teacher_bacc": 0.7519181585677749, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 1.746931552886963}
+{"ds": "arcene", "split": 4, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.725, "bacc": 0.7531969309462916, "teacher_bacc": 0.7519181585677749, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.3717944622039795}
+{"ds": "arcene", "split": 4, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.75, "bacc": 0.7749360613810742, "teacher_bacc": 0.8976982097186701, "agree_teacher": 0.7, "n_aug": 3200, "t_head": 2.633037567138672}
+{"ds": "arcene", "split": 4, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.65, "bacc": 0.6649616368286444, "teacher_bacc": 0.7519181585677749, "agree_teacher": 0.75, "n_aug": 2496, "t_head": 1.3480734825134277}
+{"ds": "arcene", "split": 4, "red": "F500", "head": "KTSP", "acc": 0.725, "bacc": 0.7378516624040921, "t_head": 0.01857280731201172}
+{"ds": "arcene", "split": 4, "red": "F500", "head": "T-PFN-TR2", "acc": 0.675, "bacc": 0.6713554987212276, "teacher_bacc": 0.8759590792838874, "agree_teacher": 0.65, "n_aug": 3200, "t_head": 9.096609592437744}
+{"ds": "arcene", "split": 4, "red": "F500", "head": "T-PFN-TR3", "acc": 0.7, "bacc": 0.6930946291560103, "teacher_bacc": 0.8759590792838874, "agree_teacher": 0.675, "n_aug": 3200, "t_head": 9.499738693237305}
+{"ds": "arcene", "split": 4, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.6, "bacc": 0.5984654731457801, "teacher_bacc": 0.8759590792838874, "agree_teacher": 0.625, "n_aug": 3200, "t_head": 9.57658338546753}
+{"ds": "arcene", "split": 4, "red": "F500", "head": "T-ICL-TR3", "acc": 0.7, "bacc": 0.6930946291560103, "teacher_bacc": 0.8682864450127876, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 14.160917520523071}
+{"ds": "arcene", "split": 4, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.625, "bacc": 0.5971867007672634, "teacher_bacc": 0.8759590792838874, "agree_teacher": 0.6, "n_aug": 1741, "t_head": 10.215698480606079}
+{"ds": "arcene", "split": 5, "red": "CGf", "head": "KTSP", "acc": 0.8, "bacc": 0.8080808080808081, "t_head": 0.0037484169006347656}
+{"ds": "arcene", "split": 5, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.8, "bacc": 0.8080808080808081, "teacher_bacc": 0.803030303030303, "agree_teacher": 0.9, "n_aug": 3200, "t_head": 1.5987277030944824}
+{"ds": "arcene", "split": 5, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.8, "bacc": 0.797979797979798, "teacher_bacc": 0.803030303030303, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 1.6356191635131836}
+{"ds": "arcene", "split": 5, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.825, "bacc": 0.8308080808080808, "teacher_bacc": 0.803030303030303, "agree_teacher": 0.875, "n_aug": 3200, "t_head": 2.30391001701355}
+{"ds": "arcene", "split": 5, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.825, "bacc": 0.8257575757575758, "teacher_bacc": 0.8484848484848485, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 3.3136179447174072}
+{"ds": "arcene", "split": 5, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.725, "bacc": 0.7196969696969697, "teacher_bacc": 0.803030303030303, "agree_teacher": 0.775, "n_aug": 2818, "t_head": 1.6885876655578613}
+{"ds": "arcene", "split": 5, "red": "F500", "head": "KTSP", "acc": 0.675, "bacc": 0.6792929292929293, "t_head": 0.017737865447998047}
+{"ds": "arcene", "split": 5, "red": "F500", "head": "T-PFN-TR2", "acc": 0.725, "bacc": 0.7297979797979798, "teacher_bacc": 0.8308080808080808, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 9.354283332824707}
+{"ds": "arcene", "split": 5, "red": "F500", "head": "T-PFN-TR3", "acc": 0.75, "bacc": 0.7525252525252526, "teacher_bacc": 0.8308080808080808, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 9.308953523635864}
+{"ds": "arcene", "split": 5, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.7, "bacc": 0.7070707070707071, "teacher_bacc": 0.8308080808080808, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 9.707139253616333}
+{"ds": "arcene", "split": 5, "red": "F500", "head": "T-ICL-TR3", "acc": 0.775, "bacc": 0.7651515151515151, "teacher_bacc": 0.893939393939394, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 16.48352026939392}
+{"ds": "arcene", "split": 5, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.725, "bacc": 0.7196969696969697, "teacher_bacc": 0.8308080808080808, "agree_teacher": 0.85, "n_aug": 1827, "t_head": 10.7672700881958}
+{"ds": "arcene", "split": 6, "red": "CGf", "head": "KTSP", "acc": 0.725, "bacc": 0.7398989898989898, "t_head": 0.003612518310546875}
+{"ds": "arcene", "split": 6, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.75, "bacc": 0.7626262626262625, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.2393598556518555}
+{"ds": "arcene", "split": 6, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.725, "bacc": 0.7348484848484849, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.990067720413208}
+{"ds": "arcene", "split": 6, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.75, "bacc": 0.7626262626262625, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 2.21944522857666}
+{"ds": "arcene", "split": 6, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.75, "bacc": 0.7575757575757576, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 3.8133370876312256}
+{"ds": "arcene", "split": 6, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.775, "bacc": 0.7853535353535352, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.725, "n_aug": 2567, "t_head": 1.5389037132263184}
+{"ds": "arcene", "split": 6, "red": "F500", "head": "KTSP", "acc": 0.725, "bacc": 0.7348484848484849, "t_head": 0.019397497177124023}
+{"ds": "arcene", "split": 6, "red": "F500", "head": "T-PFN-TR2", "acc": 0.725, "bacc": 0.7297979797979798, "teacher_bacc": 0.7752525252525253, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 9.388682126998901}
+{"ds": "arcene", "split": 6, "red": "F500", "head": "T-PFN-TR3", "acc": 0.7, "bacc": 0.696969696969697, "teacher_bacc": 0.7752525252525253, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 9.39077639579773}
+{"ds": "arcene", "split": 6, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.7, "bacc": 0.696969696969697, "teacher_bacc": 0.7752525252525253, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 10.300102949142456}
+{"ds": "arcene", "split": 6, "red": "F500", "head": "T-ICL-TR3", "acc": 0.75, "bacc": 0.7474747474747474, "teacher_bacc": 0.9267676767676767, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 14.289963245391846}
+{"ds": "arcene", "split": 6, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.725, "bacc": 0.7247474747474747, "teacher_bacc": 0.7752525252525253, "agree_teacher": 0.75, "n_aug": 2145, "t_head": 9.476863861083984}
+{"ds": "arcene", "split": 7, "red": "CGf", "head": "KTSP", "acc": 0.775, "bacc": 0.7853535353535352, "t_head": 0.0033292770385742188}
+{"ds": "arcene", "split": 7, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.775, "bacc": 0.7904040404040404, "teacher_bacc": 0.9267676767676767, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.1451926231384277}
+{"ds": "arcene", "split": 7, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.775, "bacc": 0.7904040404040404, "teacher_bacc": 0.9267676767676767, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.635897159576416}
+{"ds": "arcene", "split": 7, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.775, "bacc": 0.7954545454545454, "teacher_bacc": 0.9267676767676767, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.5007588863372803}
+{"ds": "arcene", "split": 7, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.85, "bacc": 0.8585858585858586, "teacher_bacc": 0.9722222222222222, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 3.101241111755371}
+{"ds": "arcene", "split": 7, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.825, "bacc": 0.8358585858585859, "teacher_bacc": 0.9267676767676767, "agree_teacher": 0.85, "n_aug": 2396, "t_head": 1.4782929420471191}
+{"ds": "arcene", "split": 7, "red": "F500", "head": "KTSP", "acc": 0.75, "bacc": 0.7676767676767677, "t_head": 0.018407821655273438}
+{"ds": "arcene", "split": 7, "red": "F500", "head": "T-PFN-TR2", "acc": 0.75, "bacc": 0.7626262626262625, "teacher_bacc": 0.9545454545454546, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 8.883494138717651}
+{"ds": "arcene", "split": 7, "red": "F500", "head": "T-PFN-TR3", "acc": 0.75, "bacc": 0.7575757575757576, "teacher_bacc": 0.9545454545454546, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 8.51234221458435}
+{"ds": "arcene", "split": 7, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.775, "bacc": 0.7904040404040404, "teacher_bacc": 0.9545454545454546, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 8.571997165679932}
+{"ds": "arcene", "split": 7, "red": "F500", "head": "T-ICL-TR3", "acc": 0.8, "bacc": 0.803030303030303, "teacher_bacc": 0.9267676767676767, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 14.126055002212524}
+{"ds": "arcene", "split": 7, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.7, "bacc": 0.7171717171717171, "teacher_bacc": 0.9545454545454546, "agree_teacher": 0.75, "n_aug": 945, "t_head": 9.560210704803467}
+{"ds": "arcene", "split": 8, "red": "CGf", "head": "KTSP", "acc": 0.575, "bacc": 0.5690537084398977, "t_head": 0.00844430923461914}
+{"ds": "arcene", "split": 8, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.7, "bacc": 0.6854219948849105, "teacher_bacc": 0.6994884910485933, "agree_teacher": 0.875, "n_aug": 3200, "t_head": 1.2734894752502441}
+{"ds": "arcene", "split": 8, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.675, "bacc": 0.6483375959079284, "teacher_bacc": 0.6994884910485933, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 1.5581068992614746}
+{"ds": "arcene", "split": 8, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.6, "bacc": 0.5677749360613811, "teacher_bacc": 0.6994884910485933, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.4794549942016602}
+{"ds": "arcene", "split": 8, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.675, "bacc": 0.6560102301790282, "teacher_bacc": 0.8235294117647058, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 2.8803157806396484}
+{"ds": "arcene", "split": 8, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.6, "bacc": 0.5677749360613811, "teacher_bacc": 0.6994884910485933, "agree_teacher": 0.825, "n_aug": 2483, "t_head": 1.6604187488555908}
+{"ds": "arcene", "split": 8, "red": "F500", "head": "KTSP", "acc": 0.625, "bacc": 0.5971867007672634, "t_head": 0.018538475036621094}
+{"ds": "arcene", "split": 8, "red": "F500", "head": "T-PFN-TR2", "acc": 0.575, "bacc": 0.530690537084399, "teacher_bacc": 0.6112531969309463, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 9.088988780975342}
+{"ds": "arcene", "split": 8, "red": "F500", "head": "T-PFN-TR3", "acc": 0.55, "bacc": 0.5089514066496164, "teacher_bacc": 0.6112531969309463, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 8.63996171951294}
+{"ds": "arcene", "split": 8, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.575, "bacc": 0.530690537084399, "teacher_bacc": 0.6112531969309463, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 8.796770572662354}
+{"ds": "arcene", "split": 8, "red": "F500", "head": "T-ICL-TR3", "acc": 0.65, "bacc": 0.6035805626598465, "teacher_bacc": 0.7135549872122762, "agree_teacher": 0.9, "n_aug": 3200, "t_head": 12.9836745262146}
+{"ds": "arcene", "split": 8, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.625, "bacc": 0.5895140664961637, "teacher_bacc": 0.6112531969309463, "agree_teacher": 0.675, "n_aug": 1941, "t_head": 9.634192943572998}
+{"ds": "arcene", "split": 9, "red": "CGf", "head": "KTSP", "acc": 0.6, "bacc": 0.629156010230179, "t_head": 0.002940654754638672}
+{"ds": "arcene", "split": 9, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.6, "bacc": 0.6214833759590792, "teacher_bacc": 0.7301790281329923, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 0.8486616611480713}
+{"ds": "arcene", "split": 9, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.625, "bacc": 0.6432225063938619, "teacher_bacc": 0.7301790281329923, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.2398567199707031}
+{"ds": "arcene", "split": 9, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.6, "bacc": 0.6214833759590792, "teacher_bacc": 0.7301790281329923, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 1.2798151969909668}
+{"ds": "arcene", "split": 9, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.575, "bacc": 0.5997442455242966, "teacher_bacc": 0.7442455242966752, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 2.5366923809051514}
+{"ds": "arcene", "split": 9, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.65, "bacc": 0.6649616368286444, "teacher_bacc": 0.7301790281329923, "agree_teacher": 0.825, "n_aug": 2418, "t_head": 1.4502298831939697}
+{"ds": "arcene", "split": 9, "red": "F500", "head": "KTSP", "acc": 0.6, "bacc": 0.629156010230179, "t_head": 0.017873287200927734}
+{"ds": "arcene", "split": 9, "red": "F500", "head": "T-PFN-TR2", "acc": 0.525, "bacc": 0.5485933503836318, "teacher_bacc": 0.7084398976982097, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 9.137222051620483}
+{"ds": "arcene", "split": 9, "red": "F500", "head": "T-PFN-TR3", "acc": 0.6, "bacc": 0.6138107416879796, "teacher_bacc": 0.7084398976982097, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 9.039905786514282}
+{"ds": "arcene", "split": 9, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.55, "bacc": 0.5703324808184144, "teacher_bacc": 0.7084398976982097, "agree_teacher": 0.7, "n_aug": 3200, "t_head": 8.863425731658936}
+{"ds": "arcene", "split": 9, "red": "F500", "head": "T-ICL-TR3", "acc": 0.575, "bacc": 0.592071611253197, "teacher_bacc": 0.6930946291560103, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 14.247811079025269}
+{"ds": "arcene", "split": 9, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.65, "bacc": 0.6726342710997442, "teacher_bacc": 0.7084398976982097, "agree_teacher": 0.85, "n_aug": 1916, "t_head": 9.725052118301392}
+{"ds": "arcene", "split": 10, "red": "CGf", "head": "KTSP", "acc": 0.775, "bacc": 0.7853535353535352, "t_head": 0.003629446029663086}
+{"ds": "arcene", "split": 10, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.8, "bacc": 0.8080808080808081, "teacher_bacc": 0.8863636363636364, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 1.2769427299499512}
+{"ds": "arcene", "split": 10, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.7, "bacc": 0.7121212121212122, "teacher_bacc": 0.8863636363636364, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.4125640392303467}
+{"ds": "arcene", "split": 10, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.725, "bacc": 0.7449494949494949, "teacher_bacc": 0.8863636363636364, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 1.5435056686401367}
+{"ds": "arcene", "split": 10, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.7, "bacc": 0.702020202020202, "teacher_bacc": 0.8434343434343434, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 3.0000412464141846}
+{"ds": "arcene", "split": 10, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.7, "bacc": 0.7070707070707071, "teacher_bacc": 0.8863636363636364, "agree_teacher": 0.775, "n_aug": 2570, "t_head": 1.4705967903137207}
+{"ds": "arcene", "split": 10, "red": "F500", "head": "KTSP", "acc": 0.7, "bacc": 0.7171717171717171, "t_head": 0.017962217330932617}
+{"ds": "arcene", "split": 10, "red": "F500", "head": "T-PFN-TR2", "acc": 0.8, "bacc": 0.797979797979798, "teacher_bacc": 0.8762626262626263, "agree_teacher": 0.875, "n_aug": 3200, "t_head": 9.17573094367981}
+{"ds": "arcene", "split": 10, "red": "F500", "head": "T-PFN-TR3", "acc": 0.825, "bacc": 0.8257575757575758, "teacher_bacc": 0.8762626262626263, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 8.601926803588867}
+{"ds": "arcene", "split": 10, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.8, "bacc": 0.797979797979798, "teacher_bacc": 0.8762626262626263, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 8.76095175743103}
+{"ds": "arcene", "split": 10, "red": "F500", "head": "T-ICL-TR3", "acc": 0.75, "bacc": 0.7575757575757576, "teacher_bacc": 0.797979797979798, "agree_teacher": 0.65, "n_aug": 3200, "t_head": 14.629435539245605}
+{"ds": "arcene", "split": 10, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.725, "bacc": 0.7297979797979798, "teacher_bacc": 0.8762626262626263, "agree_teacher": 0.75, "n_aug": 1177, "t_head": 9.998413801193237}
+{"ds": "arcene", "split": 11, "red": "CGf", "head": "KTSP", "acc": 0.7, "bacc": 0.7070707070707071, "t_head": 0.003304004669189453}
+{"ds": "arcene", "split": 11, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.75, "bacc": 0.7525252525252526, "teacher_bacc": 0.7702020202020202, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.0487232208251953}
+{"ds": "arcene", "split": 11, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.725, "bacc": 0.7247474747474747, "teacher_bacc": 0.7702020202020202, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 1.3823935985565186}
+{"ds": "arcene", "split": 11, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.725, "bacc": 0.7297979797979798, "teacher_bacc": 0.7702020202020202, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.4116554260253906}
+{"ds": "arcene", "split": 11, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.7, "bacc": 0.702020202020202, "teacher_bacc": 0.8207070707070707, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 2.924633264541626}
+{"ds": "arcene", "split": 11, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.675, "bacc": 0.6691919191919192, "teacher_bacc": 0.7702020202020202, "agree_teacher": 0.75, "n_aug": 2668, "t_head": 1.4609065055847168}
+{"ds": "arcene", "split": 11, "red": "F500", "head": "KTSP", "acc": 0.675, "bacc": 0.6843434343434344, "t_head": 0.018261432647705078}
+{"ds": "arcene", "split": 11, "red": "F500", "head": "T-PFN-TR2", "acc": 0.7, "bacc": 0.696969696969697, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 8.898653030395508}
+{"ds": "arcene", "split": 11, "red": "F500", "head": "T-PFN-TR3", "acc": 0.675, "bacc": 0.6742424242424242, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 8.671735763549805}
+{"ds": "arcene", "split": 11, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.675, "bacc": 0.6792929292929293, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.725, "n_aug": 3200, "t_head": 8.780929327011108}
+{"ds": "arcene", "split": 11, "red": "F500", "head": "T-ICL-TR3", "acc": 0.625, "bacc": 0.6237373737373737, "teacher_bacc": 0.7373737373737375, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 13.945038795471191}
+{"ds": "arcene", "split": 11, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.65, "bacc": 0.6414141414141414, "teacher_bacc": 0.7474747474747474, "agree_teacher": 0.8, "n_aug": 2529, "t_head": 9.9851655960083}
+{"ds": "arcene", "split": 12, "red": "CGf", "head": "KTSP", "acc": 0.775, "bacc": 0.7752525252525253, "t_head": 0.0032930374145507812}
+{"ds": "arcene", "split": 12, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.75, "bacc": 0.7474747474747474, "teacher_bacc": 0.8434343434343434, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.1524581909179688}
+{"ds": "arcene", "split": 12, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.725, "bacc": 0.7247474747474747, "teacher_bacc": 0.8434343434343434, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.4315123558044434}
+{"ds": "arcene", "split": 12, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.7, "bacc": 0.7070707070707071, "teacher_bacc": 0.8434343434343434, "agree_teacher": 0.7, "n_aug": 3200, "t_head": 1.479447841644287}
+{"ds": "arcene", "split": 12, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.7, "bacc": 0.696969696969697, "teacher_bacc": 0.7929292929292929, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 3.041499137878418}
+{"ds": "arcene", "split": 12, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.675, "bacc": 0.6641414141414141, "teacher_bacc": 0.8434343434343434, "agree_teacher": 0.775, "n_aug": 2600, "t_head": 1.652223825454712}
+{"ds": "arcene", "split": 12, "red": "F500", "head": "KTSP", "acc": 0.7, "bacc": 0.6919191919191919, "t_head": 0.01768326759338379}
+{"ds": "arcene", "split": 12, "red": "F500", "head": "T-PFN-TR2", "acc": 0.7, "bacc": 0.6919191919191919, "teacher_bacc": 0.6919191919191919, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 8.642021894454956}
+{"ds": "arcene", "split": 12, "red": "F500", "head": "T-PFN-TR3", "acc": 0.65, "bacc": 0.6414141414141414, "teacher_bacc": 0.6919191919191919, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 8.853880405426025}
+{"ds": "arcene", "split": 12, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.675, "bacc": 0.6691919191919192, "teacher_bacc": 0.6919191919191919, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 8.748894214630127}
+{"ds": "arcene", "split": 12, "red": "F500", "head": "T-ICL-TR3", "acc": 0.65, "bacc": 0.6414141414141414, "teacher_bacc": 0.8207070707070707, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 13.27495527267456}
+{"ds": "arcene", "split": 12, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.675, "bacc": 0.6691919191919192, "teacher_bacc": 0.6919191919191919, "agree_teacher": 0.825, "n_aug": 1812, "t_head": 8.992767810821533}
+{"ds": "arcene", "split": 13, "red": "CGf", "head": "KTSP", "acc": 0.675, "bacc": 0.6943734015345269, "t_head": 0.0029382705688476562}
+{"ds": "arcene", "split": 13, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.625, "bacc": 0.6355498721227621, "teacher_bacc": 0.7225063938618925, "agree_teacher": 0.85, "n_aug": 3200, "t_head": 0.9934818744659424}
+{"ds": "arcene", "split": 13, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.625, "bacc": 0.6278772378516624, "teacher_bacc": 0.7225063938618925, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 1.246431589126587}
+{"ds": "arcene", "split": 13, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.6, "bacc": 0.6214833759590792, "teacher_bacc": 0.7225063938618925, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.2820260524749756}
+{"ds": "arcene", "split": 13, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.625, "bacc": 0.6278772378516624, "teacher_bacc": 0.7813299232736572, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 2.5296525955200195}
+{"ds": "arcene", "split": 13, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.6, "bacc": 0.6061381074168798, "teacher_bacc": 0.7225063938618925, "agree_teacher": 0.775, "n_aug": 2395, "t_head": 1.2335493564605713}
+{"ds": "arcene", "split": 13, "red": "F500", "head": "KTSP", "acc": 0.6, "bacc": 0.6138107416879796, "t_head": 0.017518281936645508}
+{"ds": "arcene", "split": 13, "red": "F500", "head": "T-PFN-TR2", "acc": 0.625, "bacc": 0.6278772378516624, "teacher_bacc": 0.7953964194373402, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 8.769458532333374}
+{"ds": "arcene", "split": 13, "red": "F500", "head": "T-PFN-TR3", "acc": 0.625, "bacc": 0.6278772378516624, "teacher_bacc": 0.7953964194373402, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 8.24767255783081}
+{"ds": "arcene", "split": 13, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.6, "bacc": 0.6138107416879796, "teacher_bacc": 0.7953964194373402, "agree_teacher": 0.7, "n_aug": 3200, "t_head": 8.901412963867188}
+{"ds": "arcene", "split": 13, "red": "F500", "head": "T-ICL-TR3", "acc": 0.65, "bacc": 0.6342710997442456, "teacher_bacc": 0.8465473145780051, "agree_teacher": 0.7, "n_aug": 3200, "t_head": 12.856452226638794}
+{"ds": "arcene", "split": 13, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.575, "bacc": 0.5843989769820972, "teacher_bacc": 0.7953964194373402, "agree_teacher": 0.725, "n_aug": 2082, "t_head": 8.853166103363037}
+{"ds": "arcene", "split": 14, "red": "CGf", "head": "KTSP", "acc": 0.7, "bacc": 0.7161125319693095, "t_head": 0.003627777099609375}
+{"ds": "arcene", "split": 14, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.75, "bacc": 0.7595907928388747, "teacher_bacc": 0.8976982097186701, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 1.3794434070587158}
+{"ds": "arcene", "split": 14, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.775, "bacc": 0.7736572890025575, "teacher_bacc": 0.8976982097186701, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 1.5508558750152588}
+{"ds": "arcene", "split": 14, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.825, "bacc": 0.8324808184143222, "teacher_bacc": 0.8976982097186701, "agree_teacher": 0.825, "n_aug": 3200, "t_head": 1.5723087787628174}
+{"ds": "arcene", "split": 14, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.8, "bacc": 0.80306905370844, "teacher_bacc": 0.9271099744245523, "agree_teacher": 0.875, "n_aug": 3200, "t_head": 3.300105333328247}
+{"ds": "arcene", "split": 14, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.75, "bacc": 0.7519181585677749, "teacher_bacc": 0.8976982097186701, "agree_teacher": 0.8, "n_aug": 2665, "t_head": 1.9178540706634521}
+{"ds": "arcene", "split": 14, "red": "F500", "head": "KTSP", "acc": 0.725, "bacc": 0.7455242966751918, "t_head": 0.01747870445251465}
+{"ds": "arcene", "split": 14, "red": "F500", "head": "T-PFN-TR2", "acc": 0.725, "bacc": 0.7378516624040921, "teacher_bacc": 0.9053708439897699, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 8.84571647644043}
+{"ds": "arcene", "split": 14, "red": "F500", "head": "T-PFN-TR3", "acc": 0.725, "bacc": 0.7378516624040921, "teacher_bacc": 0.9053708439897699, "agree_teacher": 0.775, "n_aug": 3200, "t_head": 8.352139711380005}
+{"ds": "arcene", "split": 14, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.7, "bacc": 0.7084398976982097, "teacher_bacc": 0.9053708439897699, "agree_teacher": 0.75, "n_aug": 3200, "t_head": 9.221598625183105}
+{"ds": "arcene", "split": 14, "red": "F500", "head": "T-ICL-TR3", "acc": 0.75, "bacc": 0.7519181585677749, "teacher_bacc": 0.948849104859335, "agree_teacher": 0.8, "n_aug": 3200, "t_head": 12.798884630203247}
+{"ds": "arcene", "split": 14, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.75, "bacc": 0.7519181585677749, "teacher_bacc": 0.9053708439897699, "agree_teacher": 0.8, "n_aug": 1885, "t_head": 9.232710123062134}

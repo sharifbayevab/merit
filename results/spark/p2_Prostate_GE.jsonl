@@ -1,0 +1,180 @@
+{"ds": "Prostate_GE", "split": 0, "red": "CGf", "head": "KTSP", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "t_head": 0.00988459587097168}
+{"ds": "Prostate_GE", "split": 0, "red": "CGf", "head": "T-PFN-TR2", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 9.075364589691162}
+{"ds": "Prostate_GE", "split": 0, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.95, "agree_teacher": 0.8571428571428571, "n_aug": 1620, "t_head": 4.806931734085083}
+{"ds": "Prostate_GE", "split": 0, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.95, "agree_teacher": 0.8571428571428571, "n_aug": 1620, "t_head": 3.291123628616333}
+{"ds": "Prostate_GE", "split": 0, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.95, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 7.22702169418335}
+{"ds": "Prostate_GE", "split": 0, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.95, "agree_teacher": 0.8571428571428571, "n_aug": 1620, "t_head": 5.808984279632568}
+{"ds": "Prostate_GE", "split": 0, "red": "F500", "head": "KTSP", "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 0.013596057891845703}
+{"ds": "Prostate_GE", "split": 0, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 12.959890365600586}
+{"ds": "Prostate_GE", "split": 0, "red": "F500", "head": "T-PFN-TR3", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 10.146931648254395}
+{"ds": "Prostate_GE", "split": 0, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 10.610711574554443}
+{"ds": "Prostate_GE", "split": 0, "red": "F500", "head": "T-ICL-TR3", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 15.987272500991821}
+{"ds": "Prostate_GE", "split": 0, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1617, "t_head": 10.554179430007935}
+{"ds": "Prostate_GE", "split": 1, "red": "CGf", "head": "KTSP", "acc": 0.7619047619047619, "bacc": 0.759090909090909, "t_head": 0.013380289077758789}
+{"ds": "Prostate_GE", "split": 1, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.9045454545454545, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 5.202426433563232}
+{"ds": "Prostate_GE", "split": 1, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.9045454545454545, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 5.430401563644409}
+{"ds": "Prostate_GE", "split": 1, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.9045454545454545, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 5.739367961883545}
+{"ds": "Prostate_GE", "split": 1, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.9045454545454545, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 9.345492124557495}
+{"ds": "Prostate_GE", "split": 1, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.9045454545454545, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 3.446329116821289}
+{"ds": "Prostate_GE", "split": 1, "red": "F500", "head": "KTSP", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "t_head": 0.01133418083190918}
+{"ds": "Prostate_GE", "split": 1, "red": "F500", "head": "T-PFN-TR2", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.8590909090909091, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 11.953988552093506}
+{"ds": "Prostate_GE", "split": 1, "red": "F500", "head": "T-PFN-TR3", "acc": 0.7619047619047619, "bacc": 0.7681818181818182, "teacher_bacc": 0.8590909090909091, "agree_teacher": 0.9047619047619048, "n_aug": 1620, "t_head": 10.580340385437012}
+{"ds": "Prostate_GE", "split": 1, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.8590909090909091, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 10.495629787445068}
+{"ds": "Prostate_GE", "split": 1, "red": "F500", "head": "T-ICL-TR3", "acc": 0.7619047619047619, "bacc": 0.7681818181818182, "teacher_bacc": 0.8590909090909091, "agree_teacher": 0.9047619047619048, "n_aug": 1620, "t_head": 16.520873069763184}
+{"ds": "Prostate_GE", "split": 1, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.7619047619047619, "bacc": 0.7681818181818182, "teacher_bacc": 0.8590909090909091, "agree_teacher": 0.9047619047619048, "n_aug": 1620, "t_head": 11.617890357971191}
+{"ds": "Prostate_GE", "split": 2, "red": "CGf", "head": "KTSP", "acc": 0.85, "bacc": 0.8500000000000001, "t_head": 0.01089787483215332}
+{"ds": "Prostate_GE", "split": 2, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.85, "bacc": 0.8500000000000001, "teacher_bacc": 0.9, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 5.932323694229126}
+{"ds": "Prostate_GE", "split": 2, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.85, "bacc": 0.8500000000000001, "teacher_bacc": 0.9, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 4.605001449584961}
+{"ds": "Prostate_GE", "split": 2, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.85, "bacc": 0.8500000000000001, "teacher_bacc": 0.9, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 4.804958820343018}
+{"ds": "Prostate_GE", "split": 2, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.85, "bacc": 0.8500000000000001, "teacher_bacc": 0.8500000000000001, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 7.671549081802368}
+{"ds": "Prostate_GE", "split": 2, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.85, "bacc": 0.8500000000000001, "teacher_bacc": 0.9, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 5.802358865737915}
+{"ds": "Prostate_GE", "split": 2, "red": "F500", "head": "KTSP", "acc": 0.9, "bacc": 0.9, "t_head": 0.01261281967163086}
+{"ds": "Prostate_GE", "split": 2, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 11.62504768371582}
+{"ds": "Prostate_GE", "split": 2, "red": "F500", "head": "T-PFN-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 9.97706151008606}
+{"ds": "Prostate_GE", "split": 2, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 10.17347526550293}
+{"ds": "Prostate_GE", "split": 2, "red": "F500", "head": "T-ICL-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.8500000000000001, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 16.615785360336304}
+{"ds": "Prostate_GE", "split": 2, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 9.660081148147583}
+{"ds": "Prostate_GE", "split": 3, "red": "CGf", "head": "KTSP", "acc": 1.0, "bacc": 1.0, "t_head": 0.011028528213500977}
+{"ds": "Prostate_GE", "split": 3, "red": "CGf", "head": "T-PFN-TR2", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 4.809047698974609}
+{"ds": "Prostate_GE", "split": 3, "red": "CGf", "head": "T-PFN-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 5.1355321407318115}
+{"ds": "Prostate_GE", "split": 3, "red": "CGf", "head": "T-PFN-TR3m", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 4.909118413925171}
+{"ds": "Prostate_GE", "split": 3, "red": "CGf", "head": "T-ICL-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 8.813490867614746}
+{"ds": "Prostate_GE", "split": 3, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 4.717051267623901}
+{"ds": "Prostate_GE", "split": 3, "red": "F500", "head": "KTSP", "acc": 0.95, "bacc": 0.95, "t_head": 0.01260232925415039}
+{"ds": "Prostate_GE", "split": 3, "red": "F500", "head": "T-PFN-TR2", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 9.801784038543701}
+{"ds": "Prostate_GE", "split": 3, "red": "F500", "head": "T-PFN-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 11.99782419204712}
+{"ds": "Prostate_GE", "split": 3, "red": "F500", "head": "T-PFN-TR3m", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 11.151954174041748}
+{"ds": "Prostate_GE", "split": 3, "red": "F500", "head": "T-ICL-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 16.18324089050293}
+{"ds": "Prostate_GE", "split": 3, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 12.019479990005493}
+{"ds": "Prostate_GE", "split": 4, "red": "CGf", "head": "KTSP", "acc": 1.0, "bacc": 1.0, "t_head": 0.015949010848999023}
+{"ds": "Prostate_GE", "split": 4, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 5.3803391456604}
+{"ds": "Prostate_GE", "split": 4, "red": "CGf", "head": "T-PFN-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 4.945535182952881}
+{"ds": "Prostate_GE", "split": 4, "red": "CGf", "head": "T-PFN-TR3m", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 5.1469972133636475}
+{"ds": "Prostate_GE", "split": 4, "red": "CGf", "head": "T-ICL-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 8.040883302688599}
+{"ds": "Prostate_GE", "split": 4, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 5.089257478713989}
+{"ds": "Prostate_GE", "split": 4, "red": "F500", "head": "KTSP", "acc": 1.0, "bacc": 1.0, "t_head": 0.015466451644897461}
+{"ds": "Prostate_GE", "split": 4, "red": "F500", "head": "T-PFN-TR2", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 11.971022844314575}
+{"ds": "Prostate_GE", "split": 4, "red": "F500", "head": "T-PFN-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 11.579154253005981}
+{"ds": "Prostate_GE", "split": 4, "red": "F500", "head": "T-PFN-TR3m", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 11.329774379730225}
+{"ds": "Prostate_GE", "split": 4, "red": "F500", "head": "T-ICL-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 16.61287260055542}
+{"ds": "Prostate_GE", "split": 4, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 11.787379264831543}
+{"ds": "Prostate_GE", "split": 5, "red": "CGf", "head": "KTSP", "acc": 0.8571428571428571, "bacc": 0.8636363636363636, "t_head": 0.010378122329711914}
+{"ds": "Prostate_GE", "split": 5, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.9047619047619048, "bacc": 0.9090909090909092, "teacher_bacc": 0.9090909090909092, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 4.858052730560303}
+{"ds": "Prostate_GE", "split": 5, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.8571428571428571, "bacc": 0.8636363636363636, "teacher_bacc": 0.9090909090909092, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 4.898649215698242}
+{"ds": "Prostate_GE", "split": 5, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.8571428571428571, "bacc": 0.8636363636363636, "teacher_bacc": 0.9090909090909092, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 6.153903245925903}
+{"ds": "Prostate_GE", "split": 5, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.8571428571428571, "bacc": 0.8636363636363636, "teacher_bacc": 0.9090909090909092, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 9.049415349960327}
+{"ds": "Prostate_GE", "split": 5, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.8571428571428571, "bacc": 0.8636363636363636, "teacher_bacc": 0.9090909090909092, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 5.239199638366699}
+{"ds": "Prostate_GE", "split": 5, "red": "F500", "head": "KTSP", "acc": 0.9047619047619048, "bacc": 0.9090909090909092, "t_head": 0.013322591781616211}
+{"ds": "Prostate_GE", "split": 5, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9047619047619048, "bacc": 0.9090909090909092, "teacher_bacc": 0.8181818181818181, "agree_teacher": 0.9047619047619048, "n_aug": 1620, "t_head": 11.856737852096558}
+{"ds": "Prostate_GE", "split": 5, "red": "F500", "head": "T-PFN-TR3", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.8181818181818181, "agree_teacher": 0.8571428571428571, "n_aug": 1620, "t_head": 10.791796684265137}
+{"ds": "Prostate_GE", "split": 5, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.8181818181818181, "agree_teacher": 0.8571428571428571, "n_aug": 1620, "t_head": 9.555849552154541}
+{"ds": "Prostate_GE", "split": 5, "red": "F500", "head": "T-ICL-TR3", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.9090909090909092, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 17.557991981506348}
+{"ds": "Prostate_GE", "split": 5, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "teacher_bacc": 0.8181818181818181, "agree_teacher": 0.8571428571428571, "n_aug": 1616, "t_head": 13.14603853225708}
+{"ds": "Prostate_GE", "split": 6, "red": "CGf", "head": "KTSP", "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 0.010635614395141602}
+{"ds": "Prostate_GE", "split": 6, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.8571428571428571, "bacc": 0.85, "teacher_bacc": 0.9, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 6.574756145477295}
+{"ds": "Prostate_GE", "split": 6, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 0.9, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 3.987804412841797}
+{"ds": "Prostate_GE", "split": 6, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.9047619047619048, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9047619047619048, "n_aug": 1620, "t_head": 6.001928329467773}
+{"ds": "Prostate_GE", "split": 6, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 8.2365403175354}
+{"ds": "Prostate_GE", "split": 6, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 0.9, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 5.383833169937134}
+{"ds": "Prostate_GE", "split": 6, "red": "F500", "head": "KTSP", "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 0.01811051368713379}
+{"ds": "Prostate_GE", "split": 6, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 11.467995882034302}
+{"ds": "Prostate_GE", "split": 6, "red": "F500", "head": "T-PFN-TR3", "acc": 0.9047619047619048, "bacc": 0.9, "teacher_bacc": 0.95, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 12.177348852157593}
+{"ds": "Prostate_GE", "split": 6, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 12.376505136489868}
+{"ds": "Prostate_GE", "split": 6, "red": "F500", "head": "T-ICL-TR3", "acc": 0.9047619047619048, "bacc": 0.9, "teacher_bacc": 0.95, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 17.307207584381104}
+{"ds": "Prostate_GE", "split": 6, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.9047619047619048, "bacc": 0.9, "teacher_bacc": 0.95, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 10.910551309585571}
+{"ds": "Prostate_GE", "split": 7, "red": "CGf", "head": "KTSP", "acc": 0.9, "bacc": 0.9, "t_head": 0.011025190353393555}
+{"ds": "Prostate_GE", "split": 7, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 6.086532115936279}
+{"ds": "Prostate_GE", "split": 7, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 6.853439092636108}
+{"ds": "Prostate_GE", "split": 7, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.9, "agree_teacher": 0.85, "n_aug": 1640, "t_head": 5.428993225097656}
+{"ds": "Prostate_GE", "split": 7, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 8.902772665023804}
+{"ds": "Prostate_GE", "split": 7, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 5.757685899734497}
+{"ds": "Prostate_GE", "split": 7, "red": "F500", "head": "KTSP", "acc": 0.95, "bacc": 0.95, "t_head": 0.011786937713623047}
+{"ds": "Prostate_GE", "split": 7, "red": "F500", "head": "T-PFN-TR2", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.9, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 13.937318563461304}
+{"ds": "Prostate_GE", "split": 7, "red": "F500", "head": "T-PFN-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 13.225498914718628}
+{"ds": "Prostate_GE", "split": 7, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 12.775171995162964}
+{"ds": "Prostate_GE", "split": 7, "red": "F500", "head": "T-ICL-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 18.96894097328186}
+{"ds": "Prostate_GE", "split": 7, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1639, "t_head": 13.167698621749878}
+{"ds": "Prostate_GE", "split": 8, "red": "CGf", "head": "KTSP", "acc": 0.95, "bacc": 0.95, "t_head": 0.013014554977416992}
+{"ds": "Prostate_GE", "split": 8, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.9, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 6.691793918609619}
+{"ds": "Prostate_GE", "split": 8, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 6.999669551849365}
+{"ds": "Prostate_GE", "split": 8, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.9, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 6.139386892318726}
+{"ds": "Prostate_GE", "split": 8, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 10.100434064865112}
+{"ds": "Prostate_GE", "split": 8, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 6.313766241073608}
+{"ds": "Prostate_GE", "split": 8, "red": "F500", "head": "KTSP", "acc": 0.9, "bacc": 0.9, "t_head": 0.013958930969238281}
+{"ds": "Prostate_GE", "split": 8, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 15.536054372787476}
+{"ds": "Prostate_GE", "split": 8, "red": "F500", "head": "T-PFN-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 14.254958152770996}
+{"ds": "Prostate_GE", "split": 8, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 14.798030853271484}
+{"ds": "Prostate_GE", "split": 8, "red": "F500", "head": "T-ICL-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 20.88092041015625}
+{"ds": "Prostate_GE", "split": 8, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.9, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 12.3956458568573}
+{"ds": "Prostate_GE", "split": 9, "red": "CGf", "head": "KTSP", "acc": 0.9, "bacc": 0.9, "t_head": 0.016732454299926758}
+{"ds": "Prostate_GE", "split": 9, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 6.635343551635742}
+{"ds": "Prostate_GE", "split": 9, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 7.068958520889282}
+{"ds": "Prostate_GE", "split": 9, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 6.659402132034302}
+{"ds": "Prostate_GE", "split": 9, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 8.48250126838684}
+{"ds": "Prostate_GE", "split": 9, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 5.587850570678711}
+{"ds": "Prostate_GE", "split": 9, "red": "F500", "head": "KTSP", "acc": 0.95, "bacc": 0.95, "t_head": 0.012555837631225586}
+{"ds": "Prostate_GE", "split": 9, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 14.048928022384644}
+{"ds": "Prostate_GE", "split": 9, "red": "F500", "head": "T-PFN-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 13.343165874481201}
+{"ds": "Prostate_GE", "split": 9, "red": "F500", "head": "T-PFN-TR3m", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 14.174554824829102}
+{"ds": "Prostate_GE", "split": 9, "red": "F500", "head": "T-ICL-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 21.71575951576233}
+{"ds": "Prostate_GE", "split": 9, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 14.922547578811646}
+{"ds": "Prostate_GE", "split": 10, "red": "CGf", "head": "KTSP", "acc": 0.8571428571428571, "bacc": 0.8545454545454545, "t_head": 0.011430025100708008}
+{"ds": "Prostate_GE", "split": 10, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "teacher_bacc": 0.9545454545454546, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 6.760544538497925}
+{"ds": "Prostate_GE", "split": 10, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.9545454545454546, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 5.7485034465789795}
+{"ds": "Prostate_GE", "split": 10, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.9545454545454546, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 5.71038818359375}
+{"ds": "Prostate_GE", "split": 10, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.9045454545454545, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 9.168031692504883}
+{"ds": "Prostate_GE", "split": 10, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.9545454545454546, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 7.198868751525879}
+{"ds": "Prostate_GE", "split": 10, "red": "F500", "head": "KTSP", "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "t_head": 0.013091564178466797}
+{"ds": "Prostate_GE", "split": 10, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "teacher_bacc": 0.9545454545454546, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 15.145573139190674}
+{"ds": "Prostate_GE", "split": 10, "red": "F500", "head": "T-PFN-TR3", "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "teacher_bacc": 0.9545454545454546, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 12.551705360412598}
+{"ds": "Prostate_GE", "split": 10, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "teacher_bacc": 0.9545454545454546, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 15.500510931015015}
+{"ds": "Prostate_GE", "split": 10, "red": "F500", "head": "T-ICL-TR3", "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "teacher_bacc": 0.9545454545454546, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 19.640019178390503}
+{"ds": "Prostate_GE", "split": 10, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "teacher_bacc": 0.9545454545454546, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 13.385136127471924}
+{"ds": "Prostate_GE", "split": 11, "red": "CGf", "head": "KTSP", "acc": 1.0, "bacc": 1.0, "t_head": 0.011270761489868164}
+{"ds": "Prostate_GE", "split": 11, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 7.074565649032593}
+{"ds": "Prostate_GE", "split": 11, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 7.140188455581665}
+{"ds": "Prostate_GE", "split": 11, "red": "CGf", "head": "T-PFN-TR3m", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 7.043138027191162}
+{"ds": "Prostate_GE", "split": 11, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 10.46741008758545}
+{"ds": "Prostate_GE", "split": 11, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 3.986375570297241}
+{"ds": "Prostate_GE", "split": 11, "red": "F500", "head": "KTSP", "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 0.012296915054321289}
+{"ds": "Prostate_GE", "split": 11, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 13.406076669692993}
+{"ds": "Prostate_GE", "split": 11, "red": "F500", "head": "T-PFN-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 14.081091165542603}
+{"ds": "Prostate_GE", "split": 11, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9523809523809523, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 14.938411951065063}
+{"ds": "Prostate_GE", "split": 11, "red": "F500", "head": "T-ICL-TR3", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 0.95, "agree_teacher": 0.9523809523809523, "n_aug": 1620, "t_head": 21.846306085586548}
+{"ds": "Prostate_GE", "split": 11, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1620, "t_head": 15.989078044891357}
+{"ds": "Prostate_GE", "split": 12, "red": "CGf", "head": "KTSP", "acc": 0.75, "bacc": 0.75, "t_head": 0.015638113021850586}
+{"ds": "Prostate_GE", "split": 12, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 7.326416969299316}
+{"ds": "Prostate_GE", "split": 12, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 4.445069313049316}
+{"ds": "Prostate_GE", "split": 12, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 7.636781692504883}
+{"ds": "Prostate_GE", "split": 12, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 11.32580304145813}
+{"ds": "Prostate_GE", "split": 12, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 6.665917158126831}
+{"ds": "Prostate_GE", "split": 12, "red": "F500", "head": "KTSP", "acc": 0.8, "bacc": 0.8, "t_head": 0.01421809196472168}
+{"ds": "Prostate_GE", "split": 12, "red": "F500", "head": "T-PFN-TR2", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 16.77367615699768}
+{"ds": "Prostate_GE", "split": 12, "red": "F500", "head": "T-PFN-TR3", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 15.955721139907837}
+{"ds": "Prostate_GE", "split": 12, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 15.340782880783081}
+{"ds": "Prostate_GE", "split": 12, "red": "F500", "head": "T-ICL-TR3", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 23.55701208114624}
+{"ds": "Prostate_GE", "split": 12, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.8, "bacc": 0.8, "teacher_bacc": 0.8, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 16.020488023757935}
+{"ds": "Prostate_GE", "split": 13, "red": "CGf", "head": "KTSP", "acc": 0.95, "bacc": 0.95, "t_head": 0.013890504837036133}
+{"ds": "Prostate_GE", "split": 13, "red": "CGf", "head": "T-PFN-TR2", "acc": 1.0, "bacc": 1.0, "teacher_bacc": 1.0, "agree_teacher": 1.0, "n_aug": 1640, "t_head": 5.633103609085083}
+{"ds": "Prostate_GE", "split": 13, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 7.009055137634277}
+{"ds": "Prostate_GE", "split": 13, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 6.790478944778442}
+{"ds": "Prostate_GE", "split": 13, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 10.225704669952393}
+{"ds": "Prostate_GE", "split": 13, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 8.486892461776733}
+{"ds": "Prostate_GE", "split": 13, "red": "F500", "head": "KTSP", "acc": 0.95, "bacc": 0.95, "t_head": 0.013271570205688477}
+{"ds": "Prostate_GE", "split": 13, "red": "F500", "head": "T-PFN-TR2", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 15.785101890563965}
+{"ds": "Prostate_GE", "split": 13, "red": "F500", "head": "T-PFN-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 1.0, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 14.267071008682251}
+{"ds": "Prostate_GE", "split": 13, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 1.0, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 15.086098432540894}
+{"ds": "Prostate_GE", "split": 13, "red": "F500", "head": "T-ICL-TR3", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 1.0, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 22.364842653274536}
+{"ds": "Prostate_GE", "split": 13, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 1.0, "agree_teacher": 0.9, "n_aug": 1638, "t_head": 16.843589067459106}
+{"ds": "Prostate_GE", "split": 14, "red": "CGf", "head": "KTSP", "acc": 0.9, "bacc": 0.9, "t_head": 0.015696048736572266}
+{"ds": "Prostate_GE", "split": 14, "red": "CGf", "head": "T-PFN-TR2", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 8.70293927192688}
+{"ds": "Prostate_GE", "split": 14, "red": "CGf", "head": "T-PFN-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 10.131815433502197}
+{"ds": "Prostate_GE", "split": 14, "red": "CGf", "head": "T-PFN-TR3m", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 7.778630018234253}
+{"ds": "Prostate_GE", "split": 14, "red": "CGf", "head": "T-ICL-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 14.553948640823364}
+{"ds": "Prostate_GE", "split": 14, "red": "CGf", "head": "T-PFN-TR3-c8", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 12.175011157989502}
+{"ds": "Prostate_GE", "split": 14, "red": "F500", "head": "KTSP", "acc": 0.9, "bacc": 0.9, "t_head": 0.014902591705322266}
+{"ds": "Prostate_GE", "split": 14, "red": "F500", "head": "T-PFN-TR2", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 19.331295013427734}
+{"ds": "Prostate_GE", "split": 14, "red": "F500", "head": "T-PFN-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 0.9, "n_aug": 1640, "t_head": 19.728262186050415}
+{"ds": "Prostate_GE", "split": 14, "red": "F500", "head": "T-PFN-TR3m", "acc": 0.9, "bacc": 0.9, "teacher_bacc": 0.95, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 21.070215702056885}
+{"ds": "Prostate_GE", "split": 14, "red": "F500", "head": "T-ICL-TR3", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 1.0, "agree_teacher": 0.95, "n_aug": 1640, "t_head": 25.945557594299316}
+{"ds": "Prostate_GE", "split": 14, "red": "F500", "head": "T-PFN-TR3-c8", "acc": 0.95, "bacc": 0.95, "teacher_bacc": 0.95, "agree_teacher": 0.9, "n_aug": 1638, "t_head": 21.44058847427368}

@@ -1,0 +1,75 @@
+{"ds": "Prostate_GE", "split": 0, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.006127119064331055, "acc": 1.0, "bacc": 1.0, "t_head": 5.724990129470825}
+{"ds": "Prostate_GE", "split": 0, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.01690196990966797, "acc": 0.9047619047619048, "bacc": 0.9, "t_head": 3.4696261882781982}
+{"ds": "Prostate_GE", "split": 0, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.11351299285888672, "n_groups_total": 625, "mean_group_size": 7.025, "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 1.3793540000915527}
+{"ds": "Prostate_GE", "split": 0, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.0966951847076416, "n_groups_total": 625, "mean_group_size": 1.655, "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 1.2027921676635742}
+{"ds": "Prostate_GE", "split": 0, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08502793312072754, "n_groups_total": 625, "mean_group_size": 7.025, "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "t_head": 1.1692700386047363}
+{"ds": "Prostate_GE", "split": 1, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.009325027465820312, "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "t_head": 3.639224052429199}
+{"ds": "Prostate_GE", "split": 1, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.01731586456298828, "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "t_head": 3.7520828247070312}
+{"ds": "Prostate_GE", "split": 1, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.10054421424865723, "n_groups_total": 634, "mean_group_size": 7.1, "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "t_head": 1.156113862991333}
+{"ds": "Prostate_GE", "split": 1, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.09793996810913086, "n_groups_total": 634, "mean_group_size": 1.615, "acc": 0.9047619047619048, "bacc": 0.9045454545454545, "t_head": 1.1267011165618896}
+{"ds": "Prostate_GE", "split": 1, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.07973909378051758, "n_groups_total": 634, "mean_group_size": 7.1, "acc": 0.8571428571428571, "bacc": 0.8590909090909091, "t_head": 1.1563811302185059}
+{"ds": "Prostate_GE", "split": 2, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.01337122917175293, "acc": 0.9, "bacc": 0.9, "t_head": 3.583962917327881}
+{"ds": "Prostate_GE", "split": 2, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.015354156494140625, "acc": 0.9, "bacc": 0.9, "t_head": 3.5943522453308105}
+{"ds": "Prostate_GE", "split": 2, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.10260891914367676, "n_groups_total": 522, "mean_group_size": 7.88, "acc": 0.9, "bacc": 0.9, "t_head": 1.2898690700531006}
+{"ds": "Prostate_GE", "split": 2, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.09207010269165039, "n_groups_total": 522, "mean_group_size": 2.735, "acc": 0.9, "bacc": 0.9, "t_head": 1.231353759765625}
+{"ds": "Prostate_GE", "split": 2, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.0850522518157959, "n_groups_total": 522, "mean_group_size": 7.88, "acc": 0.9, "bacc": 0.9, "t_head": 1.3016648292541504}
+{"ds": "Prostate_GE", "split": 3, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.013124942779541016, "acc": 1.0, "bacc": 1.0, "t_head": 3.6677370071411133}
+{"ds": "Prostate_GE", "split": 3, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.017856121063232422, "acc": 1.0, "bacc": 1.0, "t_head": 3.5882771015167236}
+{"ds": "Prostate_GE", "split": 3, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.10094976425170898, "n_groups_total": 805, "mean_group_size": 5.565, "acc": 0.95, "bacc": 0.95, "t_head": 1.1450321674346924}
+{"ds": "Prostate_GE", "split": 3, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.0878288745880127, "n_groups_total": 805, "mean_group_size": 1.69, "acc": 0.95, "bacc": 0.95, "t_head": 1.2016041278839111}
+{"ds": "Prostate_GE", "split": 3, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.0911569595336914, "n_groups_total": 805, "mean_group_size": 5.565, "acc": 0.95, "bacc": 0.95, "t_head": 1.1875362396240234}
+{"ds": "Prostate_GE", "split": 4, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.008728742599487305, "acc": 0.9, "bacc": 0.9, "t_head": 3.525982141494751}
+{"ds": "Prostate_GE", "split": 4, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.014227867126464844, "acc": 0.95, "bacc": 0.95, "t_head": 3.547410726547241}
+{"ds": "Prostate_GE", "split": 4, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.09090685844421387, "n_groups_total": 569, "mean_group_size": 7.56, "acc": 0.95, "bacc": 0.95, "t_head": 1.186671257019043}
+{"ds": "Prostate_GE", "split": 4, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.09656000137329102, "n_groups_total": 569, "mean_group_size": 1.79, "acc": 0.95, "bacc": 0.95, "t_head": 1.1513988971710205}
+{"ds": "Prostate_GE", "split": 4, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.16807293891906738, "n_groups_total": 569, "mean_group_size": 7.56, "acc": 0.95, "bacc": 0.95, "t_head": 1.3685598373413086}
+{"ds": "Prostate_GE", "split": 5, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.011851787567138672, "acc": 0.8571428571428571, "bacc": 0.8636363636363636, "t_head": 3.607046365737915}
+{"ds": "Prostate_GE", "split": 5, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.015998125076293945, "acc": 0.9047619047619048, "bacc": 0.9090909090909092, "t_head": 3.6753082275390625}
+{"ds": "Prostate_GE", "split": 5, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.1069800853729248, "n_groups_total": 448, "mean_group_size": 8.36, "acc": 0.9047619047619048, "bacc": 0.9090909090909092, "t_head": 1.119832992553711}
+{"ds": "Prostate_GE", "split": 5, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.09130406379699707, "n_groups_total": 448, "mean_group_size": 2.04, "acc": 0.9047619047619048, "bacc": 0.9090909090909092, "t_head": 1.163240909576416}
+{"ds": "Prostate_GE", "split": 5, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08433294296264648, "n_groups_total": 448, "mean_group_size": 8.36, "acc": 0.9047619047619048, "bacc": 0.9090909090909092, "t_head": 1.1478278636932373}
+{"ds": "Prostate_GE", "split": 6, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.010707855224609375, "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 3.488018035888672}
+{"ds": "Prostate_GE", "split": 6, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.015324831008911133, "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 3.5052080154418945}
+{"ds": "Prostate_GE", "split": 6, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.10709500312805176, "n_groups_total": 750, "mean_group_size": 6.35, "acc": 0.9047619047619048, "bacc": 0.9, "t_head": 1.1441380977630615}
+{"ds": "Prostate_GE", "split": 6, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.07932782173156738, "n_groups_total": 750, "mean_group_size": 1.575, "acc": 0.9047619047619048, "bacc": 0.9, "t_head": 1.1856529712677002}
+{"ds": "Prostate_GE", "split": 6, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08873867988586426, "n_groups_total": 750, "mean_group_size": 6.35, "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 1.1841001510620117}
+{"ds": "Prostate_GE", "split": 7, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.01001286506652832, "acc": 0.85, "bacc": 0.8500000000000001, "t_head": 3.438636064529419}
+{"ds": "Prostate_GE", "split": 7, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.012927055358886719, "acc": 1.0, "bacc": 1.0, "t_head": 3.4122629165649414}
+{"ds": "Prostate_GE", "split": 7, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.0973351001739502, "n_groups_total": 736, "mean_group_size": 6.385, "acc": 0.9, "bacc": 0.9, "t_head": 1.171544075012207}
+{"ds": "Prostate_GE", "split": 7, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.0856618881225586, "n_groups_total": 736, "mean_group_size": 1.695, "acc": 1.0, "bacc": 1.0, "t_head": 1.1862168312072754}
+{"ds": "Prostate_GE", "split": 7, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.1008152961730957, "n_groups_total": 736, "mean_group_size": 6.385, "acc": 0.95, "bacc": 0.95, "t_head": 1.1562490463256836}
+{"ds": "Prostate_GE", "split": 8, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.01233983039855957, "acc": 0.9, "bacc": 0.9, "t_head": 3.668409824371338}
+{"ds": "Prostate_GE", "split": 8, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.018885135650634766, "acc": 0.85, "bacc": 0.8500000000000001, "t_head": 3.5675978660583496}
+{"ds": "Prostate_GE", "split": 8, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.10420799255371094, "n_groups_total": 591, "mean_group_size": 7.265, "acc": 0.9, "bacc": 0.9, "t_head": 1.142716884613037}
+{"ds": "Prostate_GE", "split": 8, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.08648014068603516, "n_groups_total": 591, "mean_group_size": 1.67, "acc": 0.85, "bacc": 0.8500000000000001, "t_head": 1.1461689472198486}
+{"ds": "Prostate_GE", "split": 8, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.0953519344329834, "n_groups_total": 591, "mean_group_size": 7.265, "acc": 0.9, "bacc": 0.9, "t_head": 1.1626801490783691}
+{"ds": "Prostate_GE", "split": 9, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.010256767272949219, "acc": 0.95, "bacc": 0.95, "t_head": 3.3318979740142822}
+{"ds": "Prostate_GE", "split": 9, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.0157928466796875, "acc": 0.9, "bacc": 0.9, "t_head": 3.356323003768921}
+{"ds": "Prostate_GE", "split": 9, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.11310791969299316, "n_groups_total": 639, "mean_group_size": 7.125, "acc": 1.0, "bacc": 1.0, "t_head": 1.171658992767334}
+{"ds": "Prostate_GE", "split": 9, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.08456230163574219, "n_groups_total": 639, "mean_group_size": 1.84, "acc": 1.0, "bacc": 1.0, "t_head": 1.1363511085510254}
+{"ds": "Prostate_GE", "split": 9, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08846211433410645, "n_groups_total": 639, "mean_group_size": 7.125, "acc": 1.0, "bacc": 1.0, "t_head": 1.0856730937957764}
+{"ds": "Prostate_GE", "split": 10, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.011696100234985352, "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "t_head": 3.4599990844726562}
+{"ds": "Prostate_GE", "split": 10, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.01611804962158203, "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "t_head": 3.602540969848633}
+{"ds": "Prostate_GE", "split": 10, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.11482787132263184, "n_groups_total": 590, "mean_group_size": 7.4, "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "t_head": 1.1498112678527832}
+{"ds": "Prostate_GE", "split": 10, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.08853507041931152, "n_groups_total": 590, "mean_group_size": 2.2, "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "t_head": 1.1525321006774902}
+{"ds": "Prostate_GE", "split": 10, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08686304092407227, "n_groups_total": 590, "mean_group_size": 7.4, "acc": 0.9523809523809523, "bacc": 0.9545454545454546, "t_head": 1.1773576736450195}
+{"ds": "Prostate_GE", "split": 11, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.01099705696105957, "acc": 1.0, "bacc": 1.0, "t_head": 3.496868133544922}
+{"ds": "Prostate_GE", "split": 11, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.016521930694580078, "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 3.5168259143829346}
+{"ds": "Prostate_GE", "split": 11, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.10435295104980469, "n_groups_total": 596, "mean_group_size": 7.335, "acc": 1.0, "bacc": 1.0, "t_head": 1.1458110809326172}
+{"ds": "Prostate_GE", "split": 11, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.0822598934173584, "n_groups_total": 596, "mean_group_size": 2.05, "acc": 1.0, "bacc": 1.0, "t_head": 1.153573989868164}
+{"ds": "Prostate_GE", "split": 11, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08831191062927246, "n_groups_total": 596, "mean_group_size": 7.335, "acc": 0.9523809523809523, "bacc": 0.95, "t_head": 1.1835441589355469}
+{"ds": "Prostate_GE", "split": 12, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.011934995651245117, "acc": 0.8, "bacc": 0.8, "t_head": 3.3493940830230713}
+{"ds": "Prostate_GE", "split": 12, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.01392984390258789, "acc": 0.85, "bacc": 0.8500000000000001, "t_head": 3.3136677742004395}
+{"ds": "Prostate_GE", "split": 12, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.09945797920227051, "n_groups_total": 471, "mean_group_size": 8.225, "acc": 0.8, "bacc": 0.8, "t_head": 1.191667079925537}
+{"ds": "Prostate_GE", "split": 12, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.08082699775695801, "n_groups_total": 471, "mean_group_size": 1.6, "acc": 0.75, "bacc": 0.75, "t_head": 1.1391329765319824}
+{"ds": "Prostate_GE", "split": 12, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08492612838745117, "n_groups_total": 471, "mean_group_size": 8.225, "acc": 0.8, "bacc": 0.8, "t_head": 1.1029839515686035}
+{"ds": "Prostate_GE", "split": 13, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.009279966354370117, "acc": 1.0, "bacc": 1.0, "t_head": 3.459829092025757}
+{"ds": "Prostate_GE", "split": 13, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.017361879348754883, "acc": 1.0, "bacc": 1.0, "t_head": 3.441021203994751}
+{"ds": "Prostate_GE", "split": 13, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.08411693572998047, "n_groups_total": 887, "mean_group_size": 5.535, "acc": 1.0, "bacc": 1.0, "t_head": 1.1406662464141846}
+{"ds": "Prostate_GE", "split": 13, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.08791399002075195, "n_groups_total": 887, "mean_group_size": 1.6, "acc": 0.95, "bacc": 0.95, "t_head": 1.1211822032928467}
+{"ds": "Prostate_GE", "split": 13, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08177685737609863, "n_groups_total": 887, "mean_group_size": 5.535, "acc": 1.0, "bacc": 1.0, "t_head": 1.1273341178894043}
+{"ds": "Prostate_GE", "split": 14, "red": "F500", "head": "TPFN", "d_in": 500, "t_red": 0.011076211929321289, "acc": 0.95, "bacc": 0.95, "t_head": 3.4946370124816895}
+{"ds": "Prostate_GE", "split": 14, "red": "V500", "head": "TPFN", "d_in": 500, "t_red": 0.017464160919189453, "acc": 0.95, "bacc": 0.95, "t_head": 3.4254021644592285}
+{"ds": "Prostate_GE", "split": 14, "red": "CGf", "head": "TPFN", "d_in": 200, "t_red": 0.09375500679016113, "n_groups_total": 624, "mean_group_size": 7.06, "acc": 1.0, "bacc": 1.0, "t_head": 1.1787948608398438}
+{"ds": "Prostate_GE", "split": 14, "red": "CGm", "head": "TPFN", "d_in": 200, "t_red": 0.08797812461853027, "n_groups_total": 624, "mean_group_size": 1.525, "acc": 0.9, "bacc": 0.9, "t_head": 1.1411049365997314}
+{"ds": "Prostate_GE", "split": 14, "red": "CGp", "head": "TPFN", "d_in": 200, "t_red": 0.08310484886169434, "n_groups_total": 624, "mean_group_size": 7.06, "acc": 0.9, "bacc": 0.9, "t_head": 1.1233842372894287}

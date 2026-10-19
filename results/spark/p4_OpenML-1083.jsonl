@@ -1,0 +1,162 @@
+{"ds": "OpenML-1083", "split": 0, "method": "DENSITY", "D": 0.23316118579276474, "inner_lr_all": 0.6525910736437053, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 0, "method": "LR", "bacc": 0.7463893249607535, "t": 12.150928735733032}
+{"ds": "OpenML-1083", "split": 0, "method": "XGB", "bacc": 0.6392464678178964, "t": 62.50324320793152}
+{"ds": "OpenML-1083", "split": 0, "method": "TR2m", "bacc": 0.6182888540031398, "t": 0.7638497352600098}
+{"ds": "OpenML-1083", "split": 0, "method": "KTSP", "bacc": 0.6197802197802197, "t": 0.26303529739379883}
+{"ds": "OpenML-1083", "split": 0, "method": "HYB-K20", "bacc": 0.7474097331240188, "t": 6.770534038543701}
+{"ds": "OpenML-1083", "split": 0, "method": "WIDE8k", "bacc": 0.7259811616954475, "t": 8.600651502609253}
+{"ds": "OpenML-1083", "split": 1, "method": "DENSITY", "D": 0.244819118503329, "inner_lr_all": 0.6689931900458216, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 1, "method": "WIDE8k", "bacc": 0.7568027210884354, "t": 6.334931135177612}
+{"ds": "OpenML-1083", "split": 2, "method": "DENSITY", "D": 0.21848940533151046, "inner_lr_all": 0.6400179742285005, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 2, "method": "WIDE8k", "bacc": 0.6377551020408163, "t": 6.421800374984741}
+{"ds": "OpenML-1083", "split": 3, "method": "DENSITY", "D": 0.2575858839016734, "inner_lr_all": 0.7078681552365763, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 3, "method": "WIDE8k", "bacc": 0.7185374149659864, "t": 6.259279489517212}
+{"ds": "OpenML-1083", "split": 4, "method": "DENSITY", "D": 0.24522923470291896, "inner_lr_all": 0.7127844864686971, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 4, "method": "WIDE8k", "bacc": 0.5807823129251701, "t": 6.369491100311279}
+{"ds": "OpenML-1083", "split": 5, "method": "DENSITY", "D": 0.1721690590111643, "inner_lr_all": 0.6583959899749373, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 5, "method": "WIDE8k", "bacc": 0.645133437990581, "t": 6.318407773971558}
+{"ds": "OpenML-1083", "split": 6, "method": "DENSITY", "D": 0.1926217057796007, "inner_lr_all": 0.7227120832383992, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 6, "method": "WIDE8k", "bacc": 0.6683673469387754, "t": 6.24467396736145}
+{"ds": "OpenML-1083", "split": 7, "method": "DENSITY", "D": 0.19769119769119775, "inner_lr_all": 0.6975696817802081, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 7, "method": "WIDE8k", "bacc": 0.7117346938775511, "t": 6.266983985900879}
+{"ds": "OpenML-1083", "split": 8, "method": "DENSITY", "D": 0.1045505177084124, "inner_lr_all": 0.6292397660818714, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 8, "method": "WIDE8k", "bacc": 0.6394557823129251, "t": 6.2578911781311035}
+{"ds": "OpenML-1083", "split": 9, "method": "DENSITY", "D": 0.2345016581858686, "inner_lr_all": 0.7055289739500266, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 9, "method": "WIDE8k", "bacc": 0.6113945578231293, "t": 6.24137544631958}
+{"ds": "OpenML-1083", "split": 0, "method": "HYB-L1K20", "bacc": 0.7869701726844583, "t": 709.8264651298523}
+{"ds": "OpenML-1083", "split": 0, "method": "HYB-K50", "bacc": 0.6902668759811618, "t": 6.00881552696228}
+{"ds": "OpenML-1083", "split": 0, "method": "TPFN-CGf", "bacc": 0.778806907378336, "t": 3.0491673946380615}
+{"ds": "OpenML-1083", "split": 1, "method": "DENSITY", "D": 0.244819118503329, "inner_lr_all": 0.6689931900458216, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 1, "method": "LR", "bacc": 0.7899659863945578, "t": 14.075193881988525}
+{"ds": "OpenML-1083", "split": 1, "method": "XGB", "bacc": 0.7704081632653061, "t": 71.76488447189331}
+{"ds": "OpenML-1083", "split": 1, "method": "TR2m", "bacc": 0.7695578231292517, "t": 0.892106294631958}
+{"ds": "OpenML-1083", "split": 1, "method": "KTSP", "bacc": 0.7891156462585034, "t": 0.2417004108428955}
+{"ds": "OpenML-1083", "split": 1, "method": "HYB-K20", "bacc": 0.8248299319727891, "t": 11.084473609924316}
+{"ds": "OpenML-1083", "split": 1, "method": "HYB-L1K20", "bacc": 0.7976190476190476, "t": 729.2994408607483}
+{"ds": "OpenML-1083", "split": 1, "method": "HYB-K50", "bacc": 0.836734693877551, "t": 5.532751798629761}
+{"ds": "OpenML-1083", "split": 1, "method": "TPFN-CGf", "bacc": 0.8452380952380952, "t": 0.8319776058197021}
+{"ds": "OpenML-1083", "split": 2, "method": "DENSITY", "D": 0.21848940533151046, "inner_lr_all": 0.6400179742285005, "n": 214, "d": 30000, "C": 7, "grouped": false}
+{"ds": "OpenML-1083", "split": 2, "method": "LR", "bacc": 0.772108843537415, "t": 13.934616327285767}
+{"ds": "OpenML-1083", "split": 2, "method": "XGB", "bacc": 0.733843537414966, "t": 68.65906071662903}
+{"ds": "OpenML-1083", "split": 2, "method": "TR2m", "bacc": 0.6598639455782312, "t": 0.8826959133148193}
+{"ds": "OpenML-1083", "split": 2, "method": "KTSP", "bacc": 0.4957482993197279, "t": 0.2266216278076172}
+{"ds": "OpenML-1083", "split": 2, "method": "HYB-K20", "bacc": 0.8554421768707483, "t": 5.460726737976074}
+{"ds": "OpenML-1083", "split": 2, "method": "HYB-K50", "bacc": 0.8350340136054423, "t": 6.486338376998901}
+{"ds": "OpenML-1083", "split": 2, "method": "TPFN-CGf", "bacc": 0.8401360544217688, "t": 3.421250343322754}
+{"ds": "OpenML-1083", "split": 3, "method": "LR", "bacc": 0.7185374149659864, "t": 22.063589572906494}
+{"ds": "OpenML-1083", "split": 3, "method": "XGB", "bacc": 0.7942176870748299, "t": 78.55156707763672}
+{"ds": "OpenML-1083", "split": 3, "method": "TR2m", "bacc": 0.6649659863945578, "t": 0.7848751544952393}
+{"ds": "OpenML-1083", "split": 3, "method": "KTSP", "bacc": 0.48299319727891155, "t": 0.25173521041870117}
+{"ds": "OpenML-1083", "split": 3, "method": "HYB-K20", "bacc": 0.7916666666666666, "t": 8.894717693328857}
+{"ds": "OpenML-1083", "split": 3, "method": "HYB-K50", "bacc": 0.6955782312925171, "t": 6.96628737449646}
+{"ds": "OpenML-1083", "split": 3, "method": "TPFN-CGf", "bacc": 0.7891156462585034, "t": 0.57562255859375}
+{"ds": "OpenML-1083", "split": 4, "method": "LR", "bacc": 0.6139455782312925, "t": 17.230772495269775}
+{"ds": "OpenML-1083", "split": 4, "method": "XGB", "bacc": 0.4744897959183674, "t": 76.83341312408447}
+{"ds": "OpenML-1083", "split": 4, "method": "TR2m", "bacc": 0.6904761904761905, "t": 2.1205296516418457}
+{"ds": "OpenML-1083", "split": 4, "method": "KTSP", "bacc": 0.48384353741496605, "t": 0.48759889602661133}
+{"ds": "OpenML-1083", "split": 4, "method": "HYB-K20", "bacc": 0.7304421768707483, "t": 7.644918203353882}
+{"ds": "OpenML-1083", "split": 4, "method": "HYB-K50", "bacc": 0.7857142857142857, "t": 6.360822916030884}
+{"ds": "OpenML-1083", "split": 4, "method": "TPFN-CGf", "bacc": 0.6989795918367346, "t": 1.0263028144836426}
+{"ds": "OpenML-1083", "split": 5, "method": "LR", "bacc": 0.5631868131868132, "t": 12.750558137893677}
+{"ds": "OpenML-1083", "split": 5, "method": "XGB", "bacc": 0.578021978021978, "t": 82.13350057601929}
+{"ds": "OpenML-1083", "split": 5, "method": "TR2m", "bacc": 0.5999215070643642, "t": 0.764582633972168}
+{"ds": "OpenML-1083", "split": 5, "method": "KTSP", "bacc": 0.6146781789638932, "t": 0.23483824729919434}
+{"ds": "OpenML-1083", "split": 5, "method": "HYB-K20", "bacc": 0.7208791208791209, "t": 6.449637174606323}
+{"ds": "OpenML-1083", "split": 5, "method": "HYB-K50", "bacc": 0.7318681318681319, "t": 6.516462326049805}
+{"ds": "OpenML-1083", "split": 5, "method": "TPFN-CGf", "bacc": 0.7808477237048665, "t": 0.45632243156433105}
+{"ds": "OpenML-1083", "split": 6, "method": "LR", "bacc": 0.7193877551020408, "t": 14.848875761032104}
+{"ds": "OpenML-1083", "split": 6, "method": "XGB", "bacc": 0.6811224489795918, "t": 85.00167679786682}
+{"ds": "OpenML-1083", "split": 6, "method": "TR2m", "bacc": 0.6811224489795918, "t": 0.9027760028839111}
+{"ds": "OpenML-1083", "split": 6, "method": "KTSP", "bacc": 0.4209183673469387, "t": 0.24522995948791504}
+{"ds": "OpenML-1083", "split": 6, "method": "HYB-K20", "bacc": 0.6913265306122449, "t": 6.446670770645142}
+{"ds": "OpenML-1083", "split": 6, "method": "HYB-K50", "bacc": 0.7159863945578231, "t": 12.114103078842163}
+{"ds": "OpenML-1083", "split": 6, "method": "TPFN-CGf", "bacc": 0.7346938775510204, "t": 0.620084285736084}
+{"ds": "OpenML-1083", "split": 7, "method": "LR", "bacc": 0.7227891156462585, "t": 18.73661756515503}
+{"ds": "OpenML-1083", "split": 7, "method": "XGB", "bacc": 0.7049319727891156, "t": 94.55936455726624}
+{"ds": "OpenML-1083", "split": 7, "method": "TR2m", "bacc": 0.6190476190476192, "t": 0.7679853439331055}
+{"ds": "OpenML-1083", "split": 7, "method": "KTSP", "bacc": 0.5442176870748299, "t": 0.2548079490661621}
+{"ds": "OpenML-1083", "split": 7, "method": "HYB-K20", "bacc": 0.7525510204081632, "t": 6.221188306808472}
+{"ds": "OpenML-1083", "split": 7, "method": "HYB-K50", "bacc": 0.7797619047619048, "t": 6.570553779602051}
+{"ds": "OpenML-1083", "split": 7, "method": "TPFN-CGf", "bacc": 0.8103741496598639, "t": 1.0162358283996582}
+{"ds": "OpenML-1083", "split": 8, "method": "LR", "bacc": 0.8035714285714286, "t": 22.653207540512085}
+{"ds": "OpenML-1083", "split": 8, "method": "XGB", "bacc": 0.71343537414966, "t": 89.19364762306213}
+{"ds": "OpenML-1083", "split": 8, "method": "TR2m", "bacc": 0.5671768707482994, "t": 0.7850866317749023}
+{"ds": "OpenML-1083", "split": 8, "method": "KTSP", "bacc": 0.23554421768707481, "t": 0.23418831825256348}
+{"ds": "OpenML-1083", "split": 8, "method": "HYB-K20", "bacc": 0.7329931972789117, "t": 5.7640461921691895}
+{"ds": "OpenML-1083", "split": 8, "method": "HYB-K50", "bacc": 0.6955782312925171, "t": 9.119204759597778}
+{"ds": "OpenML-1083", "split": 8, "method": "TPFN-CGf", "bacc": 0.7253401360544218, "t": 0.42954230308532715}
+{"ds": "OpenML-1083", "split": 9, "method": "LR", "bacc": 0.6726190476190476, "t": 15.413780450820923}
+{"ds": "OpenML-1083", "split": 2, "method": "HYB-L1K20", "bacc": 0.8146258503401361, "t": 779.0933814048767}
+{"ds": "OpenML-1083", "split": 9, "method": "XGB", "bacc": 0.6802721088435374, "t": 79.35755753517151}
+{"ds": "OpenML-1083", "split": 9, "method": "TR2m", "bacc": 0.6394557823129251, "t": 0.8385250568389893}
+{"ds": "OpenML-1083", "split": 9, "method": "KTSP", "bacc": 0.5714285714285714, "t": 0.391679048538208}
+{"ds": "OpenML-1083", "split": 9, "method": "HYB-K20", "bacc": 0.8086734693877551, "t": 5.696232318878174}
+{"ds": "OpenML-1083", "split": 9, "method": "HYB-K50", "bacc": 0.733843537414966, "t": 6.9121057987213135}
+{"ds": "OpenML-1083", "split": 9, "method": "TPFN-CGf", "bacc": 0.8061224489795918, "t": 1.021364450454712}
+{"ds": "OpenML-1083", "split": 3, "method": "HYB-L1K20", "bacc": 0.7185374149659864, "t": 809.9142212867737}
+{"ds": "OpenML-1083", "split": 4, "method": "HYB-L1K20", "bacc": 0.7687074829931974, "t": 2017.2911460399628}
+{"ds": "OpenML-1083", "split": 5, "method": "HYB-L1K20", "bacc": 0.7086342229199373, "t": 2085.247730255127}
+{"ds": "OpenML-1083", "split": 6, "method": "HYB-L1K20", "bacc": 0.6615646258503401, "t": 713.2652795314789}
+{"ds": "OpenML-1083", "split": 7, "method": "HYB-L1K20", "bacc": 0.778061224489796, "t": 701.039472579956}
+{"ds": "OpenML-1083", "split": 8, "method": "HYB-L1K20", "bacc": 0.7908163265306122, "t": 699.3082807064056}
+{"ds": "OpenML-1083", "split": 9, "method": "HYB-L1K20", "bacc": 0.6879251700680271, "t": 706.9335918426514}
+{"ds": "OpenML-1083", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.6912872841444271, "t": 1.8548626899719238}
+{"ds": "OpenML-1083", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.8401360544217686, "t": 0.4236578941345215}
+{"ds": "OpenML-1083", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.8656462585034015, "t": 0.4162101745605469}
+{"ds": "OpenML-1083", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.7789115646258503, "t": 0.42445898056030273}
+{"ds": "OpenML-1083", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.7193877551020408, "t": 0.42999958992004395}
+{"ds": "OpenML-1083", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.6917582417582417, "t": 0.42162656784057617}
+{"ds": "OpenML-1083", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.7448979591836735, "t": 0.4256429672241211}
+{"ds": "OpenML-1083", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.8282312925170068, "t": 0.4157373905181885}
+{"ds": "OpenML-1083", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.8010204081632653, "t": 0.42455554008483887}
+{"ds": "OpenML-1083", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.7474489795918366, "t": 0.4232778549194336}
+{"ds": "OpenML-1083", "split": 0, "method": "WIDE8kbal", "bacc": 0.6741758241758242, "t": 8.314173698425293}
+{"ds": "OpenML-1083", "split": 1, "method": "WIDE8kbal", "bacc": 0.7236394557823129, "t": 6.166592121124268}
+{"ds": "OpenML-1083", "split": 2, "method": "WIDE8kbal", "bacc": 0.6352040816326531, "t": 6.2517335414886475}
+{"ds": "OpenML-1083", "split": 3, "method": "WIDE8kbal", "bacc": 0.7006802721088435, "t": 6.174569606781006}
+{"ds": "OpenML-1083", "split": 4, "method": "WIDE8kbal", "bacc": 0.5425170068027211, "t": 6.205393075942993}
+{"ds": "OpenML-1083", "split": 5, "method": "WIDE8kbal", "bacc": 0.6203296703296702, "t": 6.195955038070679}
+{"ds": "OpenML-1083", "split": 6, "method": "WIDE8kbal", "bacc": 0.7159863945578231, "t": 6.211440563201904}
+{"ds": "OpenML-1083", "split": 7, "method": "WIDE8kbal", "bacc": 0.7925170068027211, "t": 6.194048881530762}
+{"ds": "OpenML-1083", "split": 8, "method": "WIDE8kbal", "bacc": 0.6649659863945577, "t": 6.189242124557495}
+{"ds": "OpenML-1083", "split": 9, "method": "WIDE8kbal", "bacc": 0.5629251700680272, "t": 6.2428975105285645}
+{"ds": "OpenML-1083", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.704552590266876}
+{"ds": "OpenML-1083", "split": 0, "method": "TICL2-CGf", "bacc": 0.7073783359497645, "t": 2.074047565460205}
+{"ds": "OpenML-1083", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.8290816326530612}
+{"ds": "OpenML-1083", "split": 1, "method": "TICL2-CGf", "bacc": 0.822278911564626, "t": 0.7501499652862549}
+{"ds": "OpenML-1083", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.9115646258503401}
+{"ds": "OpenML-1083", "split": 2, "method": "TICL2-CGf", "bacc": 0.8758503401360545, "t": 0.7457892894744873}
+{"ds": "OpenML-1083", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.8137755102040816}
+{"ds": "OpenML-1083", "split": 3, "method": "TICL2-CGf", "bacc": 0.7763605442176871, "t": 0.7541306018829346}
+{"ds": "OpenML-1083", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.7551020408163265}
+{"ds": "OpenML-1083", "split": 4, "method": "TICL2-CGf", "bacc": 0.6564625850340136, "t": 0.7645547389984131}
+{"ds": "OpenML-1083", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.6609105180533751}
+{"ds": "OpenML-1083", "split": 5, "method": "TICL2-CGf", "bacc": 0.7032967032967034, "t": 0.7454500198364258}
+{"ds": "OpenML-1083", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.7746598639455783}
+{"ds": "OpenML-1083", "split": 6, "method": "TICL2-CGf", "bacc": 0.8027210884353743, "t": 0.7574262619018555}
+{"ds": "OpenML-1083", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.8180272108843537}
+{"ds": "OpenML-1083", "split": 7, "method": "TICL2-CGf", "bacc": 0.8001700680272109, "t": 0.7498395442962646}
+{"ds": "OpenML-1083", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.8239795918367347}
+{"ds": "OpenML-1083", "split": 8, "method": "TICL2-CGf", "bacc": 0.8086734693877551, "t": 0.7557306289672852}
+{"ds": "OpenML-1083", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.8571428571428571}
+{"ds": "OpenML-1083", "split": 9, "method": "TICL2-CGf", "bacc": 0.8979591836734694, "t": 0.7515530586242676}
+{"ds": "OpenML-1083", "split": 0, "method": "RFbal", "bacc": 0.6298273155416013, "t": 8.230518817901611}
+{"ds": "OpenML-1083", "split": 0, "method": "RSEbal", "bacc": 0.7392464678178963, "t": 19.33265471458435}
+{"ds": "OpenML-1083", "split": 1, "method": "RFbal", "bacc": 0.7066326530612246, "t": 8.200640201568604}
+{"ds": "OpenML-1083", "split": 1, "method": "RSEbal", "bacc": 0.7797619047619049, "t": 30.142755031585693}
+{"ds": "OpenML-1083", "split": 2, "method": "RFbal", "bacc": 0.7159863945578231, "t": 7.196330785751343}
+{"ds": "OpenML-1083", "split": 2, "method": "RSEbal", "bacc": 0.7517006802721088, "t": 23.464735984802246}
+{"ds": "OpenML-1083", "split": 3, "method": "RFbal", "bacc": 0.6335034013605442, "t": 8.007476091384888}
+{"ds": "OpenML-1083", "split": 3, "method": "RSEbal", "bacc": 0.7542517006802721, "t": 19.240665912628174}
+{"ds": "OpenML-1083", "split": 4, "method": "RFbal", "bacc": 0.4209183673469388, "t": 7.471806526184082}
+{"ds": "OpenML-1083", "split": 4, "method": "RSEbal", "bacc": 0.6394557823129251, "t": 16.259328603744507}
+{"ds": "OpenML-1083", "split": 5, "method": "RFbal", "bacc": 0.564756671899529, "t": 7.7638185024261475}
+{"ds": "OpenML-1083", "split": 5, "method": "RSEbal", "bacc": 0.5784929356357927, "t": 18.54174494743347}
+{"ds": "OpenML-1083", "split": 6, "method": "RFbal", "bacc": 0.6130952380952381, "t": 8.353350400924683}
+{"ds": "OpenML-1083", "split": 6, "method": "RSEbal", "bacc": 0.6964285714285714, "t": 17.9712655544281}
+{"ds": "OpenML-1083", "split": 7, "method": "RFbal", "bacc": 0.6496598639455782, "t": 7.5270490646362305}
+{"ds": "OpenML-1083", "split": 7, "method": "RSEbal", "bacc": 0.8435374149659864, "t": 26.368419408798218}
+{"ds": "OpenML-1083", "split": 8, "method": "RFbal", "bacc": 0.697278911564626, "t": 8.519189596176147}
+{"ds": "OpenML-1083", "split": 8, "method": "RSEbal", "bacc": 0.8239795918367346, "t": 12.951292753219604}
+{"ds": "OpenML-1083", "split": 9, "method": "RFbal", "bacc": 0.5654761904761905, "t": 9.092283248901367}
+{"ds": "OpenML-1083", "split": 9, "method": "RSEbal", "bacc": 0.7236394557823128, "t": 22.442254543304443}

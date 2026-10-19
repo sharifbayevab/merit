@@ -1,0 +1,10 @@
+{"ds": "TDC-AMES", "split": 0, "method": "HYB-ENS", "bacc": 0.5477941176470589, "t": 2.1088268756866455}
+{"ds": "TDC-AMES", "split": 1, "method": "HYB-ENS", "bacc": 0.6487332339791356, "t": 1.8842151165008545}
+{"ds": "TDC-AMES", "split": 2, "method": "HYB-ENS", "bacc": 0.695679012345679, "t": 1.913595199584961}
+{"ds": "TDC-AMES", "split": 3, "method": "HYB-ENS", "bacc": 0.6613861386138613, "t": 1.7717878818511963}
+{"ds": "TDC-AMES", "split": 4, "method": "HYB-ENS", "bacc": 0.6450819672131147, "t": 1.695401906967163}
+{"ds": "TDC-AMES", "split": 5, "method": "HYB-ENS", "bacc": 0.49313186813186816, "t": 1.9048869609832764}
+{"ds": "TDC-AMES", "split": 6, "method": "HYB-ENS", "bacc": 0.7432659932659933, "t": 1.9120569229125977}
+{"ds": "TDC-AMES", "split": 7, "method": "HYB-ENS", "bacc": 0.6908216783216783, "t": 1.8156681060791016}
+{"ds": "TDC-AMES", "split": 8, "method": "HYB-ENS", "bacc": 0.7104984093319193, "t": 1.7986531257629395}
+{"ds": "TDC-AMES", "split": 9, "method": "HYB-ENS", "bacc": 0.7402282947077137, "t": 2.0022478103637695}

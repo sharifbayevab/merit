@@ -1,0 +1,10 @@
+{"ds": "dev:arcene", "split": 0, "method": "NR-K20-E16-a0.03", "bacc": 0.803030303030303, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 26.396425008773804}
+{"ds": "dev:arcene", "split": 1, "method": "NR-K20-E16-a0.03", "bacc": 0.8106060606060606, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 26.09948205947876}
+{"ds": "dev:arcene", "split": 2, "method": "NR-K20-E16-a0.03", "bacc": 0.7803030303030303, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 24.75684094429016}
+{"ds": "dev:arcene", "split": 3, "method": "NR-K20-E16-a0.03", "bacc": 0.7506393861892583, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 18.399199962615967}
+{"ds": "dev:arcene", "split": 4, "method": "NR-K20-E16-a0.03", "bacc": 0.8542199488491049, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 26.015968084335327}
+{"ds": "dev:arcene", "split": 5, "method": "NR-K20-E16-a0.03", "bacc": 0.9267676767676767, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 26.766844034194946}
+{"ds": "dev:arcene", "split": 6, "method": "NR-K20-E16-a0.03", "bacc": 0.904040404040404, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 26.883898735046387}
+{"ds": "dev:arcene", "split": 7, "method": "NR-K20-E16-a0.03", "bacc": 0.9267676767676767, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 25.979909896850586}
+{"ds": "dev:arcene", "split": 8, "method": "NR-K20-E16-a0.03", "bacc": 0.7800511508951407, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 26.163398265838623}
+{"ds": "dev:arcene", "split": 9, "method": "NR-K20-E16-a0.03", "bacc": 0.7378516624040921, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 26.62415385246277}

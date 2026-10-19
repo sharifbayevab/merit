@@ -1,0 +1,160 @@
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "DENSITY", "D": -0.038766989308994804, "inner_lr_all": 0.8743366941198919, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "WIDE8k", "bacc": 0.8914447134786118, "t": 20.459240913391113}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "DENSITY", "D": -0.02070931677977761, "inner_lr_all": 0.8720670326361383, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "WIDE8k", "bacc": 0.9178981937602627, "t": 16.140750646591187}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "DENSITY", "D": -0.052376473948839264, "inner_lr_all": 0.8664812958887994, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "WIDE8k", "bacc": 0.9, "t": 17.82147216796875}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "DENSITY", "D": -0.02664535909002863, "inner_lr_all": 0.8638453251178865, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "WIDE8k", "bacc": 0.926984126984127, "t": 17.395808935165405}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "DENSITY", "D": -0.020265342038179868, "inner_lr_all": 0.8596559949515251, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "WIDE8k", "bacc": 0.9512061403508771, "t": 17.319815635681152}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "DENSITY", "D": -0.05071500884674829, "inner_lr_all": 0.8559018026412536, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "WIDE8k", "bacc": 0.9175688215279926, "t": 19.0617995262146}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "DENSITY", "D": -0.055593432964706646, "inner_lr_all": 0.8591320854193483, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "WIDE8k", "bacc": 0.9337301587301587, "t": 20.761643171310425}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "DENSITY", "D": -0.02372648488691631, "inner_lr_all": 0.8655675332910588, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "WIDE8k", "bacc": 0.9263771186440678, "t": 23.25220012664795}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "DENSITY", "D": -0.024186898876766838, "inner_lr_all": 0.8759499250475195, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "WIDE8k", "bacc": 0.9126676602086439, "t": 18.077060222625732}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "DENSITY", "D": -0.04361088575180716, "inner_lr_all": 0.8755597007629529, "n": 600, "d": 30000, "C": 2, "grouped": true}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "WIDE8k", "bacc": 0.8932291666666667, "t": 16.690088987350464}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "HYB-L1K20", "bacc": 0.9318181818181819, "t": 4.140063524246216}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "HYB-L1K20", "bacc": 0.9190207156308852, "t": 3.7515909671783447}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "HYB-L1K20", "bacc": 0.914860681114551, "t": 3.1545591354370117}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "HYB-L1K20", "bacc": 0.9106045081967213, "t": 3.5447356700897217}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "HYB-L1K20", "bacc": 0.9338709677419355, "t": 4.474412202835083}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "HYB-L1K20", "bacc": 0.9136842105263158, "t": 2.80578875541687}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "HYB-L1K20", "bacc": 0.9262295081967213, "t": 2.574338674545288}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "HYB-L1K20", "bacc": 0.9207336523125997, "t": 2.5810816287994385}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "HYB-L1K20", "bacc": 0.967741935483871, "t": 1.8179333209991455}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "HYB-L1K20", "bacc": 0.8774193548387097, "t": 2.294511556625366}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "LR", "bacc": 0.9090909090909091, "t": 1.9648277759552002}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "XGB", "bacc": 0.946969696969697, "t": 56.7090106010437}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "TR2m", "bacc": 0.9393939393939394, "t": 0.7551531791687012}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "KTSP", "bacc": 0.8787878787878788, "t": 0.5301811695098877}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "HYB-K20", "bacc": 0.9318181818181819, "t": 2.2468881607055664}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "HYB-K50", "bacc": 0.9318181818181819, "t": 4.791466474533081}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "TPFN-CGf", "bacc": 0.9318181818181819, "t": 6.284023761749268}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "LR", "bacc": 0.8666038920276209, "t": 3.315209150314331}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "XGB", "bacc": 0.8920276208411801, "t": 63.08919143676758}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "TR2m", "bacc": 0.8727244193345889, "t": 0.4061427116394043}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "KTSP", "bacc": 0.8565599497802887, "t": 0.6941535472869873}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "HYB-K20", "bacc": 0.8943816698053986, "t": 2.6497442722320557}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "HYB-K50", "bacc": 0.9105461393596986, "t": 4.436274528503418}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "TPFN-CGf", "bacc": 0.9190207156308852, "t": 1.731929063796997}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "LR", "bacc": 0.8864809081527347, "t": 1.3536570072174072}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "XGB", "bacc": 0.93343653250774, "t": 65.6091480255127}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "TR2m", "bacc": 0.912796697626419, "t": 0.4266238212585449}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "KTSP", "bacc": 0.8854489164086687, "t": 0.39297056198120117}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "HYB-K20", "bacc": 0.868937048503612, "t": 1.830451488494873}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "HYB-K50", "bacc": 0.9040247678018576, "t": 2.7039194107055664}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "TPFN-CGf", "bacc": 0.9344685242518059, "t": 1.1097784042358398}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "LR", "bacc": 0.8469518442622951, "t": 2.123284339904785}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "XGB", "bacc": 0.8945952868852459, "t": 61.68027210235596}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "TR2m", "bacc": 0.8938268442622951, "t": 0.34227490425109863}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "KTSP", "bacc": 0.8957479508196722, "t": 0.3001713752746582}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "HYB-K20", "bacc": 0.8711577868852459, "t": 1.7081575393676758}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "HYB-K50", "bacc": 0.8629610655737705, "t": 3.1395230293273926}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "TPFN-CGf", "bacc": 0.9109887295081966, "t": 2.81057071685791}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "LR", "bacc": 0.8774193548387097, "t": 1.596909523010254}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "XGB", "bacc": 0.918010752688172, "t": 55.885308265686035}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "TR2m", "bacc": 0.9086021505376345, "t": 0.7905209064483643}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "KTSP", "bacc": 0.853494623655914, "t": 0.6872115135192871}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "HYB-K20", "bacc": 0.9016129032258065, "t": 2.345625877380371}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "HYB-K50", "bacc": 0.8690860215053764, "t": 2.608816146850586}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "TPFN-CGf", "bacc": 0.9102150537634408, "t": 1.3646042346954346}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "LR", "bacc": 0.8335087719298245, "t": 1.196727991104126}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "XGB", "bacc": 0.9073684210526316, "t": 45.56874656677246}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "TR2m", "bacc": 0.9149122807017545, "t": 0.314525842666626}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "KTSP", "bacc": 0.8398245614035087, "t": 0.4064216613769531}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "HYB-K20", "bacc": 0.852280701754386, "t": 1.404289722442627}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "HYB-K50", "bacc": 0.8198245614035088, "t": 2.8253564834594727}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "TPFN-CGf", "bacc": 0.906140350877193, "t": 2.7265477180480957}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "LR", "bacc": 0.91775956284153, "t": 1.1962895393371582}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "XGB", "bacc": 0.9178961748633879, "t": 46.995858669281006}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "TR2m", "bacc": 0.8769125683060108, "t": 0.30791449546813965}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "KTSP", "bacc": 0.91775956284153, "t": 0.30010461807250977}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "HYB-K20", "bacc": 0.9260928961748633, "t": 1.5534064769744873}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "HYB-K50", "bacc": 0.9262295081967213, "t": 2.791294813156128}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "TPFN-CGf", "bacc": 0.9013661202185792, "t": 2.5444650650024414}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "LR", "bacc": 0.9106858054226474, "t": 1.3636698722839355}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "XGB", "bacc": 0.9295055821371611, "t": 46.33925938606262}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "TR2m", "bacc": 0.9298245614035088, "t": 0.30792903900146484}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "KTSP", "bacc": 0.9019138755980861, "t": 0.2263016700744629}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "HYB-K20", "bacc": 0.9110047846889953, "t": 1.4060888290405273}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "HYB-K50", "bacc": 0.8759170653907495, "t": 2.2324023246765137}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "TPFN-CGf", "bacc": 0.9558213716108452, "t": 2.193413734436035}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "LR", "bacc": 0.9374389051808407, "t": 2.3344883918762207}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "XGB", "bacc": 0.967741935483871, "t": 49.71208882331848}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "TR2m", "bacc": 0.9364613880742914, "t": 0.3042490482330322}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "KTSP", "bacc": 0.9374389051808407, "t": 0.4041011333465576}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "HYB-K20", "bacc": 0.9283968719452591, "t": 1.3611621856689453}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "HYB-K50", "bacc": 0.9364613880742914, "t": 2.8762407302856445}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "TPFN-CGf", "bacc": 0.9450146627565983, "t": 2.4989516735076904}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "LR", "bacc": 0.8013824884792626, "t": 1.1227285861968994}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "XGB", "bacc": 0.8926267281105991, "t": 45.638540267944336}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "TR2m", "bacc": 0.8907834101382488, "t": 0.74656081199646}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "KTSP", "bacc": 0.8774193548387097, "t": 0.64884352684021}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "HYB-K20", "bacc": 0.8389400921658986, "t": 1.0027780532836914}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "HYB-K50", "bacc": 0.8389400921658986, "t": 1.7893059253692627}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "TPFN-CGf", "bacc": 0.9149769585253456, "t": 2.2278358936309814}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.9318181818181819, "t": 2.5961012840270996}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.9190207156308852, "t": 1.0342974662780762}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.9344685242518059, "t": 1.02693510055542}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.9191854508196722, "t": 1.0126948356628418}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.9102150537634408, "t": 1.0130209922790527}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.906140350877193, "t": 1.0304861068725586}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.9095628415300546, "t": 1.0253660678863525}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.9558213716108452, "t": 1.0203044414520264}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.9450146627565983, "t": 1.005993366241455}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.9149769585253456, "t": 1.0083105564117432}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "WIDE8kbal", "bacc": 0.8914447134786118, "t": 17.291301488876343}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "WIDE8kbal", "bacc": 0.9178981937602627, "t": 14.52081036567688}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "WIDE8kbal", "bacc": 0.9090909090909092, "t": 14.769191265106201}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "WIDE8kbal", "bacc": 0.926984126984127, "t": 14.487431287765503}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "WIDE8kbal", "bacc": 0.9512061403508771, "t": 14.479320764541626}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "WIDE8kbal", "bacc": 0.9175688215279926, "t": 14.555686473846436}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "WIDE8kbal", "bacc": 0.9337301587301587, "t": 14.48647165298462}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "WIDE8kbal", "bacc": 0.9263771186440678, "t": 14.496690511703491}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "WIDE8kbal", "bacc": 0.9126676602086439, "t": 14.543664455413818}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "WIDE8kbal", "bacc": 0.8932291666666667, "t": 14.579909563064575}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.9545454545454546}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "TICL2-CGf", "bacc": 0.9545454545454546, "t": 2.7688770294189453}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.9182360326428123}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "TICL2-CGf", "bacc": 0.9182360326428123, "t": 1.3972737789154053}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.93343653250774}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "TICL2-CGf", "bacc": 0.93343653250774, "t": 1.4003674983978271}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.9027920081967213}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "TICL2-CGf", "bacc": 0.9106045081967213, "t": 1.3907129764556885}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.9260752688172043}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "TICL2-CGf", "bacc": 0.9341397849462365, "t": 1.3942241668701172}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.916140350877193}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "TICL2-CGf", "bacc": 0.916140350877193, "t": 1.402397632598877}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.9096994535519125}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "TICL2-CGf", "bacc": 0.9015027322404372, "t": 1.4025800228118896}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.9470494417862838}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "TICL2-CGf", "bacc": 0.9470494417862838, "t": 1.4002463817596436}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.9601661779081134}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "TICL2-CGf", "bacc": 0.9601661779081134, "t": 1.393796682357788}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.9087557603686636}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "TICL2-CGf", "bacc": 0.9087557603686636, "t": 1.378265142440796}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "RFbal", "bacc": 0.8787878787878788, "t": 24.044079303741455}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 0, "method": "RSEbal", "bacc": 0.8939393939393939, "t": 8.937054634094238}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "RFbal", "bacc": 0.7948838669177652, "t": 25.25846576690674}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 1, "method": "RSEbal", "bacc": 0.8403954802259888, "t": 12.432461023330688}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "RFbal", "bacc": 0.8374613003095975, "t": 24.72877550125122}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 2, "method": "RSEbal", "bacc": 0.848297213622291, "t": 7.6026318073272705}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "RFbal", "bacc": 0.7985399590163935, "t": 25.301509618759155}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 3, "method": "RSEbal", "bacc": 0.8383709016393442, "t": 8.020601987838745}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "RFbal", "bacc": 0.7728494623655914, "t": 23.562256574630737}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 4, "method": "RSEbal", "bacc": 0.8120967741935483, "t": 4.561335563659668}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "RFbal", "bacc": 0.7696491228070175, "t": 30.283432960510254}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 5, "method": "RSEbal", "bacc": 0.8235087719298245, "t": 8.86362600326538}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "RFbal", "bacc": 0.8602459016393442, "t": 25.639164924621582}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 6, "method": "RSEbal", "bacc": 0.91775956284153, "t": 9.74211049079895}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "RFbal", "bacc": 0.8035087719298246, "t": 26.586663961410522}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 7, "method": "RSEbal", "bacc": 0.9012759170653908, "t": 6.442183494567871}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "RFbal", "bacc": 0.8526392961876833, "t": 25.3488187789917}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 8, "method": "RSEbal", "bacc": 0.9066471163245357, "t": 8.371764898300171}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "RFbal", "bacc": 0.7728110599078342, "t": 24.985311031341553}
+{"ds": "GEO-GSE147221-Methylation-Schizophrenia", "split": 9, "method": "RSEbal", "bacc": 0.7942396313364055, "t": 4.2991132736206055}

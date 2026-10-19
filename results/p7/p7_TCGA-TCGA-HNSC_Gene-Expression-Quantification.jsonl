@@ -1,0 +1,10 @@
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "HYB-ENS", "bacc": 0.9711538461538461, "t": 9.851499080657959}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "HYB-ENS", "bacc": 0.9761904761904762, "t": 9.866824865341187}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "HYB-ENS", "bacc": 0.9904761904761905, "t": 9.652572870254517}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "HYB-ENS", "bacc": 0.9449300699300699, "t": 10.05637502670288}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "HYB-ENS", "bacc": 0.9807692307692308, "t": 9.440948963165283}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "HYB-ENS", "bacc": 0.8557692307692308, "t": 9.941497087478638}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "HYB-ENS", "bacc": 0.9903846153846154, "t": 9.886231899261475}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "HYB-ENS", "bacc": 0.9807692307692308, "t": 10.03929615020752}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "HYB-ENS", "bacc": 0.9904761904761905, "t": 9.852644205093384}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "HYB-ENS", "bacc": 0.980952380952381, "t": 9.789599895477295}

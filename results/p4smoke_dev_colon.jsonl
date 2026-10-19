@@ -1,0 +1,60 @@
+{"ds": "dev:colon", "split": 0, "method": "DENSITY", "D": 0.030303030303030276, "inner_lr_all": 0.8474747474747475, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 0, "method": "LR", "bacc": 0.6375, "t": 0.041274070739746094}
+{"ds": "dev:colon", "split": 0, "method": "TR2m", "bacc": 0.7375, "t": 0.17143726348876953}
+{"ds": "dev:colon", "split": 0, "method": "KTSP", "bacc": 0.7375, "t": 0.07316207885742188}
+{"ds": "dev:colon", "split": 0, "method": "HYB-K20", "bacc": 0.7375, "t": 0.12193584442138672}
+{"ds": "dev:colon", "split": 0, "method": "HYB-L1K20", "bacc": 0.7375, "t": 0.06785726547241211}
+{"ds": "dev:colon", "split": 1, "method": "DENSITY", "D": -0.05555555555555547, "inner_lr_all": 0.8292929292929293, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 1, "method": "LR", "bacc": 0.675, "t": 0.04024100303649902}
+{"ds": "dev:colon", "split": 1, "method": "TR2m", "bacc": 0.775, "t": 0.14585328102111816}
+{"ds": "dev:colon", "split": 1, "method": "KTSP", "bacc": 0.775, "t": 0.07934284210205078}
+{"ds": "dev:colon", "split": 1, "method": "HYB-K20", "bacc": 0.875, "t": 0.10650801658630371}
+{"ds": "dev:colon", "split": 1, "method": "HYB-L1K20", "bacc": 0.675, "t": 0.07286286354064941}
+{"ds": "dev:colon", "split": 2, "method": "DENSITY", "D": 0.002525252525252597, "inner_lr_all": 0.6616161616161617, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 2, "method": "LR", "bacc": 0.875, "t": 0.04482293128967285}
+{"ds": "dev:colon", "split": 2, "method": "TR2m", "bacc": 0.8125, "t": 0.16323399543762207}
+{"ds": "dev:colon", "split": 2, "method": "KTSP", "bacc": 0.875, "t": 0.07628393173217773}
+{"ds": "dev:colon", "split": 2, "method": "HYB-K20", "bacc": 0.875, "t": 0.1073160171508789}
+{"ds": "dev:colon", "split": 2, "method": "HYB-L1K20", "bacc": 0.8125, "t": 0.06540608406066895}
+{"ds": "dev:colon", "split": 3, "method": "DENSITY", "D": -0.030303030303030165, "inner_lr_all": 0.6449494949494949, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 3, "method": "LR", "bacc": 1.0, "t": 0.04158806800842285}
+{"ds": "dev:colon", "split": 3, "method": "TR2m", "bacc": 1.0, "t": 0.16039776802062988}
+{"ds": "dev:colon", "split": 3, "method": "KTSP", "bacc": 1.0, "t": 0.0732278823852539}
+{"ds": "dev:colon", "split": 3, "method": "HYB-K20", "bacc": 0.9375, "t": 0.10845685005187988}
+{"ds": "dev:colon", "split": 3, "method": "HYB-L1K20", "bacc": 0.9375, "t": 0.07539129257202148}
+{"ds": "dev:colon", "split": 4, "method": "DENSITY", "D": 0.062121212121212244, "inner_lr_all": 0.7974747474747476, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 4, "method": "LR", "bacc": 0.875, "t": 0.0426480770111084}
+{"ds": "dev:colon", "split": 4, "method": "TR2m", "bacc": 1.0, "t": 0.1712939739227295}
+{"ds": "dev:colon", "split": 4, "method": "KTSP", "bacc": 0.9375, "t": 0.06433820724487305}
+{"ds": "dev:colon", "split": 4, "method": "HYB-K20", "bacc": 1.0, "t": 0.1065371036529541}
+{"ds": "dev:colon", "split": 4, "method": "HYB-L1K20", "bacc": 1.0, "t": 0.07607603073120117}
+{"ds": "dev:colon", "split": 5, "method": "DENSITY", "D": -0.15707070707070703, "inner_lr_all": 0.6656565656565657, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 5, "method": "LR", "bacc": 0.7, "t": 0.043167829513549805}
+{"ds": "dev:colon", "split": 5, "method": "TR2m", "bacc": 0.8375, "t": 0.16252708435058594}
+{"ds": "dev:colon", "split": 5, "method": "KTSP", "bacc": 0.8375, "t": 0.07211899757385254}
+{"ds": "dev:colon", "split": 5, "method": "HYB-K20", "bacc": 0.9, "t": 0.11122703552246094}
+{"ds": "dev:colon", "split": 5, "method": "HYB-L1K20", "bacc": 0.9, "t": 0.07038998603820801}
+{"ds": "dev:colon", "split": 6, "method": "DENSITY", "D": -0.09090909090909083, "inner_lr_all": 0.6792929292929294, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 6, "method": "LR", "bacc": 0.8375, "t": 0.04210305213928223}
+{"ds": "dev:colon", "split": 6, "method": "TR2m", "bacc": 0.9375, "t": 0.16904711723327637}
+{"ds": "dev:colon", "split": 6, "method": "KTSP", "bacc": 0.9375, "t": 0.07529306411743164}
+{"ds": "dev:colon", "split": 6, "method": "HYB-K20", "bacc": 0.9375, "t": 0.10892701148986816}
+{"ds": "dev:colon", "split": 6, "method": "HYB-L1K20", "bacc": 0.875, "t": 0.07260298728942871}
+{"ds": "dev:colon", "split": 7, "method": "DENSITY", "D": -0.015151515151515138, "inner_lr_all": 0.8792929292929293, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 7, "method": "LR", "bacc": 0.75, "t": 0.04083991050720215}
+{"ds": "dev:colon", "split": 7, "method": "TR2m", "bacc": 0.6875, "t": 0.16619420051574707}
+{"ds": "dev:colon", "split": 7, "method": "KTSP", "bacc": 0.6875, "t": 0.0784902572631836}
+{"ds": "dev:colon", "split": 7, "method": "HYB-K20", "bacc": 0.75, "t": 0.10424685478210449}
+{"ds": "dev:colon", "split": 7, "method": "HYB-L1K20", "bacc": 0.6875, "t": 0.07654881477355957}
+{"ds": "dev:colon", "split": 8, "method": "DENSITY", "D": -0.0015151515151515804, "inner_lr_all": 0.8252525252525252, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 8, "method": "LR", "bacc": 0.6875, "t": 0.04189300537109375}
+{"ds": "dev:colon", "split": 8, "method": "TR2m", "bacc": 0.8125, "t": 0.15778708457946777}
+{"ds": "dev:colon", "split": 8, "method": "KTSP", "bacc": 0.8125, "t": 0.07706499099731445}
+{"ds": "dev:colon", "split": 8, "method": "HYB-K20", "bacc": 0.9375, "t": 0.14827919006347656}
+{"ds": "dev:colon", "split": 8, "method": "HYB-L1K20", "bacc": 0.6875, "t": 0.0806741714477539}
+{"ds": "dev:colon", "split": 9, "method": "DENSITY", "D": -0.051515151515151514, "inner_lr_all": 0.7434343434343434, "n": 62, "d": 2000, "C": 2, "grouped": false}
+{"ds": "dev:colon", "split": 9, "method": "LR", "bacc": 0.75, "t": 0.04236102104187012}
+{"ds": "dev:colon", "split": 9, "method": "TR2m", "bacc": 0.75, "t": 0.16775798797607422}
+{"ds": "dev:colon", "split": 9, "method": "KTSP", "bacc": 1.0, "t": 0.07862091064453125}
+{"ds": "dev:colon", "split": 9, "method": "HYB-K20", "bacc": 0.875, "t": 0.12091302871704102}
+{"ds": "dev:colon", "split": 9, "method": "HYB-L1K20", "bacc": 1.0, "t": 0.06452083587646484}

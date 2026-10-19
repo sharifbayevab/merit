@@ -1,0 +1,45 @@
+{"ds": "lung", "split": 0, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.005903959274291992, "acc": 0.9512195121951219, "bacc": 0.9, "t_head": 201.3876121044159}
+{"ds": "lung", "split": 0, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007196187973022461, "acc": 0.975609756097561, "bacc": 0.95, "t_head": 14.186627864837646}
+{"ds": "lung", "split": 0, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.058760881423950195, "n_groups_total": 1461, "mean_group_size": 2.54, "acc": 0.9512195121951219, "bacc": 0.9428571428571428, "t_head": 5.139172077178955}
+{"ds": "lung", "split": 1, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.005583047866821289, "acc": 0.9512195121951219, "bacc": 0.9428571428571428, "t_head": 201.606379032135}
+{"ds": "lung", "split": 1, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007707834243774414, "acc": 0.9024390243902439, "bacc": 0.7928571428571429, "t_head": 14.836822986602783}
+{"ds": "lung", "split": 1, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06288719177246094, "n_groups_total": 1465, "mean_group_size": 2.48, "acc": 0.9512195121951219, "bacc": 0.9428571428571428, "t_head": 5.5455641746521}
+{"ds": "lung", "split": 2, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.00598907470703125, "acc": 1.0, "bacc": 1.0, "t_head": 202.23033809661865}
+{"ds": "lung", "split": 2, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007915735244750977, "acc": 1.0, "bacc": 1.0, "t_head": 13.965286016464233}
+{"ds": "lung", "split": 2, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06039094924926758, "n_groups_total": 1479, "mean_group_size": 2.515, "acc": 1.0, "bacc": 1.0, "t_head": 5.2228851318359375}
+{"ds": "lung", "split": 3, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.005977153778076172, "acc": 0.975, "bacc": 0.9928571428571429, "t_head": 202.69791078567505}
+{"ds": "lung", "split": 3, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.016768217086791992, "acc": 0.975, "bacc": 0.9928571428571429, "t_head": 14.425854921340942}
+{"ds": "lung", "split": 3, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.05463695526123047, "n_groups_total": 1501, "mean_group_size": 2.34, "acc": 0.975, "bacc": 0.9928571428571429, "t_head": 5.506549119949341}
+{"ds": "lung", "split": 4, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.006058931350708008, "acc": 0.925, "bacc": 0.8925925925925926, "t_head": 202.15696263313293}
+{"ds": "lung", "split": 4, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007741212844848633, "acc": 0.95, "bacc": 0.9425925925925925, "t_head": 14.038127899169922}
+{"ds": "lung", "split": 4, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06174588203430176, "n_groups_total": 1513, "mean_group_size": 2.46, "acc": 0.95, "bacc": 0.9425925925925925, "t_head": 5.217848777770996}
+{"ds": "lung", "split": 5, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.005508899688720703, "acc": 0.975609756097561, "bacc": 0.9928571428571429, "t_head": 202.2987310886383}
+{"ds": "lung", "split": 5, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.006865978240966797, "acc": 0.975609756097561, "bacc": 0.9928571428571429, "t_head": 13.932322978973389}
+{"ds": "lung", "split": 5, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.08652687072753906, "n_groups_total": 1484, "mean_group_size": 2.465, "acc": 0.975609756097561, "bacc": 0.9928571428571429, "t_head": 5.674175977706909}
+{"ds": "lung", "split": 6, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.005374908447265625, "acc": 0.975609756097561, "bacc": 0.9333333333333332, "t_head": 201.67223620414734}
+{"ds": "lung", "split": 6, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007416725158691406, "acc": 1.0, "bacc": 1.0, "t_head": 14.075572967529297}
+{"ds": "lung", "split": 6, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06576991081237793, "n_groups_total": 1474, "mean_group_size": 2.515, "acc": 1.0, "bacc": 1.0, "t_head": 5.265950918197632}
+{"ds": "lung", "split": 7, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.00493621826171875, "acc": 0.9512195121951219, "bacc": 0.8933333333333333, "t_head": 203.47195982933044}
+{"ds": "lung", "split": 7, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007100820541381836, "acc": 0.926829268292683, "bacc": 0.8533333333333333, "t_head": 13.743446111679077}
+{"ds": "lung", "split": 7, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06780505180358887, "n_groups_total": 1495, "mean_group_size": 2.405, "acc": 0.926829268292683, "bacc": 0.8533333333333333, "t_head": 5.49652886390686}
+{"ds": "lung", "split": 8, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.0055999755859375, "acc": 0.95, "bacc": 0.8833333333333332, "t_head": 203.0966899394989}
+{"ds": "lung", "split": 8, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007683753967285156, "acc": 0.925, "bacc": 0.8761904761904763, "t_head": 14.025485038757324}
+{"ds": "lung", "split": 8, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.05969381332397461, "n_groups_total": 1467, "mean_group_size": 2.51, "acc": 0.925, "bacc": 0.8761904761904763, "t_head": 5.208644151687622}
+{"ds": "lung", "split": 9, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.0058591365814208984, "acc": 0.975, "bacc": 0.9925925925925926, "t_head": 203.14264488220215}
+{"ds": "lung", "split": 9, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.00820302963256836, "acc": 0.975, "bacc": 0.9925925925925926, "t_head": 13.891426086425781}
+{"ds": "lung", "split": 9, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.059000253677368164, "n_groups_total": 1485, "mean_group_size": 2.43, "acc": 0.975, "bacc": 0.9925925925925926, "t_head": 5.182288885116577}
+{"ds": "lung", "split": 10, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.0065460205078125, "acc": 0.9512195121951219, "bacc": 0.9, "t_head": 203.86616706848145}
+{"ds": "lung", "split": 10, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.017535924911499023, "acc": 0.975609756097561, "bacc": 0.95, "t_head": 14.109652996063232}
+{"ds": "lung", "split": 10, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06077694892883301, "n_groups_total": 1481, "mean_group_size": 2.52, "acc": 0.975609756097561, "bacc": 0.95, "t_head": 5.272274017333984}
+{"ds": "lung", "split": 11, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.006308794021606445, "acc": 0.9512195121951219, "bacc": 0.9261904761904762, "t_head": 207.9134271144867}
+{"ds": "lung", "split": 11, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.009318828582763672, "acc": 0.9512195121951219, "bacc": 0.9261904761904762, "t_head": 14.050735712051392}
+{"ds": "lung", "split": 11, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.062215328216552734, "n_groups_total": 1489, "mean_group_size": 2.42, "acc": 0.9512195121951219, "bacc": 0.9261904761904762, "t_head": 5.221056699752808}
+{"ds": "lung", "split": 12, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.005474090576171875, "acc": 1.0, "bacc": 1.0, "t_head": 202.7762107849121}
+{"ds": "lung", "split": 12, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.008659124374389648, "acc": 1.0, "bacc": 1.0, "t_head": 14.325437784194946}
+{"ds": "lung", "split": 12, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.061749935150146484, "n_groups_total": 1465, "mean_group_size": 2.475, "acc": 1.0, "bacc": 1.0, "t_head": 5.254293203353882}
+{"ds": "lung", "split": 13, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.005679130554199219, "acc": 0.95, "bacc": 0.9261904761904762, "t_head": 226.94871973991394}
+{"ds": "lung", "split": 13, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.04534602165222168, "acc": 0.95, "bacc": 0.9857142857142858, "t_head": 13.929339170455933}
+{"ds": "lung", "split": 13, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.07948803901672363, "n_groups_total": 1503, "mean_group_size": 2.4, "acc": 0.925, "bacc": 0.9357142857142857, "t_head": 5.011826038360596}
+{"ds": "lung", "split": 14, "red": "ALL", "head": "TICL", "d_in": 3312, "t_red": 0.005518198013305664, "acc": 0.95, "bacc": 0.9, "t_head": 191.82497382164001}
+{"ds": "lung", "split": 14, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.006268739700317383, "acc": 0.95, "bacc": 0.9, "t_head": 13.234915256500244}
+{"ds": "lung", "split": 14, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.05418992042541504, "n_groups_total": 1486, "mean_group_size": 2.47, "acc": 0.9, "bacc": 0.8851851851851851, "t_head": 4.857590913772583}

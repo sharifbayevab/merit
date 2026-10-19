@@ -1,0 +1,10 @@
+{"ds": "dev:colon", "split": 0, "method": "NR-K20-E16-a0.03", "bacc": 0.7375, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 5.104542970657349}
+{"ds": "dev:colon", "split": 1, "method": "NR-K20-E16-a0.03", "bacc": 0.675, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 4.953570127487183}
+{"ds": "dev:colon", "split": 2, "method": "NR-K20-E16-a0.03", "bacc": 0.875, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 4.947475910186768}
+{"ds": "dev:colon", "split": 3, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 5.775755882263184}
+{"ds": "dev:colon", "split": 4, "method": "NR-K20-E16-a0.03", "bacc": 0.875, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 6.675782918930054}
+{"ds": "dev:colon", "split": 5, "method": "NR-K20-E16-a0.03", "bacc": 0.8, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 6.67325496673584}
+{"ds": "dev:colon", "split": 6, "method": "NR-K20-E16-a0.03", "bacc": 0.8375, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 5.610136032104492}
+{"ds": "dev:colon", "split": 7, "method": "NR-K20-E16-a0.03", "bacc": 0.6875, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 5.107773780822754}
+{"ds": "dev:colon", "split": 8, "method": "NR-K20-E16-a0.03", "bacc": 0.9375, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 5.491042852401733}
+{"ds": "dev:colon", "split": 9, "method": "NR-K20-E16-a0.03", "bacc": 0.875, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 5.252565145492554}

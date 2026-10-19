@@ -1,0 +1,10 @@
+{"ds": "dev:SMK_CAN_187", "split": 0, "method": "NR-K20-E16-a0.03", "bacc": 0.49444444444444446, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 71.66908502578735}
+{"ds": "dev:SMK_CAN_187", "split": 1, "method": "NR-K20-E16-a0.03", "bacc": 0.7555555555555555, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 49.091115951538086}
+{"ds": "dev:SMK_CAN_187", "split": 2, "method": "NR-K20-E16-a0.03", "bacc": 0.7529239766081872, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 59.54848909378052}
+{"ds": "dev:SMK_CAN_187", "split": 3, "method": "NR-K20-E16-a0.03", "bacc": 0.7046783625730995, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 50.0718412399292}
+{"ds": "dev:SMK_CAN_187", "split": 4, "method": "NR-K20-E16-a0.03", "bacc": 0.7821637426900585, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 65.40354013442993}
+{"ds": "dev:SMK_CAN_187", "split": 5, "method": "NR-K20-E16-a0.03", "bacc": 0.7055555555555556, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 56.14110803604126}
+{"ds": "dev:SMK_CAN_187", "split": 6, "method": "NR-K20-E16-a0.03", "bacc": 0.7555555555555555, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 77.61432695388794}
+{"ds": "dev:SMK_CAN_187", "split": 7, "method": "NR-K20-E16-a0.03", "bacc": 0.6754385964912281, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 74.75714612007141}
+{"ds": "dev:SMK_CAN_187", "split": 8, "method": "NR-K20-E16-a0.03", "bacc": 0.7529239766081872, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 57.47521996498108}
+{"ds": "dev:SMK_CAN_187", "split": 9, "method": "NR-K20-E16-a0.03", "bacc": 0.7002923976608187, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 56.16256308555603}

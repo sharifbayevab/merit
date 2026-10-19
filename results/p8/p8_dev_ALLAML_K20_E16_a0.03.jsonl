@@ -1,0 +1,10 @@
+{"ds": "dev:ALLAML", "split": 0, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 11.53271198272705}
+{"ds": "dev:ALLAML", "split": 1, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 11.152137994766235}
+{"ds": "dev:ALLAML", "split": 2, "method": "NR-K20-E16-a0.03", "bacc": 0.8444444444444444, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 10.936096906661987}
+{"ds": "dev:ALLAML", "split": 3, "method": "NR-K20-E16-a0.03", "bacc": 0.9444444444444444, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 14.235992908477783}
+{"ds": "dev:ALLAML", "split": 4, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 13.085872888565063}
+{"ds": "dev:ALLAML", "split": 5, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 9.598118782043457}
+{"ds": "dev:ALLAML", "split": 6, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 9.830921173095703}
+{"ds": "dev:ALLAML", "split": 7, "method": "NR-K20-E16-a0.03", "bacc": 0.9, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 9.552983045578003}
+{"ds": "dev:ALLAML", "split": 8, "method": "NR-K20-E16-a0.03", "bacc": 0.9444444444444444, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 9.330020189285278}
+{"ds": "dev:ALLAML", "split": 9, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 9.82263708114624}

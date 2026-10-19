@@ -1,0 +1,10 @@
+{"ds": "dev:arcene", "split": 0, "method": "NR-K20-E16", "bacc": 0.7525252525252526, "epochs": 50, "t": 26.62589168548584}
+{"ds": "dev:arcene", "split": 1, "method": "NR-K20-E16", "bacc": 0.893939393939394, "epochs": 50, "t": 26.57366394996643}
+{"ds": "dev:arcene", "split": 2, "method": "NR-K20-E16", "bacc": 0.898989898989899, "epochs": 50, "t": 25.787036180496216}
+{"ds": "dev:arcene", "split": 3, "method": "NR-K20-E16", "bacc": 0.8388746803069054, "epochs": 50, "t": 26.856063842773438}
+{"ds": "dev:arcene", "split": 4, "method": "NR-K20-E16", "bacc": 0.8759590792838874, "epochs": 50, "t": 27.683345794677734}
+{"ds": "dev:arcene", "split": 5, "method": "NR-K20-E16", "bacc": 0.8207070707070707, "epochs": 50, "t": 27.450984239578247}
+{"ds": "dev:arcene", "split": 6, "method": "NR-K20-E16", "bacc": 0.898989898989899, "epochs": 50, "t": 28.153549194335938}
+{"ds": "dev:arcene", "split": 7, "method": "NR-K20-E16", "bacc": 0.803030303030303, "epochs": 100, "t": 31.38752579689026}
+{"ds": "dev:arcene", "split": 8, "method": "NR-K20-E16", "bacc": 0.7800511508951407, "epochs": 50, "t": 28.475652933120728}
+{"ds": "dev:arcene", "split": 9, "method": "NR-K20-E16", "bacc": 0.7442455242966752, "epochs": 100, "t": 32.37671208381653}

@@ -1,0 +1,162 @@
+{"ds": "OpenML-1106", "split": 0, "method": "DENSITY", "D": 0.3498015873015874, "inner_lr_all": 0.6597222222222223, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 0, "method": "LR", "bacc": 0.9047619047619048, "t": 8.288856029510498}
+{"ds": "OpenML-1106", "split": 0, "method": "XGB", "bacc": 0.6071428571428571, "t": 50.82185101509094}
+{"ds": "OpenML-1106", "split": 0, "method": "TR2m", "bacc": 0.5178571428571429, "t": 1.3632893562316895}
+{"ds": "OpenML-1106", "split": 0, "method": "KTSP", "bacc": 0.39285714285714285, "t": 0.19847321510314941}
+{"ds": "OpenML-1106", "split": 0, "method": "HYB-K20", "bacc": 0.6547619047619048, "t": 5.845162868499756}
+{"ds": "OpenML-1106", "split": 0, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 2.199479103088379}
+{"ds": "OpenML-1106", "split": 1, "method": "DENSITY", "D": 0.24781746031746027, "inner_lr_all": 0.5984126984126984, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 1, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8307092189788818}
+{"ds": "OpenML-1106", "split": 2, "method": "DENSITY", "D": 0.23849206349206348, "inner_lr_all": 0.6706349206349206, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 2, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8859915733337402}
+{"ds": "OpenML-1106", "split": 3, "method": "DENSITY", "D": 0.28591269841269834, "inner_lr_all": 0.6936507936507935, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 3, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8433966636657715}
+{"ds": "OpenML-1106", "split": 4, "method": "DENSITY", "D": 0.21388888888888885, "inner_lr_all": 0.6388888888888888, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 4, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8436696529388428}
+{"ds": "OpenML-1106", "split": 5, "method": "DENSITY", "D": 0.2519841269841269, "inner_lr_all": 0.6746031746031745, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 5, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8298141956329346}
+{"ds": "OpenML-1106", "split": 6, "method": "DENSITY", "D": 0.28849206349206324, "inner_lr_all": 0.655753968253968, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 6, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8404169082641602}
+{"ds": "OpenML-1106", "split": 7, "method": "DENSITY", "D": 0.3162698412698413, "inner_lr_all": 0.6626984126984127, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 7, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.823509931564331}
+{"ds": "OpenML-1106", "split": 8, "method": "DENSITY", "D": 0.21884920634920635, "inner_lr_all": 0.5984126984126984, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 8, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8412659168243408}
+{"ds": "OpenML-1106", "split": 9, "method": "DENSITY", "D": 0.32043650793650796, "inner_lr_all": 0.6738095238095237, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 9, "method": "WIDE8k", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8177058696746826}
+{"ds": "OpenML-1106", "split": 0, "method": "HYB-L1K20", "bacc": 0.7142857142857143, "t": 600.1527395248413}
+{"ds": "OpenML-1106", "split": 0, "method": "HYB-K50", "bacc": 0.75, "t": 5.612627744674683}
+{"ds": "OpenML-1106", "split": 0, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 1.4806334972381592}
+{"ds": "OpenML-1106", "split": 1, "method": "DENSITY", "D": 0.24781746031746027, "inner_lr_all": 0.5984126984126984, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 1, "method": "LR", "bacc": 0.6904761904761905, "t": 10.29395318031311}
+{"ds": "OpenML-1106", "split": 1, "method": "XGB", "bacc": 0.6071428571428571, "t": 53.5251739025116}
+{"ds": "OpenML-1106", "split": 1, "method": "TR2m", "bacc": 0.4642857142857143, "t": 1.408949851989746}
+{"ds": "OpenML-1106", "split": 1, "method": "KTSP", "bacc": 0.3095238095238095, "t": 0.17114782333374023}
+{"ds": "OpenML-1106", "split": 1, "method": "HYB-K20", "bacc": 0.6011904761904762, "t": 6.448037624359131}
+{"ds": "OpenML-1106", "split": 1, "method": "HYB-L1K20", "bacc": 0.6904761904761905, "t": 613.5803322792053}
+{"ds": "OpenML-1106", "split": 1, "method": "HYB-K50", "bacc": 0.6309523809523808, "t": 5.565688848495483}
+{"ds": "OpenML-1106", "split": 1, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.317490816116333}
+{"ds": "OpenML-1106", "split": 2, "method": "DENSITY", "D": 0.23849206349206348, "inner_lr_all": 0.6706349206349206, "n": 190, "d": 16063, "C": 14, "grouped": false}
+{"ds": "OpenML-1106", "split": 2, "method": "LR", "bacc": 0.6428571428571429, "t": 8.742403030395508}
+{"ds": "OpenML-1106", "split": 2, "method": "XGB", "bacc": 0.613095238095238, "t": 60.238134145736694}
+{"ds": "OpenML-1106", "split": 2, "method": "TR2m", "bacc": 0.41666666666666663, "t": 1.3641583919525146}
+{"ds": "OpenML-1106", "split": 2, "method": "KTSP", "bacc": 0.34523809523809523, "t": 0.3103060722351074}
+{"ds": "OpenML-1106", "split": 2, "method": "HYB-K20", "bacc": 0.5178571428571429, "t": 6.869028568267822}
+{"ds": "OpenML-1106", "split": 2, "method": "HYB-K50", "bacc": 0.4226190476190476, "t": 6.733980655670166}
+{"ds": "OpenML-1106", "split": 2, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 1.1912150382995605}
+{"ds": "OpenML-1106", "split": 3, "method": "LR", "bacc": 0.5714285714285714, "t": 14.428148984909058}
+{"ds": "OpenML-1106", "split": 3, "method": "XGB", "bacc": 0.6666666666666666, "t": 69.51244497299194}
+{"ds": "OpenML-1106", "split": 3, "method": "TR2m", "bacc": 0.42857142857142866, "t": 1.651484489440918}
+{"ds": "OpenML-1106", "split": 3, "method": "KTSP", "bacc": 0.28214285714285714, "t": 0.30139851570129395}
+{"ds": "OpenML-1106", "split": 3, "method": "HYB-K20", "bacc": 0.5238095238095238, "t": 6.79100489616394}
+{"ds": "OpenML-1106", "split": 3, "method": "HYB-K50", "bacc": 0.5238095238095238, "t": 6.122269630432129}
+{"ds": "OpenML-1106", "split": 3, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.11611819267272949}
+{"ds": "OpenML-1106", "split": 4, "method": "LR", "bacc": 0.7214285714285714, "t": 12.083874940872192}
+{"ds": "OpenML-1106", "split": 4, "method": "XGB", "bacc": 0.7142857142857143, "t": 65.21541452407837}
+{"ds": "OpenML-1106", "split": 4, "method": "TR2m", "bacc": 0.5726190476190476, "t": 1.542626142501831}
+{"ds": "OpenML-1106", "split": 4, "method": "KTSP", "bacc": 0.4619047619047619, "t": 0.3136749267578125}
+{"ds": "OpenML-1106", "split": 4, "method": "HYB-K20", "bacc": 0.7071428571428572, "t": 6.957353591918945}
+{"ds": "OpenML-1106", "split": 4, "method": "HYB-K50", "bacc": 0.65, "t": 6.277223825454712}
+{"ds": "OpenML-1106", "split": 4, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.10830259323120117}
+{"ds": "OpenML-1106", "split": 5, "method": "LR", "bacc": 0.7797619047619048, "t": 10.825758695602417}
+{"ds": "OpenML-1106", "split": 5, "method": "XGB", "bacc": 0.7083333333333333, "t": 66.85989761352539}
+{"ds": "OpenML-1106", "split": 5, "method": "TR2m", "bacc": 0.32738095238095244, "t": 1.4695813655853271}
+{"ds": "OpenML-1106", "split": 5, "method": "KTSP", "bacc": 0.4226190476190476, "t": 0.21929073333740234}
+{"ds": "OpenML-1106", "split": 5, "method": "HYB-K20", "bacc": 0.8392857142857143, "t": 7.627361059188843}
+{"ds": "OpenML-1106", "split": 5, "method": "HYB-K50", "bacc": 0.7797619047619048, "t": 10.596997499465942}
+{"ds": "OpenML-1106", "split": 5, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.11904048919677734}
+{"ds": "OpenML-1106", "split": 6, "method": "LR", "bacc": 0.6904761904761905, "t": 15.709196329116821}
+{"ds": "OpenML-1106", "split": 6, "method": "XGB", "bacc": 0.6785714285714286, "t": 73.25310158729553}
+{"ds": "OpenML-1106", "split": 6, "method": "TR2m", "bacc": 0.4761904761904762, "t": 1.4045791625976562}
+{"ds": "OpenML-1106", "split": 6, "method": "KTSP", "bacc": 0.35119047619047616, "t": 0.18216824531555176}
+{"ds": "OpenML-1106", "split": 6, "method": "HYB-K20", "bacc": 0.6666666666666667, "t": 8.225341796875}
+{"ds": "OpenML-1106", "split": 6, "method": "HYB-K50", "bacc": 0.6428571428571429, "t": 8.94212818145752}
+{"ds": "OpenML-1106", "split": 6, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.12731575965881348}
+{"ds": "OpenML-1106", "split": 7, "method": "LR", "bacc": 0.5952380952380951, "t": 12.36714482307434}
+{"ds": "OpenML-1106", "split": 7, "method": "XGB", "bacc": 0.4821428571428571, "t": 69.43700218200684}
+{"ds": "OpenML-1106", "split": 7, "method": "TR2m", "bacc": 0.3988095238095238, "t": 1.548180103302002}
+{"ds": "OpenML-1106", "split": 7, "method": "KTSP", "bacc": 0.2857142857142857, "t": 0.23368024826049805}
+{"ds": "OpenML-1106", "split": 7, "method": "HYB-K20", "bacc": 0.4642857142857143, "t": 10.711878061294556}
+{"ds": "OpenML-1106", "split": 7, "method": "HYB-K50", "bacc": 0.4880952380952381, "t": 6.960453271865845}
+{"ds": "OpenML-1106", "split": 7, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.3890197277069092}
+{"ds": "OpenML-1106", "split": 8, "method": "LR", "bacc": 0.8571428571428571, "t": 11.85872197151184}
+{"ds": "OpenML-1106", "split": 8, "method": "XGB", "bacc": 0.7023809523809523, "t": 78.93362092971802}
+{"ds": "OpenML-1106", "split": 8, "method": "TR2m", "bacc": 0.505952380952381, "t": 2.12479567527771}
+{"ds": "OpenML-1106", "split": 8, "method": "KTSP", "bacc": 0.26785714285714285, "t": 0.27652406692504883}
+{"ds": "OpenML-1106", "split": 8, "method": "HYB-K20", "bacc": 0.7000000000000001, "t": 23.955250024795532}
+{"ds": "OpenML-1106", "split": 8, "method": "HYB-K50", "bacc": 0.6285714285714287, "t": 6.849905490875244}
+{"ds": "OpenML-1106", "split": 8, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.2359611988067627}
+{"ds": "OpenML-1106", "split": 9, "method": "LR", "bacc": 0.6785714285714286, "t": 15.222902774810791}
+{"ds": "OpenML-1106", "split": 2, "method": "HYB-L1K20", "bacc": 0.41666666666666663, "t": 677.6280422210693}
+{"ds": "OpenML-1106", "split": 9, "method": "XGB", "bacc": 0.5714285714285714, "t": 63.700600147247314}
+{"ds": "OpenML-1106", "split": 9, "method": "TR2m", "bacc": 0.5, "t": 3.6597654819488525}
+{"ds": "OpenML-1106", "split": 9, "method": "KTSP", "bacc": 0.28809523809523807, "t": 0.37893009185791016}
+{"ds": "OpenML-1106", "split": 9, "method": "HYB-K20", "bacc": 0.6071428571428571, "t": 7.246378421783447}
+{"ds": "OpenML-1106", "split": 9, "method": "HYB-K50", "bacc": 0.6071428571428571, "t": 6.406118631362915}
+{"ds": "OpenML-1106", "split": 9, "method": "TPFN-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.15352129936218262}
+{"ds": "OpenML-1106", "split": 3, "method": "HYB-L1K20", "bacc": 0.45238095238095244, "t": 661.1867413520813}
+{"ds": "OpenML-1106", "split": 4, "method": "HYB-L1K20", "bacc": 0.65, "t": 697.9376924037933}
+{"ds": "OpenML-1106", "split": 5, "method": "HYB-L1K20", "bacc": 0.511904761904762, "t": 1958.1504817008972}
+{"ds": "OpenML-1106", "split": 6, "method": "HYB-L1K20", "bacc": 0.6845238095238095, "t": 601.3110115528107}
+{"ds": "OpenML-1106", "split": 7, "method": "HYB-L1K20", "bacc": 0.5119047619047619, "t": 600.1928894519806}
+{"ds": "OpenML-1106", "split": 8, "method": "HYB-L1K20", "bacc": 0.5535714285714286, "t": 601.7899520397186}
+{"ds": "OpenML-1106", "split": 9, "method": "HYB-L1K20", "bacc": 0.4761904761904762, "t": 600.9886898994446}
+{"ds": "OpenML-1106", "split": 0, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.7298970222473145}
+{"ds": "OpenML-1106", "split": 1, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.15981769561767578}
+{"ds": "OpenML-1106", "split": 2, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.11175656318664551}
+{"ds": "OpenML-1106", "split": 3, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.10945868492126465}
+{"ds": "OpenML-1106", "split": 4, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.11104822158813477}
+{"ds": "OpenML-1106", "split": 5, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.10760188102722168}
+{"ds": "OpenML-1106", "split": 6, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.11612367630004883}
+{"ds": "OpenML-1106", "split": 7, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.12212133407592773}
+{"ds": "OpenML-1106", "split": 8, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.12233471870422363}
+{"ds": "OpenML-1106", "split": 9, "method": "TPFNbal-CGf", "error": "ValueError: Number of classes 14 exceeds the maximal number of classes supported by TabPFN. Consider using a strategy to reduce the number of classes. For code see https://github.com/PriorLabs/tabpfn-extensions/b", "t": 0.11805081367492676}
+{"ds": "OpenML-1106", "split": 0, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 2.3578808307647705}
+{"ds": "OpenML-1106", "split": 1, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8703196048736572}
+{"ds": "OpenML-1106", "split": 2, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.9194955825805664}
+{"ds": "OpenML-1106", "split": 3, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8629641532897949}
+{"ds": "OpenML-1106", "split": 4, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.869255542755127}
+{"ds": "OpenML-1106", "split": 5, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8672058582305908}
+{"ds": "OpenML-1106", "split": 6, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8564722537994385}
+{"ds": "OpenML-1106", "split": 7, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8532512187957764}
+{"ds": "OpenML-1106", "split": 8, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.8584239482879639}
+{"ds": "OpenML-1106", "split": 9, "method": "WIDE8kbal", "error": "TabPFNValidationError: Number of classes `14` exceeds the maximum number of classes `10` officially supported by TabPFN.", "t": 0.9064292907714844}
+{"ds": "OpenML-1106", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.7023809523809523}
+{"ds": "OpenML-1106", "split": 0, "method": "TICL2-CGf", "bacc": 0.7023809523809523, "t": 2.1408612728118896}
+{"ds": "OpenML-1106", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.619047619047619}
+{"ds": "OpenML-1106", "split": 1, "method": "TICL2-CGf", "bacc": 0.619047619047619, "t": 0.7097122669219971}
+{"ds": "OpenML-1106", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.5714285714285714}
+{"ds": "OpenML-1106", "split": 2, "method": "TICL2-CGf", "bacc": 0.5714285714285714, "t": 0.6930994987487793}
+{"ds": "OpenML-1106", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.6190476190476192}
+{"ds": "OpenML-1106", "split": 3, "method": "TICL2-CGf", "bacc": 0.6190476190476192, "t": 0.794912576675415}
+{"ds": "OpenML-1106", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.6047619047619047}
+{"ds": "OpenML-1106", "split": 4, "method": "TICL2-CGf", "bacc": 0.6047619047619047, "t": 0.7802305221557617}
+{"ds": "OpenML-1106", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.5654761904761905}
+{"ds": "OpenML-1106", "split": 5, "method": "TICL2-CGf", "bacc": 0.5833333333333333, "t": 0.7358112335205078}
+{"ds": "OpenML-1106", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.6547619047619048}
+{"ds": "OpenML-1106", "split": 6, "method": "TICL2-CGf", "bacc": 0.6547619047619048, "t": 0.7230587005615234}
+{"ds": "OpenML-1106", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.5119047619047619}
+{"ds": "OpenML-1106", "split": 7, "method": "TICL2-CGf", "bacc": 0.5119047619047619, "t": 0.7519278526306152}
+{"ds": "OpenML-1106", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.6071428571428571}
+{"ds": "OpenML-1106", "split": 8, "method": "TICL2-CGf", "bacc": 0.6071428571428571, "t": 0.7559008598327637}
+{"ds": "OpenML-1106", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.6785714285714286}
+{"ds": "OpenML-1106", "split": 9, "method": "TICL2-CGf", "bacc": 0.6785714285714286, "t": 0.7829813957214355}
+{"ds": "OpenML-1106", "split": 0, "method": "RFbal", "bacc": 0.7142857142857143, "t": 7.537633419036865}
+{"ds": "OpenML-1106", "split": 0, "method": "RSEbal", "bacc": 0.7976190476190476, "t": 38.296756744384766}
+{"ds": "OpenML-1106", "split": 1, "method": "RFbal", "bacc": 0.5952380952380951, "t": 7.2737743854522705}
+{"ds": "OpenML-1106", "split": 1, "method": "RSEbal", "bacc": 0.6547619047619048, "t": 47.612889528274536}
+{"ds": "OpenML-1106", "split": 2, "method": "RFbal", "bacc": 0.5357142857142857, "t": 7.277582883834839}
+{"ds": "OpenML-1106", "split": 2, "method": "RSEbal", "bacc": 0.5714285714285714, "t": 40.504199504852295}
+{"ds": "OpenML-1106", "split": 3, "method": "RFbal", "bacc": 0.6428571428571429, "t": 6.499985218048096}
+{"ds": "OpenML-1106", "split": 3, "method": "RSEbal", "bacc": 0.5357142857142857, "t": 44.67723751068115}
+{"ds": "OpenML-1106", "split": 4, "method": "RFbal", "bacc": 0.6428571428571429, "t": 6.717902183532715}
+{"ds": "OpenML-1106", "split": 4, "method": "RSEbal", "bacc": 0.7214285714285714, "t": 61.90218544006348}
+{"ds": "OpenML-1106", "split": 5, "method": "RFbal", "bacc": 0.7380952380952381, "t": 6.432162523269653}
+{"ds": "OpenML-1106", "split": 5, "method": "RSEbal", "bacc": 0.7916666666666667, "t": 49.312159299850464}
+{"ds": "OpenML-1106", "split": 6, "method": "RFbal", "bacc": 0.5595238095238095, "t": 6.670411586761475}
+{"ds": "OpenML-1106", "split": 6, "method": "RSEbal", "bacc": 0.6904761904761905, "t": 29.882177352905273}
+{"ds": "OpenML-1106", "split": 7, "method": "RFbal", "bacc": 0.4047619047619047, "t": 5.673649072647095}
+{"ds": "OpenML-1106", "split": 7, "method": "RSEbal", "bacc": 0.5595238095238095, "t": 28.632212162017822}
+{"ds": "OpenML-1106", "split": 8, "method": "RFbal", "bacc": 0.6785714285714286, "t": 6.0530126094818115}
+{"ds": "OpenML-1106", "split": 8, "method": "RSEbal", "bacc": 0.8428571428571429, "t": 21.282014846801758}
+{"ds": "OpenML-1106", "split": 9, "method": "RFbal", "bacc": 0.6071428571428571, "t": 6.259612083435059}
+{"ds": "OpenML-1106", "split": 9, "method": "RSEbal", "bacc": 0.6071428571428571, "t": 20.11434030532837}

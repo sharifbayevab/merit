@@ -1,0 +1,45 @@
+{"ds": "ALLAML", "split": 0, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.006319999694824219, "acc": 0.8, "bacc": 0.7, "t_head": 537.3181269168854}
+{"ds": "ALLAML", "split": 0, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.034863948822021484, "acc": 1.0, "bacc": 1.0, "t_head": 7.927281856536865}
+{"ds": "ALLAML", "split": 0, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.14719295501708984, "n_groups_total": 1337, "mean_group_size": 2.695, "acc": 1.0, "bacc": 1.0, "t_head": 3.13720703125}
+{"ds": "ALLAML", "split": 1, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.005201101303100586, "acc": 0.7333333333333333, "bacc": 0.6, "t_head": 302.65234994888306}
+{"ds": "ALLAML", "split": 1, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.006555080413818359, "acc": 1.0, "bacc": 1.0, "t_head": 7.08263897895813}
+{"ds": "ALLAML", "split": 1, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06679391860961914, "n_groups_total": 1293, "mean_group_size": 2.665, "acc": 1.0, "bacc": 1.0, "t_head": 2.7814290523529053}
+{"ds": "ALLAML", "split": 2, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.00397491455078125, "acc": 0.9285714285714286, "bacc": 0.9, "t_head": 292.1576497554779}
+{"ds": "ALLAML", "split": 2, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0067899227142333984, "acc": 0.8571428571428571, "bacc": 0.8444444444444444, "t_head": 7.0991480350494385}
+{"ds": "ALLAML", "split": 2, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06644797325134277, "n_groups_total": 1263, "mean_group_size": 3.095, "acc": 0.8571428571428571, "bacc": 0.8444444444444444, "t_head": 2.7532331943511963}
+{"ds": "ALLAML", "split": 3, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.004681825637817383, "acc": 0.9285714285714286, "bacc": 0.9, "t_head": 291.52451491355896}
+{"ds": "ALLAML", "split": 3, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.008103132247924805, "acc": 1.0, "bacc": 1.0, "t_head": 7.859163761138916}
+{"ds": "ALLAML", "split": 3, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.07666397094726562, "n_groups_total": 1252, "mean_group_size": 2.995, "acc": 1.0, "bacc": 1.0, "t_head": 3.1493818759918213}
+{"ds": "ALLAML", "split": 4, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.00400996208190918, "acc": 1.0, "bacc": 1.0, "t_head": 295.23427510261536}
+{"ds": "ALLAML", "split": 4, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0073468685150146484, "acc": 0.9285714285714286, "bacc": 0.9444444444444444, "t_head": 7.139688014984131}
+{"ds": "ALLAML", "split": 4, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06644988059997559, "n_groups_total": 1367, "mean_group_size": 2.985, "acc": 0.9285714285714286, "bacc": 0.9444444444444444, "t_head": 3.4825448989868164}
+{"ds": "ALLAML", "split": 5, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.0023810863494873047, "acc": 0.8666666666666667, "bacc": 0.8, "t_head": 291.267541885376}
+{"ds": "ALLAML", "split": 5, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.006114959716796875, "acc": 1.0, "bacc": 1.0, "t_head": 7.164635896682739}
+{"ds": "ALLAML", "split": 5, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06359124183654785, "n_groups_total": 1336, "mean_group_size": 2.68, "acc": 1.0, "bacc": 1.0, "t_head": 2.8165340423583984}
+{"ds": "ALLAML", "split": 6, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.0041768550872802734, "acc": 0.9333333333333333, "bacc": 0.9, "t_head": 299.27218103408813}
+{"ds": "ALLAML", "split": 6, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.008735895156860352, "acc": 1.0, "bacc": 1.0, "t_head": 7.0068700313568115}
+{"ds": "ALLAML", "split": 6, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06159687042236328, "n_groups_total": 1335, "mean_group_size": 2.715, "acc": 1.0, "bacc": 1.0, "t_head": 2.6930091381073}
+{"ds": "ALLAML", "split": 7, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.002862215042114258, "acc": 0.7857142857142857, "bacc": 0.7, "t_head": 295.12574887275696}
+{"ds": "ALLAML", "split": 7, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007028102874755859, "acc": 0.9285714285714286, "bacc": 0.9, "t_head": 7.14020037651062}
+{"ds": "ALLAML", "split": 7, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06527018547058105, "n_groups_total": 1300, "mean_group_size": 3.025, "acc": 0.9285714285714286, "bacc": 0.9, "t_head": 2.800575017929077}
+{"ds": "ALLAML", "split": 8, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.004367828369140625, "acc": 0.7857142857142857, "bacc": 0.7, "t_head": 291.250540971756}
+{"ds": "ALLAML", "split": 8, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.004396915435791016, "acc": 0.9285714285714286, "bacc": 0.9444444444444444, "t_head": 7.667141914367676}
+{"ds": "ALLAML", "split": 8, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.07408285140991211, "n_groups_total": 1245, "mean_group_size": 3.05, "acc": 0.9285714285714286, "bacc": 0.9444444444444444, "t_head": 3.217181921005249}
+{"ds": "ALLAML", "split": 9, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.002557992935180664, "acc": 0.7857142857142857, "bacc": 0.7, "t_head": 297.506032705307}
+{"ds": "ALLAML", "split": 9, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007422924041748047, "acc": 1.0, "bacc": 1.0, "t_head": 7.122299909591675}
+{"ds": "ALLAML", "split": 9, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06915593147277832, "n_groups_total": 1327, "mean_group_size": 2.715, "acc": 1.0, "bacc": 1.0, "t_head": 2.7920303344726562}
+{"ds": "ALLAML", "split": 10, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.0038061141967773438, "acc": 0.9333333333333333, "bacc": 0.9, "t_head": 293.8179929256439}
+{"ds": "ALLAML", "split": 10, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0060389041900634766, "acc": 1.0, "bacc": 1.0, "t_head": 7.144917964935303}
+{"ds": "ALLAML", "split": 10, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06627917289733887, "n_groups_total": 1306, "mean_group_size": 2.44, "acc": 1.0, "bacc": 1.0, "t_head": 2.8091230392456055}
+{"ds": "ALLAML", "split": 11, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.0041179656982421875, "acc": 0.8666666666666667, "bacc": 0.8, "t_head": 291.36470103263855}
+{"ds": "ALLAML", "split": 11, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.006421089172363281, "acc": 0.9333333333333333, "bacc": 0.9, "t_head": 8.023305177688599}
+{"ds": "ALLAML", "split": 11, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.07421994209289551, "n_groups_total": 1249, "mean_group_size": 3.065, "acc": 0.9333333333333333, "bacc": 0.9, "t_head": 2.92090106010437}
+{"ds": "ALLAML", "split": 12, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.00523686408996582, "acc": 1.0, "bacc": 1.0, "t_head": 294.11913418769836}
+{"ds": "ALLAML", "split": 12, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.006460905075073242, "acc": 1.0, "bacc": 1.0, "t_head": 7.139932155609131}
+{"ds": "ALLAML", "split": 12, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06349611282348633, "n_groups_total": 1285, "mean_group_size": 2.91, "acc": 1.0, "bacc": 1.0, "t_head": 2.810788869857788}
+{"ds": "ALLAML", "split": 13, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.004273891448974609, "acc": 0.7857142857142857, "bacc": 0.7, "t_head": 297.8895740509033}
+{"ds": "ALLAML", "split": 13, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.022148847579956055, "acc": 1.0, "bacc": 1.0, "t_head": 7.141662120819092}
+{"ds": "ALLAML", "split": 13, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.10217595100402832, "n_groups_total": 1327, "mean_group_size": 2.925, "acc": 1.0, "bacc": 1.0, "t_head": 2.8123562335968018}
+{"ds": "ALLAML", "split": 14, "red": "ALL", "head": "TICL", "d_in": 7129, "t_red": 0.0037729740142822266, "acc": 0.8571428571428571, "bacc": 0.8, "t_head": 293.56883001327515}
+{"ds": "ALLAML", "split": 14, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.007966041564941406, "acc": 0.9285714285714286, "bacc": 0.9444444444444444, "t_head": 7.921365976333618}
+{"ds": "ALLAML", "split": 14, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06603217124938965, "n_groups_total": 1347, "mean_group_size": 2.635, "acc": 0.9285714285714286, "bacc": 0.9444444444444444, "t_head": 3.303845167160034}

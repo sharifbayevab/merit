@@ -1,0 +1,10 @@
+{"ds": "dev:Prostate_GE", "split": 0, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 10.801177024841309}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "NR-K20-E16-a0.03", "bacc": 0.8136363636363637, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 10.3751060962677}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "NR-K20-E16-a0.03", "bacc": 0.8500000000000001, "epochs": 100, "active_rules": 0, "alpha_l1": 0.03, "t": 13.624191045761108}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "NR-K20-E16-a0.03", "bacc": 0.9, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 12.004499912261963}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "NR-K20-E16-a0.03", "bacc": 1.0, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 15.634117841720581}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "NR-K20-E16-a0.03", "bacc": 0.9090909090909092, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 10.32866883277893}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "NR-K20-E16-a0.03", "bacc": 0.95, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 15.329244375228882}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "NR-K20-E16-a0.03", "bacc": 0.85, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 16.3881778717041}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "NR-K20-E16-a0.03", "bacc": 0.95, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 12.750974893569946}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "NR-K20-E16-a0.03", "bacc": 0.95, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 16.97247004508972}

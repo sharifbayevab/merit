@@ -1,0 +1,160 @@
+{"ds": "gut-cirrhosis", "split": 0, "method": "DENSITY", "D": 0.19012096774193554, "inner_lr_all": 0.8776769713261648, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 0, "method": "WIDE8k", "bacc": 0.8940217391304348, "t": 13.981059312820435}
+{"ds": "gut-cirrhosis", "split": 1, "method": "DENSITY", "D": 0.08117159498207882, "inner_lr_all": 0.8544578853046595, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 1, "method": "WIDE8k", "bacc": 0.8731884057971014, "t": 13.504698991775513}
+{"ds": "gut-cirrhosis", "split": 2, "method": "DENSITY", "D": 0.023062275985663128, "inner_lr_all": 0.872614247311828, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 2, "method": "WIDE8k", "bacc": 0.8695652173913043, "t": 11.254864692687988}
+{"ds": "gut-cirrhosis", "split": 3, "method": "DENSITY", "D": 0.06718189964157706, "inner_lr_all": 0.8938060035842295, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 3, "method": "WIDE8k", "bacc": 0.8043478260869565, "t": 12.198768138885498}
+{"ds": "gut-cirrhosis", "split": 4, "method": "DENSITY", "D": 0.07529121863799293, "inner_lr_all": 0.8771729390681003, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 4, "method": "WIDE8k", "bacc": 0.8731060606060606, "t": 11.454696893692017}
+{"ds": "gut-cirrhosis", "split": 5, "method": "DENSITY", "D": 0.14568772401433694, "inner_lr_all": 0.8825492831541218, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 5, "method": "WIDE8k", "bacc": 0.8514492753623188, "t": 11.35572361946106}
+{"ds": "gut-cirrhosis", "split": 6, "method": "DENSITY", "D": 0.19444444444444442, "inner_lr_all": 0.87646729390681, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 6, "method": "WIDE8k", "bacc": 0.9375, "t": 11.78286623954773}
+{"ds": "gut-cirrhosis", "split": 7, "method": "DENSITY", "D": 0.030029121863799246, "inner_lr_all": 0.8467517921146953, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 7, "method": "WIDE8k", "bacc": 0.9347826086956521, "t": 11.751485586166382}
+{"ds": "gut-cirrhosis", "split": 8, "method": "DENSITY", "D": 0.03870967741935483, "inner_lr_all": 0.872782258064516, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 8, "method": "WIDE8k", "bacc": 0.8043478260869565, "t": 11.614964246749878}
+{"ds": "gut-cirrhosis", "split": 9, "method": "DENSITY", "D": 0.022412634408601972, "inner_lr_all": 0.8825604838709676, "n": 232, "d": 30000, "C": 2, "grouped": false}
+{"ds": "gut-cirrhosis", "split": 9, "method": "WIDE8k", "bacc": 0.8049242424242424, "t": 11.228235960006714}
+{"ds": "gut-cirrhosis", "split": 0, "method": "LR", "bacc": 0.9157608695652174, "t": 0.13899993896484375}
+{"ds": "gut-cirrhosis", "split": 0, "method": "XGB", "bacc": 0.8523550724637681, "t": 0.8445184230804443}
+{"ds": "gut-cirrhosis", "split": 0, "method": "TR2m", "bacc": 0.8306159420289855, "t": 0.17182040214538574}
+{"ds": "gut-cirrhosis", "split": 0, "method": "KTSP", "bacc": 0.8125, "t": 0.09816980361938477}
+{"ds": "gut-cirrhosis", "split": 0, "method": "HYB-K20", "bacc": 0.8532608695652174, "t": 0.8448216915130615}
+{"ds": "gut-cirrhosis", "split": 0, "method": "HYB-K50", "bacc": 0.8523550724637681, "t": 0.983910322189331}
+{"ds": "gut-cirrhosis", "split": 0, "method": "TPFN-CGf", "bacc": 0.8088768115942029, "t": 2.0228328704833984}
+{"ds": "gut-cirrhosis", "split": 1, "method": "LR", "bacc": 0.894927536231884, "t": 0.2204291820526123}
+{"ds": "gut-cirrhosis", "split": 1, "method": "XGB", "bacc": 0.9157608695652174, "t": 0.7972989082336426}
+{"ds": "gut-cirrhosis", "split": 1, "method": "TR2m", "bacc": 0.8306159420289855, "t": 0.1712019443511963}
+{"ds": "gut-cirrhosis", "split": 1, "method": "KTSP", "bacc": 0.8097826086956521, "t": 0.10194754600524902}
+{"ds": "gut-cirrhosis", "split": 1, "method": "HYB-K20", "bacc": 0.8740942028985508, "t": 0.3543283939361572}
+{"ds": "gut-cirrhosis", "split": 1, "method": "HYB-K50", "bacc": 0.8958333333333333, "t": 1.183854341506958}
+{"ds": "gut-cirrhosis", "split": 1, "method": "TPFN-CGf", "bacc": 0.8079710144927537, "t": 0.7004985809326172}
+{"ds": "gut-cirrhosis", "split": 2, "method": "LR", "bacc": 0.9130434782608696, "t": 0.23403716087341309}
+{"ds": "gut-cirrhosis", "split": 2, "method": "XGB", "bacc": 0.8913043478260869, "t": 0.5324633121490479}
+{"ds": "gut-cirrhosis", "split": 2, "method": "TR2m", "bacc": 0.8695652173913043, "t": 0.22034931182861328}
+{"ds": "gut-cirrhosis", "split": 2, "method": "KTSP", "bacc": 0.826086956521739, "t": 0.29691314697265625}
+{"ds": "gut-cirrhosis", "split": 2, "method": "HYB-K20", "bacc": 0.8695652173913043, "t": 0.7449495792388916}
+{"ds": "gut-cirrhosis", "split": 2, "method": "HYB-K50", "bacc": 0.8913043478260869, "t": 0.5644567012786865}
+{"ds": "gut-cirrhosis", "split": 2, "method": "TPFN-CGf", "bacc": 0.8695652173913044, "t": 0.9007728099822998}
+{"ds": "gut-cirrhosis", "split": 3, "method": "LR", "bacc": 0.826086956521739, "t": 0.15623092651367188}
+{"ds": "gut-cirrhosis", "split": 3, "method": "XGB", "bacc": 0.8043478260869565, "t": 0.6810204982757568}
+{"ds": "gut-cirrhosis", "split": 3, "method": "TR2m", "bacc": 0.717391304347826, "t": 0.1756899356842041}
+{"ds": "gut-cirrhosis", "split": 3, "method": "KTSP", "bacc": 0.6739130434782609, "t": 0.10535430908203125}
+{"ds": "gut-cirrhosis", "split": 3, "method": "HYB-K20", "bacc": 0.8695652173913044, "t": 0.4537239074707031}
+{"ds": "gut-cirrhosis", "split": 3, "method": "HYB-K50", "bacc": 0.8260869565217391, "t": 0.8037128448486328}
+{"ds": "gut-cirrhosis", "split": 3, "method": "TPFN-CGf", "bacc": 0.8043478260869565, "t": 0.9888753890991211}
+{"ds": "gut-cirrhosis", "split": 4, "method": "LR", "bacc": 0.8522727272727273, "t": 0.09320759773254395}
+{"ds": "gut-cirrhosis", "split": 4, "method": "XGB", "bacc": 0.8731060606060606, "t": 0.6392590999603271}
+{"ds": "gut-cirrhosis", "split": 4, "method": "TR2m", "bacc": 0.893939393939394, "t": 0.23842406272888184}
+{"ds": "gut-cirrhosis", "split": 4, "method": "KTSP", "bacc": 0.7159090909090908, "t": 0.1001589298248291}
+{"ds": "gut-cirrhosis", "split": 4, "method": "HYB-K20", "bacc": 0.8295454545454546, "t": 0.3551177978515625}
+{"ds": "gut-cirrhosis", "split": 4, "method": "HYB-K50", "bacc": 0.8731060606060606, "t": 0.9451889991760254}
+{"ds": "gut-cirrhosis", "split": 4, "method": "TPFN-CGf", "bacc": 0.8503787878787878, "t": 0.8308544158935547}
+{"ds": "gut-cirrhosis", "split": 5, "method": "LR", "bacc": 0.8523550724637681, "t": 0.2536048889160156}
+{"ds": "gut-cirrhosis", "split": 5, "method": "XGB", "bacc": 0.8505434782608696, "t": 0.6711349487304688}
+{"ds": "gut-cirrhosis", "split": 5, "method": "TR2m", "bacc": 0.7454710144927537, "t": 0.3565680980682373}
+{"ds": "gut-cirrhosis", "split": 5, "method": "KTSP", "bacc": 0.7672101449275363, "t": 0.23435211181640625}
+{"ds": "gut-cirrhosis", "split": 5, "method": "HYB-K20", "bacc": 0.894927536231884, "t": 0.4500405788421631}
+{"ds": "gut-cirrhosis", "split": 5, "method": "HYB-K50", "bacc": 0.8306159420289855, "t": 0.6301794052124023}
+{"ds": "gut-cirrhosis", "split": 5, "method": "TPFN-CGf", "bacc": 0.7445652173913043, "t": 0.5871567726135254}
+{"ds": "gut-cirrhosis", "split": 6, "method": "LR", "bacc": 0.9166666666666667, "t": 0.13847804069519043}
+{"ds": "gut-cirrhosis", "split": 6, "method": "XGB", "bacc": 0.9375, "t": 0.5642061233520508}
+{"ds": "gut-cirrhosis", "split": 6, "method": "TR2m", "bacc": 0.8541666666666667, "t": 0.19160175323486328}
+{"ds": "gut-cirrhosis", "split": 6, "method": "KTSP", "bacc": 0.7880434782608696, "t": 0.35448575019836426}
+{"ds": "gut-cirrhosis", "split": 6, "method": "HYB-K20", "bacc": 0.8523550724637681, "t": 1.4241001605987549}
+{"ds": "gut-cirrhosis", "split": 6, "method": "HYB-K50", "bacc": 0.8541666666666667, "t": 1.5006234645843506}
+{"ds": "gut-cirrhosis", "split": 6, "method": "TPFN-CGf", "bacc": 0.8514492753623188, "t": 0.39290690422058105}
+{"ds": "gut-cirrhosis", "split": 7, "method": "LR", "bacc": 0.9565217391304348, "t": 0.15454912185668945}
+{"ds": "gut-cirrhosis", "split": 7, "method": "XGB", "bacc": 0.9130434782608695, "t": 0.6604955196380615}
+{"ds": "gut-cirrhosis", "split": 7, "method": "TR2m", "bacc": 0.9130434782608696, "t": 0.1842498779296875}
+{"ds": "gut-cirrhosis", "split": 7, "method": "KTSP", "bacc": 0.9130434782608696, "t": 0.10553669929504395}
+{"ds": "gut-cirrhosis", "split": 7, "method": "HYB-K20", "bacc": 0.9130434782608696, "t": 0.6073989868164062}
+{"ds": "gut-cirrhosis", "split": 7, "method": "HYB-K50", "bacc": 0.9130434782608696, "t": 0.7186176776885986}
+{"ds": "gut-cirrhosis", "split": 7, "method": "TPFN-CGf", "bacc": 0.9130434782608695, "t": 0.7159502506256104}
+{"ds": "gut-cirrhosis", "split": 8, "method": "LR", "bacc": 0.9347826086956521, "t": 0.14433622360229492}
+{"ds": "gut-cirrhosis", "split": 8, "method": "XGB", "bacc": 0.8695652173913044, "t": 0.587378978729248}
+{"ds": "gut-cirrhosis", "split": 8, "method": "TR2m", "bacc": 0.826086956521739, "t": 0.4073832035064697}
+{"ds": "gut-cirrhosis", "split": 8, "method": "KTSP", "bacc": 0.7608695652173914, "t": 0.10811948776245117}
+{"ds": "gut-cirrhosis", "split": 8, "method": "HYB-K20", "bacc": 0.8260869565217391, "t": 0.43102359771728516}
+{"ds": "gut-cirrhosis", "split": 8, "method": "HYB-K50", "bacc": 0.8043478260869565, "t": 0.9067907333374023}
+{"ds": "gut-cirrhosis", "split": 8, "method": "TPFN-CGf", "bacc": 0.826086956521739, "t": 0.940777063369751}
+{"ds": "gut-cirrhosis", "split": 9, "method": "LR", "bacc": 0.7651515151515151, "t": 0.1943223476409912}
+{"ds": "gut-cirrhosis", "split": 9, "method": "XGB", "bacc": 0.7840909090909092, "t": 0.711695671081543}
+{"ds": "gut-cirrhosis", "split": 9, "method": "TR2m", "bacc": 0.7424242424242424, "t": 0.33858561515808105}
+{"ds": "gut-cirrhosis", "split": 9, "method": "KTSP", "bacc": 0.7424242424242424, "t": 0.11838436126708984}
+{"ds": "gut-cirrhosis", "split": 9, "method": "HYB-K20", "bacc": 0.8087121212121212, "t": 0.4335746765136719}
+{"ds": "gut-cirrhosis", "split": 9, "method": "HYB-K50", "bacc": 0.8958333333333333, "t": 0.997485876083374}
+{"ds": "gut-cirrhosis", "split": 9, "method": "TPFN-CGf", "bacc": 0.7196969696969697, "t": 0.807154655456543}
+{"ds": "gut-cirrhosis", "split": 0, "method": "HYB-L1K20", "bacc": 0.8523550724637681, "t": 0.5286765098571777}
+{"ds": "gut-cirrhosis", "split": 1, "method": "HYB-L1K20", "bacc": 0.8740942028985508, "t": 0.5980362892150879}
+{"ds": "gut-cirrhosis", "split": 2, "method": "HYB-L1K20", "bacc": 0.8913043478260869, "t": 1.017390251159668}
+{"ds": "gut-cirrhosis", "split": 3, "method": "HYB-L1K20", "bacc": 0.8695652173913043, "t": 0.8866617679595947}
+{"ds": "gut-cirrhosis", "split": 4, "method": "HYB-L1K20", "bacc": 0.8276515151515151, "t": 0.940009355545044}
+{"ds": "gut-cirrhosis", "split": 5, "method": "HYB-L1K20", "bacc": 0.8523550724637681, "t": 0.38417935371398926}
+{"ds": "gut-cirrhosis", "split": 6, "method": "HYB-L1K20", "bacc": 0.875, "t": 0.34377145767211914}
+{"ds": "gut-cirrhosis", "split": 7, "method": "HYB-L1K20", "bacc": 0.8913043478260869, "t": 0.36356425285339355}
+{"ds": "gut-cirrhosis", "split": 8, "method": "HYB-L1K20", "bacc": 0.8913043478260869, "t": 0.5014278888702393}
+{"ds": "gut-cirrhosis", "split": 9, "method": "HYB-L1K20", "bacc": 0.8920454545454546, "t": 0.35283541679382324}
+{"ds": "gut-cirrhosis", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.8088768115942029, "t": 1.9819574356079102}
+{"ds": "gut-cirrhosis", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.8079710144927537, "t": 0.36254286766052246}
+{"ds": "gut-cirrhosis", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.8695652173913044, "t": 0.38070249557495117}
+{"ds": "gut-cirrhosis", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.8043478260869565, "t": 0.3777153491973877}
+{"ds": "gut-cirrhosis", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.8503787878787878, "t": 0.38079833984375}
+{"ds": "gut-cirrhosis", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.7445652173913043, "t": 0.3801600933074951}
+{"ds": "gut-cirrhosis", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.8514492753623188, "t": 0.36907958984375}
+{"ds": "gut-cirrhosis", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.9130434782608695, "t": 0.37680864334106445}
+{"ds": "gut-cirrhosis", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.826086956521739, "t": 0.37976813316345215}
+{"ds": "gut-cirrhosis", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.7196969696969697, "t": 0.3747556209564209}
+{"ds": "gut-cirrhosis", "split": 0, "method": "WIDE8kbal", "bacc": 0.8940217391304348, "t": 12.66348123550415}
+{"ds": "gut-cirrhosis", "split": 1, "method": "WIDE8kbal", "bacc": 0.8731884057971014, "t": 10.264108419418335}
+{"ds": "gut-cirrhosis", "split": 2, "method": "WIDE8kbal", "bacc": 0.8478260869565217, "t": 10.319626092910767}
+{"ds": "gut-cirrhosis", "split": 3, "method": "WIDE8kbal", "bacc": 0.8043478260869565, "t": 10.230462551116943}
+{"ds": "gut-cirrhosis", "split": 4, "method": "WIDE8kbal", "bacc": 0.8731060606060606, "t": 10.25802755355835}
+{"ds": "gut-cirrhosis", "split": 5, "method": "WIDE8kbal", "bacc": 0.8514492753623188, "t": 10.259780168533325}
+{"ds": "gut-cirrhosis", "split": 6, "method": "WIDE8kbal", "bacc": 0.9166666666666667, "t": 10.261250495910645}
+{"ds": "gut-cirrhosis", "split": 7, "method": "WIDE8kbal", "bacc": 0.9347826086956521, "t": 10.219059944152832}
+{"ds": "gut-cirrhosis", "split": 8, "method": "WIDE8kbal", "bacc": 0.8043478260869565, "t": 10.2896728515625}
+{"ds": "gut-cirrhosis", "split": 9, "method": "WIDE8kbal", "bacc": 0.8049242424242424, "t": 10.35233736038208}
+{"ds": "gut-cirrhosis", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.8088768115942029}
+{"ds": "gut-cirrhosis", "split": 0, "method": "TICL2-CGf", "bacc": 0.8088768115942029, "t": 2.005413055419922}
+{"ds": "gut-cirrhosis", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.8278985507246377}
+{"ds": "gut-cirrhosis", "split": 1, "method": "TICL2-CGf", "bacc": 0.8278985507246377, "t": 0.7145264148712158}
+{"ds": "gut-cirrhosis", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.8478260869565217}
+{"ds": "gut-cirrhosis", "split": 2, "method": "TICL2-CGf", "bacc": 0.8478260869565217, "t": 0.7168328762054443}
+{"ds": "gut-cirrhosis", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.7391304347826086}
+{"ds": "gut-cirrhosis", "split": 3, "method": "TICL2-CGf", "bacc": 0.7391304347826086, "t": 0.7198376655578613}
+{"ds": "gut-cirrhosis", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.8257575757575758}
+{"ds": "gut-cirrhosis", "split": 4, "method": "TICL2-CGf", "bacc": 0.8257575757575758, "t": 0.7140343189239502}
+{"ds": "gut-cirrhosis", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.7644927536231885}
+{"ds": "gut-cirrhosis", "split": 5, "method": "TICL2-CGf", "bacc": 0.7644927536231885, "t": 0.7179019451141357}
+{"ds": "gut-cirrhosis", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.8297101449275363}
+{"ds": "gut-cirrhosis", "split": 6, "method": "TICL2-CGf", "bacc": 0.8297101449275363, "t": 0.7201690673828125}
+{"ds": "gut-cirrhosis", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.9347826086956521}
+{"ds": "gut-cirrhosis", "split": 7, "method": "TICL2-CGf", "bacc": 0.9347826086956521, "t": 0.7142267227172852}
+{"ds": "gut-cirrhosis", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.8695652173913044}
+{"ds": "gut-cirrhosis", "split": 8, "method": "TICL2-CGf", "bacc": 0.8695652173913044, "t": 0.7213318347930908}
+{"ds": "gut-cirrhosis", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.7613636363636364}
+{"ds": "gut-cirrhosis", "split": 9, "method": "TICL2-CGf", "bacc": 0.7613636363636364, "t": 0.7159066200256348}
+{"ds": "gut-cirrhosis", "split": 0, "method": "RFbal", "bacc": 0.8940217391304348, "t": 0.9495582580566406}
+{"ds": "gut-cirrhosis", "split": 0, "method": "RSEbal", "bacc": 0.9157608695652174, "t": 2.464245319366455}
+{"ds": "gut-cirrhosis", "split": 1, "method": "RFbal", "bacc": 0.894927536231884, "t": 1.4522955417633057}
+{"ds": "gut-cirrhosis", "split": 1, "method": "RSEbal", "bacc": 0.894927536231884, "t": 2.8044395446777344}
+{"ds": "gut-cirrhosis", "split": 2, "method": "RFbal", "bacc": 0.9347826086956521, "t": 1.4500794410705566}
+{"ds": "gut-cirrhosis", "split": 2, "method": "RSEbal", "bacc": 0.9130434782608695, "t": 5.939045667648315}
+{"ds": "gut-cirrhosis", "split": 3, "method": "RFbal", "bacc": 0.8260869565217391, "t": 2.060379981994629}
+{"ds": "gut-cirrhosis", "split": 3, "method": "RSEbal", "bacc": 0.826086956521739, "t": 2.3091185092926025}
+{"ds": "gut-cirrhosis", "split": 4, "method": "RFbal", "bacc": 0.8731060606060606, "t": 1.8452587127685547}
+{"ds": "gut-cirrhosis", "split": 4, "method": "RSEbal", "bacc": 0.8522727272727273, "t": 2.3797767162323}
+{"ds": "gut-cirrhosis", "split": 5, "method": "RFbal", "bacc": 0.8088768115942029, "t": 1.3222737312316895}
+{"ds": "gut-cirrhosis", "split": 5, "method": "RSEbal", "bacc": 0.8523550724637681, "t": 2.308166265487671}
+{"ds": "gut-cirrhosis", "split": 6, "method": "RFbal", "bacc": 0.9375, "t": 1.8637728691101074}
+{"ds": "gut-cirrhosis", "split": 6, "method": "RSEbal", "bacc": 0.8958333333333333, "t": 2.7478103637695312}
+{"ds": "gut-cirrhosis", "split": 7, "method": "RFbal", "bacc": 0.9130434782608696, "t": 1.1265456676483154}
+{"ds": "gut-cirrhosis", "split": 7, "method": "RSEbal", "bacc": 0.9565217391304348, "t": 2.435774564743042}
+{"ds": "gut-cirrhosis", "split": 8, "method": "RFbal", "bacc": 0.8695652173913044, "t": 1.0162861347198486}
+{"ds": "gut-cirrhosis", "split": 8, "method": "RSEbal", "bacc": 0.9130434782608696, "t": 3.9769697189331055}
+{"ds": "gut-cirrhosis", "split": 9, "method": "RFbal", "bacc": 0.8068181818181819, "t": 1.0281422138214111}
+{"ds": "gut-cirrhosis", "split": 9, "method": "RSEbal", "bacc": 0.7651515151515151, "t": 2.8557159900665283}

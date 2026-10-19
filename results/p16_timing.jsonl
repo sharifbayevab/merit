@@ -1,0 +1,24 @@
+{"ds": "dev:colon", "n_train": 49, "p": 2000, "model": "MERIT (CPU)", "fit_s": 0.7271717650000937, "batch_ms": 0.08523761509702757, "single_ms": 0.5093969957670197}
+{"ds": "dev:colon", "n_train": 49, "p": 2000, "model": "MERIT-1 (CPU)", "fit_s": 0.0831657329981681, "batch_ms": 0.01309146150910797, "single_ms": 0.08914199861465022}
+{"ds": "dev:colon", "n_train": 49, "p": 2000, "model": "Logistic regression (CPU)", "fit_s": 0.027467042003991082, "batch_ms": 0.007172768863920982, "single_ms": 0.030983494070824236}
+{"ds": "dev:colon", "n_train": 49, "p": 2000, "model": "TabPFN v2 (GPU)", "fit_s": 0.18054844200378284, "batch_ms": 60.44006884621922, "single_ms": 61.95546199887758}
+{"ds": "dev:colon", "n_train": 49, "p": 2000, "model": "TabICL v2 (GPU)", "fit_s": 0.33833552499709185, "batch_ms": 19.84076700038993, "single_ms": 203.60332750715315}
+{"ds": "dev:colon", "n_train": 49, "p": 2000, "model": "TabPFN v2 (CPU)", "fit_s": 0.12827430698962416, "batch_ms": 126.51279815383113, "single_ms": 1421.1690914962674}
+{"ds": "dev:colon", "n_train": 49, "p": 2000, "model": "TabICL v2 (CPU)", "fit_s": 0.2525231790059479, "batch_ms": 92.73857861542358, "single_ms": 1135.5673040015972}
+{"ds": "OpenML-1138", "n_train": 480, "p": 10935, "model": "MERIT (CPU)", "fit_s": 2.8657469090103405, "batch_ms": 0.05364764171342055, "single_ms": 0.6043409957783297}
+{"ds": "OpenML-1138", "n_train": 480, "p": 10935, "model": "MERIT-1 (CPU)", "fit_s": 0.4805648399924394, "batch_ms": 0.01647235003474634, "single_ms": 0.114638009108603}
+{"ds": "OpenML-1138", "n_train": 480, "p": 10935, "model": "Logistic regression (CPU)", "fit_s": 0.470286814001156, "batch_ms": 0.02439846660611996, "single_ms": 0.05090299964649603}
+{"ds": "OpenML-1138", "n_train": 480, "p": 10935, "model": "TabPFN v2 (GPU)", "fit_s": 0.22435949499777053, "batch_ms": 5.716426008317891, "single_ms": 778.1302319999668}
+{"ds": "OpenML-1138", "n_train": 480, "p": 10935, "model": "TabICL v2 (GPU)", "fit_s": 0.3517415020032786, "batch_ms": 8.286920341682466, "single_ms": 816.27800300339}
+{"ds": "OpenML-1138", "n_train": 480, "p": 10935, "model": "TabPFN v2 (CPU)", "fit_s": 0.23338667700591031, "batch_ms": 123.39794935008588, "single_ms": 11639.904202493199}
+{"ds": "OpenML-1138", "n_train": 480, "p": 10935, "model": "TabICL v2 (CPU)", "fit_s": 0.3340203129919246, "batch_ms": 47.869111216762875, "single_ms": 4917.797865506145}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "n_train": 485, "p": 28440, "model": "MERIT (CPU)", "fit_s": 5.451803504998679, "batch_ms": 0.15044973039513695, "single_ms": 0.9766500006662682}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "n_train": 485, "p": 28440, "model": "MERIT-1 (CPU)", "fit_s": 0.860306604008656, "batch_ms": 0.04138750424001204, "single_ms": 0.10954200115520507}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "n_train": 485, "p": 28440, "model": "Logistic regression (CPU)", "fit_s": 1.072815253995941, "batch_ms": 0.04369829561176669, "single_ms": 0.10969399590976536}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "n_train": 485, "p": 28440, "model": "TabPFN v2 (GPU)", "fit_s": 0.29792681300023105, "batch_ms": 5.966746660946544, "single_ms": 518.3127789932769}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "n_train": 485, "p": 28440, "model": "TabICL v2 (GPU)", "fit_s": 0.42563503100245725, "batch_ms": 8.690634286840972, "single_ms": 802.1805675016367}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "n_train": 485, "p": 28440, "model": "TabPFN v2 (CPU)", "fit_s": 0.31794374200399034, "batch_ms": 145.110561617311, "single_ms": 12391.722329506592}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "n_train": 485, "p": 28440, "model": "TabICL v2 (CPU)", "fit_s": 0.40966246400785167, "batch_ms": 49.961385834815346, "single_ms": 5328.631628493895}
+{"ds": "dev:colon", "n_train": 49, "p": 2000, "model": "TabPFN-Wide (GPU)", "fit_s": 1.512788661988452, "batch_ms": 58.810408691687584, "single_ms": 286.13968150602886}
+{"ds": "OpenML-1138", "n_train": 480, "p": 10935, "model": "TabPFN-Wide (GPU)", "fit_s": 1.8692662449902855, "batch_ms": 108.79192474167212, "single_ms": 10173.718059493694}
+{"ds": "TCGA-TCGA-BRCA_Gene-Expression-Quantification", "n_train": 480, "p": 28491, "model": "TabPFN-Wide (GPU)", "fit_s": 1.8412068009929499, "batch_ms": 102.21625364999151, "single_ms": 10150.871985999402}

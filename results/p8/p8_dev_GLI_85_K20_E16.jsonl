@@ -1,0 +1,10 @@
+{"ds": "dev:GLI_85", "split": 0, "method": "NR-K20-E16", "bacc": 0.9545454545454546, "epochs": 200, "t": 37.07920289039612}
+{"ds": "dev:GLI_85", "split": 1, "method": "NR-K20-E16", "bacc": 0.8, "epochs": 200, "t": 34.503315925598145}
+{"ds": "dev:GLI_85", "split": 2, "method": "NR-K20-E16", "bacc": 0.875, "epochs": 50, "t": 25.77066683769226}
+{"ds": "dev:GLI_85", "split": 3, "method": "NR-K20-E16", "bacc": 0.9583333333333333, "epochs": 200, "t": 35.52674698829651}
+{"ds": "dev:GLI_85", "split": 4, "method": "NR-K20-E16", "bacc": 0.8583333333333334, "epochs": 50, "t": 25.20404815673828}
+{"ds": "dev:GLI_85", "split": 5, "method": "NR-K20-E16", "bacc": 0.9545454545454546, "epochs": 200, "t": 36.7629828453064}
+{"ds": "dev:GLI_85", "split": 6, "method": "NR-K20-E16", "bacc": 0.8, "epochs": 200, "t": 37.25710415840149}
+{"ds": "dev:GLI_85", "split": 7, "method": "NR-K20-E16", "bacc": 0.8583333333333334, "epochs": 100, "t": 32.16694211959839}
+{"ds": "dev:GLI_85", "split": 8, "method": "NR-K20-E16", "bacc": 0.8333333333333333, "epochs": 200, "t": 38.165262937545776}
+{"ds": "dev:GLI_85", "split": 9, "method": "NR-K20-E16", "bacc": 0.8166666666666667, "epochs": 50, "t": 27.462470054626465}

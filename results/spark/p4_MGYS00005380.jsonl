@@ -1,0 +1,160 @@
+{"ds": "MGYS00005380", "split": 0, "method": "DENSITY", "D": 0.0, "inner_lr_all": 0.9930555555555557, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 0, "method": "WIDE8k", "bacc": 1.0, "t": 11.006309032440186}
+{"ds": "MGYS00005380", "split": 1, "method": "DENSITY", "D": 0.01388888888888895, "inner_lr_all": 1.0, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 1, "method": "WIDE8k", "bacc": 1.0, "t": 8.093548774719238}
+{"ds": "MGYS00005380", "split": 2, "method": "DENSITY", "D": 0.01388888888888895, "inner_lr_all": 1.0, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 2, "method": "WIDE8k", "bacc": 1.0, "t": 8.03414535522461}
+{"ds": "MGYS00005380", "split": 3, "method": "DENSITY", "D": 0.014190821256038544, "inner_lr_all": 1.0, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 3, "method": "WIDE8k", "bacc": 1.0, "t": 11.001455068588257}
+{"ds": "MGYS00005380", "split": 4, "method": "DENSITY", "D": 0.013333333333333308, "inner_lr_all": 1.0, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 4, "method": "WIDE8k", "bacc": 1.0, "t": 7.978905439376831}
+{"ds": "MGYS00005380", "split": 5, "method": "DENSITY", "D": 0.0, "inner_lr_all": 1.0, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 5, "method": "WIDE8k", "bacc": 1.0, "t": 7.938557863235474}
+{"ds": "MGYS00005380", "split": 6, "method": "DENSITY", "D": 0.01361111111111113, "inner_lr_all": 1.0, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 6, "method": "WIDE8k", "bacc": 1.0, "t": 8.111461639404297}
+{"ds": "MGYS00005380", "split": 7, "method": "DENSITY", "D": 0.00666666666666671, "inner_lr_all": 0.9866666666666667, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 7, "method": "WIDE8k", "bacc": 1.0, "t": 7.906641721725464}
+{"ds": "MGYS00005380", "split": 8, "method": "DENSITY", "D": 0.01388888888888895, "inner_lr_all": 1.0, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 8, "method": "WIDE8k", "bacc": 1.0, "t": 7.619723320007324}
+{"ds": "MGYS00005380", "split": 9, "method": "DENSITY", "D": 0.013333333333333308, "inner_lr_all": 1.0, "n": 264, "d": 16690, "C": 2, "grouped": true}
+{"ds": "MGYS00005380", "split": 9, "method": "WIDE8k", "bacc": 1.0, "t": 7.734218120574951}
+{"ds": "MGYS00005380", "split": 0, "method": "LR", "bacc": 1.0, "t": 0.3310084342956543}
+{"ds": "MGYS00005380", "split": 0, "method": "XGB", "bacc": 1.0, "t": 3.0821475982666016}
+{"ds": "MGYS00005380", "split": 0, "method": "TR2m", "bacc": 1.0, "t": 0.21153879165649414}
+{"ds": "MGYS00005380", "split": 0, "method": "KTSP", "bacc": 1.0, "t": 0.23711156845092773}
+{"ds": "MGYS00005380", "split": 0, "method": "HYB-K20", "bacc": 1.0, "t": 0.835637092590332}
+{"ds": "MGYS00005380", "split": 0, "method": "HYB-K50", "bacc": 1.0, "t": 1.1282055377960205}
+{"ds": "MGYS00005380", "split": 0, "method": "TPFN-CGf", "bacc": 1.0, "t": 3.1960887908935547}
+{"ds": "MGYS00005380", "split": 1, "method": "LR", "bacc": 1.0, "t": 0.7046496868133545}
+{"ds": "MGYS00005380", "split": 1, "method": "XGB", "bacc": 1.0, "t": 2.7845988273620605}
+{"ds": "MGYS00005380", "split": 1, "method": "TR2m", "bacc": 1.0, "t": 0.29456400871276855}
+{"ds": "MGYS00005380", "split": 1, "method": "KTSP", "bacc": 1.0, "t": 0.1671442985534668}
+{"ds": "MGYS00005380", "split": 1, "method": "HYB-K20", "bacc": 1.0, "t": 0.618511438369751}
+{"ds": "MGYS00005380", "split": 1, "method": "HYB-K50", "bacc": 1.0, "t": 0.8569772243499756}
+{"ds": "MGYS00005380", "split": 1, "method": "TPFN-CGf", "bacc": 1.0, "t": 0.5471639633178711}
+{"ds": "MGYS00005380", "split": 2, "method": "LR", "bacc": 1.0, "t": 0.2862215042114258}
+{"ds": "MGYS00005380", "split": 2, "method": "XGB", "bacc": 0.9285714285714286, "t": 1.7470359802246094}
+{"ds": "MGYS00005380", "split": 2, "method": "TR2m", "bacc": 0.9285714285714286, "t": 0.20610904693603516}
+{"ds": "MGYS00005380", "split": 2, "method": "KTSP", "bacc": 1.0, "t": 0.12939023971557617}
+{"ds": "MGYS00005380", "split": 2, "method": "HYB-K20", "bacc": 0.9761904761904762, "t": 0.8625314235687256}
+{"ds": "MGYS00005380", "split": 2, "method": "HYB-K50", "bacc": 0.9761904761904762, "t": 1.0927579402923584}
+{"ds": "MGYS00005380", "split": 2, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.1114251613616943}
+{"ds": "MGYS00005380", "split": 3, "method": "LR", "bacc": 1.0, "t": 0.46669650077819824}
+{"ds": "MGYS00005380", "split": 3, "method": "XGB", "bacc": 1.0, "t": 2.234663248062134}
+{"ds": "MGYS00005380", "split": 3, "method": "TR2m", "bacc": 1.0, "t": 0.3828287124633789}
+{"ds": "MGYS00005380", "split": 3, "method": "KTSP", "bacc": 1.0, "t": 0.12113380432128906}
+{"ds": "MGYS00005380", "split": 3, "method": "HYB-K20", "bacc": 1.0, "t": 0.7004261016845703}
+{"ds": "MGYS00005380", "split": 3, "method": "HYB-K50", "bacc": 1.0, "t": 0.8223774433135986}
+{"ds": "MGYS00005380", "split": 3, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.269634485244751}
+{"ds": "MGYS00005380", "split": 4, "method": "LR", "bacc": 1.0, "t": 0.31499695777893066}
+{"ds": "MGYS00005380", "split": 4, "method": "XGB", "bacc": 0.96875, "t": 2.3738365173339844}
+{"ds": "MGYS00005380", "split": 4, "method": "TR2m", "bacc": 0.96875, "t": 0.4370613098144531}
+{"ds": "MGYS00005380", "split": 4, "method": "KTSP", "bacc": 0.9875, "t": 0.16770029067993164}
+{"ds": "MGYS00005380", "split": 4, "method": "HYB-K20", "bacc": 0.95, "t": 1.3605453968048096}
+{"ds": "MGYS00005380", "split": 4, "method": "HYB-K50", "bacc": 0.9875, "t": 0.6914913654327393}
+{"ds": "MGYS00005380", "split": 4, "method": "TPFN-CGf", "bacc": 1.0, "t": 0.5119762420654297}
+{"ds": "MGYS00005380", "split": 5, "method": "LR", "bacc": 1.0, "t": 0.6758487224578857}
+{"ds": "MGYS00005380", "split": 5, "method": "XGB", "bacc": 0.9705882352941176, "t": 2.4802417755126953}
+{"ds": "MGYS00005380", "split": 5, "method": "TR2m", "bacc": 0.9705882352941176, "t": 0.41676855087280273}
+{"ds": "MGYS00005380", "split": 5, "method": "KTSP", "bacc": 1.0, "t": 0.11723184585571289}
+{"ds": "MGYS00005380", "split": 5, "method": "HYB-K20", "bacc": 1.0, "t": 0.4246811866760254}
+{"ds": "MGYS00005380", "split": 5, "method": "HYB-K50", "bacc": 1.0, "t": 0.6729080677032471}
+{"ds": "MGYS00005380", "split": 5, "method": "TPFN-CGf", "bacc": 1.0, "t": 0.446627140045166}
+{"ds": "MGYS00005380", "split": 6, "method": "LR", "bacc": 1.0, "t": 0.45931553840637207}
+{"ds": "MGYS00005380", "split": 6, "method": "XGB", "bacc": 1.0, "t": 1.7242116928100586}
+{"ds": "MGYS00005380", "split": 6, "method": "TR2m", "bacc": 1.0, "t": 0.4441680908203125}
+{"ds": "MGYS00005380", "split": 6, "method": "KTSP", "bacc": 1.0, "t": 0.11401200294494629}
+{"ds": "MGYS00005380", "split": 6, "method": "HYB-K20", "bacc": 0.9722222222222222, "t": 0.4987161159515381}
+{"ds": "MGYS00005380", "split": 6, "method": "HYB-K50", "bacc": 1.0, "t": 0.8865988254547119}
+{"ds": "MGYS00005380", "split": 6, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.0440788269042969}
+{"ds": "MGYS00005380", "split": 7, "method": "LR", "bacc": 1.0, "t": 0.713876485824585}
+{"ds": "MGYS00005380", "split": 7, "method": "XGB", "bacc": 0.9761904761904762, "t": 2.352231740951538}
+{"ds": "MGYS00005380", "split": 7, "method": "TR2m", "bacc": 0.9761904761904762, "t": 0.21401715278625488}
+{"ds": "MGYS00005380", "split": 7, "method": "KTSP", "bacc": 1.0, "t": 0.37058568000793457}
+{"ds": "MGYS00005380", "split": 7, "method": "HYB-K20", "bacc": 0.9600614439324117, "t": 0.5874764919281006}
+{"ds": "MGYS00005380", "split": 7, "method": "HYB-K50", "bacc": 0.9362519201228878, "t": 1.1334056854248047}
+{"ds": "MGYS00005380", "split": 7, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.1359901428222656}
+{"ds": "MGYS00005380", "split": 8, "method": "LR", "bacc": 1.0, "t": 0.771831750869751}
+{"ds": "MGYS00005380", "split": 8, "method": "XGB", "bacc": 1.0, "t": 3.0264194011688232}
+{"ds": "MGYS00005380", "split": 8, "method": "TR2m", "bacc": 1.0, "t": 0.23634552955627441}
+{"ds": "MGYS00005380", "split": 8, "method": "KTSP", "bacc": 1.0, "t": 0.12084174156188965}
+{"ds": "MGYS00005380", "split": 8, "method": "HYB-K20", "bacc": 1.0, "t": 0.7865839004516602}
+{"ds": "MGYS00005380", "split": 8, "method": "HYB-K50", "bacc": 1.0, "t": 1.2771415710449219}
+{"ds": "MGYS00005380", "split": 8, "method": "TPFN-CGf", "bacc": 1.0, "t": 0.7550570964813232}
+{"ds": "MGYS00005380", "split": 9, "method": "LR", "bacc": 1.0, "t": 0.45031070709228516}
+{"ds": "MGYS00005380", "split": 9, "method": "XGB", "bacc": 1.0, "t": 2.0621793270111084}
+{"ds": "MGYS00005380", "split": 9, "method": "TR2m", "bacc": 1.0, "t": 0.21221089363098145}
+{"ds": "MGYS00005380", "split": 9, "method": "KTSP", "bacc": 1.0, "t": 0.11313700675964355}
+{"ds": "MGYS00005380", "split": 9, "method": "HYB-K20", "bacc": 1.0, "t": 0.5012633800506592}
+{"ds": "MGYS00005380", "split": 9, "method": "HYB-K50", "bacc": 1.0, "t": 0.8419554233551025}
+{"ds": "MGYS00005380", "split": 9, "method": "TPFN-CGf", "bacc": 1.0, "t": 0.25256776809692383}
+{"ds": "MGYS00005380", "split": 0, "method": "HYB-L1K20", "bacc": 1.0, "t": 1.1638619899749756}
+{"ds": "MGYS00005380", "split": 1, "method": "HYB-L1K20", "bacc": 1.0, "t": 1.3022117614746094}
+{"ds": "MGYS00005380", "split": 2, "method": "HYB-L1K20", "bacc": 0.9761904761904762, "t": 0.9634127616882324}
+{"ds": "MGYS00005380", "split": 3, "method": "HYB-L1K20", "bacc": 0.9782608695652174, "t": 0.8648560047149658}
+{"ds": "MGYS00005380", "split": 4, "method": "HYB-L1K20", "bacc": 0.9875, "t": 0.8719711303710938}
+{"ds": "MGYS00005380", "split": 5, "method": "HYB-L1K20", "bacc": 0.9705882352941176, "t": 0.8372585773468018}
+{"ds": "MGYS00005380", "split": 6, "method": "HYB-L1K20", "bacc": 1.0, "t": 1.1612789630889893}
+{"ds": "MGYS00005380", "split": 7, "method": "HYB-L1K20", "bacc": 0.9600614439324117, "t": 0.9327313899993896}
+{"ds": "MGYS00005380", "split": 8, "method": "HYB-L1K20", "bacc": 1.0, "t": 1.4439387321472168}
+{"ds": "MGYS00005380", "split": 9, "method": "HYB-L1K20", "bacc": 0.9705882352941176, "t": 1.7871899604797363}
+{"ds": "MGYS00005380", "split": 0, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 1.771618366241455}
+{"ds": "MGYS00005380", "split": 1, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.3372511863708496}
+{"ds": "MGYS00005380", "split": 2, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.5424740314483643}
+{"ds": "MGYS00005380", "split": 3, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.4559464454650879}
+{"ds": "MGYS00005380", "split": 4, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.26108884811401367}
+{"ds": "MGYS00005380", "split": 5, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.2682170867919922}
+{"ds": "MGYS00005380", "split": 6, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.277416467666626}
+{"ds": "MGYS00005380", "split": 7, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.4716830253601074}
+{"ds": "MGYS00005380", "split": 8, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.4676821231842041}
+{"ds": "MGYS00005380", "split": 9, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.2648766040802002}
+{"ds": "MGYS00005380", "split": 0, "method": "WIDE8kbal", "bacc": 1.0, "t": 10.019684553146362}
+{"ds": "MGYS00005380", "split": 1, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.5348546504974365}
+{"ds": "MGYS00005380", "split": 2, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.51178765296936}
+{"ds": "MGYS00005380", "split": 3, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.6139984130859375}
+{"ds": "MGYS00005380", "split": 4, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.504920482635498}
+{"ds": "MGYS00005380", "split": 5, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.532300710678101}
+{"ds": "MGYS00005380", "split": 6, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.644481182098389}
+{"ds": "MGYS00005380", "split": 7, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.515774726867676}
+{"ds": "MGYS00005380", "split": 8, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.520688772201538}
+{"ds": "MGYS00005380", "split": 9, "method": "WIDE8kbal", "bacc": 1.0, "t": 7.595334053039551}
+{"ds": "MGYS00005380", "split": 0, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 0, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.878007411956787}
+{"ds": "MGYS00005380", "split": 1, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 1, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.4936099052429199}
+{"ds": "MGYS00005380", "split": 2, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 2, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.5254037380218506}
+{"ds": "MGYS00005380", "split": 3, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 3, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.4783596992492676}
+{"ds": "MGYS00005380", "split": 4, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 4, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.48172807693481445}
+{"ds": "MGYS00005380", "split": 5, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 5, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.4981353282928467}
+{"ds": "MGYS00005380", "split": 6, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 6, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.5022704601287842}
+{"ds": "MGYS00005380", "split": 7, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 7, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.5227437019348145}
+{"ds": "MGYS00005380", "split": 8, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 8, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.5025429725646973}
+{"ds": "MGYS00005380", "split": 9, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "MGYS00005380", "split": 9, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.4865853786468506}
+{"ds": "MGYS00005380", "split": 0, "method": "RFbal", "bacc": 1.0, "t": 1.6061418056488037}
+{"ds": "MGYS00005380", "split": 0, "method": "RSEbal", "bacc": 1.0, "t": 1.9536638259887695}
+{"ds": "MGYS00005380", "split": 1, "method": "RFbal", "bacc": 1.0, "t": 1.0381414890289307}
+{"ds": "MGYS00005380", "split": 1, "method": "RSEbal", "bacc": 1.0, "t": 1.5427522659301758}
+{"ds": "MGYS00005380", "split": 2, "method": "RFbal", "bacc": 0.9761904761904762, "t": 2.0270884037017822}
+{"ds": "MGYS00005380", "split": 2, "method": "RSEbal", "bacc": 1.0, "t": 3.1887316703796387}
+{"ds": "MGYS00005380", "split": 3, "method": "RFbal", "bacc": 1.0, "t": 1.1687312126159668}
+{"ds": "MGYS00005380", "split": 3, "method": "RSEbal", "bacc": 1.0, "t": 11.40206265449524}
+{"ds": "MGYS00005380", "split": 4, "method": "RFbal", "bacc": 0.96875, "t": 1.2068705558776855}
+{"ds": "MGYS00005380", "split": 4, "method": "RSEbal", "bacc": 1.0, "t": 3.138536214828491}
+{"ds": "MGYS00005380", "split": 5, "method": "RFbal", "bacc": 0.9705882352941176, "t": 1.4890022277832031}
+{"ds": "MGYS00005380", "split": 5, "method": "RSEbal", "bacc": 1.0, "t": 2.8024942874908447}
+{"ds": "MGYS00005380", "split": 6, "method": "RFbal", "bacc": 1.0, "t": 1.1929285526275635}
+{"ds": "MGYS00005380", "split": 6, "method": "RSEbal", "bacc": 1.0, "t": 1.6710410118103027}
+{"ds": "MGYS00005380", "split": 7, "method": "RFbal", "bacc": 1.0, "t": 0.7453722953796387}
+{"ds": "MGYS00005380", "split": 7, "method": "RSEbal", "bacc": 1.0, "t": 2.646010160446167}
+{"ds": "MGYS00005380", "split": 8, "method": "RFbal", "bacc": 1.0, "t": 1.3159799575805664}
+{"ds": "MGYS00005380", "split": 8, "method": "RSEbal", "bacc": 1.0, "t": 1.9637541770935059}
+{"ds": "MGYS00005380", "split": 9, "method": "RFbal", "bacc": 1.0, "t": 1.5798661708831787}
+{"ds": "MGYS00005380", "split": 9, "method": "RSEbal", "bacc": 1.0, "t": 2.7853922843933105}

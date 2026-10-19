@@ -1,0 +1,162 @@
+{"ds": "dev:lung", "split": 0, "method": "DENSITY", "D": 0.41000000000000003, "inner_lr_all": 0.9086186186186186, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 0, "method": "LR", "bacc": 0.95, "t": 0.3834688663482666}
+{"ds": "dev:lung", "split": 0, "method": "XGB", "bacc": 0.95, "t": 7.646758794784546}
+{"ds": "dev:lung", "split": 0, "method": "TR2m", "bacc": 0.9357142857142857, "t": 0.5801551342010498}
+{"ds": "dev:lung", "split": 0, "method": "KTSP", "bacc": 0.9285714285714285, "t": 0.2949821949005127}
+{"ds": "dev:lung", "split": 0, "method": "HYB-K20", "bacc": 0.95, "t": 1.0911593437194824}
+{"ds": "dev:lung", "split": 0, "method": "HYB-L1K20", "bacc": 0.95, "t": 29.1698317527771}
+{"ds": "dev:lung", "split": 0, "method": "HYB-K50", "bacc": 0.9428571428571428, "t": 1.1468160152435303}
+{"ds": "dev:lung", "split": 0, "method": "TPFN-CGf", "bacc": 0.9357142857142857, "t": 5.075330495834351}
+{"ds": "dev:lung", "split": 1, "method": "DENSITY", "D": 0.2942942942942942, "inner_lr_all": 0.9219519519519519, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 1, "method": "LR", "bacc": 0.9428571428571428, "t": 0.5934827327728271}
+{"ds": "dev:lung", "split": 1, "method": "XGB", "bacc": 0.9, "t": 6.874603271484375}
+{"ds": "dev:lung", "split": 1, "method": "TR2m", "bacc": 0.9857142857142858, "t": 0.7546179294586182}
+{"ds": "dev:lung", "split": 1, "method": "KTSP", "bacc": 0.7357142857142858, "t": 0.20097613334655762}
+{"ds": "dev:lung", "split": 1, "method": "HYB-K20", "bacc": 0.9928571428571429, "t": 1.097060203552246}
+{"ds": "dev:lung", "split": 1, "method": "HYB-L1K20", "bacc": 0.9357142857142857, "t": 30.08928918838501}
+{"ds": "dev:lung", "split": 1, "method": "HYB-K50", "bacc": 0.9428571428571428, "t": 1.123943567276001}
+{"ds": "dev:lung", "split": 1, "method": "TPFN-CGf", "bacc": 0.8857142857142858, "t": 1.324214220046997}
+{"ds": "dev:lung", "split": 2, "method": "DENSITY", "D": 0.42486486486486486, "inner_lr_all": 0.9527927927927928, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 2, "method": "LR", "bacc": 1.0, "t": 0.48941802978515625}
+{"ds": "dev:lung", "split": 2, "method": "XGB", "bacc": 1.0, "t": 6.886736631393433}
+{"ds": "dev:lung", "split": 2, "method": "TR2m", "bacc": 0.9928571428571429, "t": 0.6474885940551758}
+{"ds": "dev:lung", "split": 2, "method": "KTSP", "bacc": 0.7571428571428571, "t": 0.3017539978027344}
+{"ds": "dev:lung", "split": 2, "method": "HYB-K20", "bacc": 0.9928571428571429, "t": 0.930234432220459}
+{"ds": "dev:lung", "split": 2, "method": "HYB-L1K20", "bacc": 1.0, "t": 31.835421562194824}
+{"ds": "dev:lung", "split": 2, "method": "HYB-K50", "bacc": 0.9928571428571429, "t": 1.1211066246032715}
+{"ds": "dev:lung", "split": 2, "method": "TPFN-CGf", "bacc": 1.0, "t": 2.77927303314209}
+{"ds": "dev:lung", "split": 3, "method": "DENSITY", "D": 0.45666666666666667, "inner_lr_all": 0.9568168168168169, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 3, "method": "LR", "bacc": 0.9928571428571429, "t": 0.4394667148590088}
+{"ds": "dev:lung", "split": 3, "method": "XGB", "bacc": 0.95, "t": 8.063675880432129}
+{"ds": "dev:lung", "split": 3, "method": "TR2m", "bacc": 0.95, "t": 0.7151632308959961}
+{"ds": "dev:lung", "split": 3, "method": "KTSP", "bacc": 0.9714285714285715, "t": 0.219940185546875}
+{"ds": "dev:lung", "split": 3, "method": "HYB-K20", "bacc": 0.9928571428571429, "t": 1.028564453125}
+{"ds": "dev:lung", "split": 3, "method": "HYB-L1K20", "bacc": 0.9928571428571429, "t": 31.17546319961548}
+{"ds": "dev:lung", "split": 3, "method": "HYB-K50", "bacc": 0.9928571428571429, "t": 1.0502572059631348}
+{"ds": "dev:lung", "split": 3, "method": "TPFN-CGf", "bacc": 0.9428571428571428, "t": 1.8534138202667236}
+{"ds": "dev:lung", "split": 4, "method": "DENSITY", "D": 0.43651651651651635, "inner_lr_all": 0.9742215900110636, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 4, "method": "LR", "bacc": 0.8925925925925926, "t": 0.3869044780731201}
+{"ds": "dev:lung", "split": 4, "method": "XGB", "bacc": 0.6425925925925926, "t": 7.935500144958496}
+{"ds": "dev:lung", "split": 4, "method": "TR2m", "bacc": 0.9425925925925925, "t": 0.663679838180542}
+{"ds": "dev:lung", "split": 4, "method": "KTSP", "bacc": 0.562962962962963, "t": 0.2494816780090332}
+{"ds": "dev:lung", "split": 4, "method": "HYB-K20", "bacc": 0.9425925925925925, "t": 1.0583999156951904}
+{"ds": "dev:lung", "split": 4, "method": "HYB-L1K20", "bacc": 0.9425925925925925, "t": 32.07351779937744}
+{"ds": "dev:lung", "split": 4, "method": "HYB-K50", "bacc": 0.9425925925925925, "t": 1.032207727432251}
+{"ds": "dev:lung", "split": 4, "method": "TPFN-CGf", "bacc": 0.9425925925925925, "t": 1.6640899181365967}
+{"ds": "dev:lung", "split": 5, "method": "DENSITY", "D": 0.359039039039039, "inner_lr_all": 0.915015015015015, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 5, "method": "LR", "bacc": 0.9928571428571429, "t": 0.36412596702575684}
+{"ds": "dev:lung", "split": 5, "method": "XGB", "bacc": 0.7928571428571429, "t": 7.702496290206909}
+{"ds": "dev:lung", "split": 5, "method": "TR2m", "bacc": 0.9857142857142858, "t": 0.7850539684295654}
+{"ds": "dev:lung", "split": 5, "method": "KTSP", "bacc": 0.9642857142857142, "t": 0.30371665954589844}
+{"ds": "dev:lung", "split": 5, "method": "HYB-K20", "bacc": 0.9928571428571429, "t": 1.0521643161773682}
+{"ds": "dev:lung", "split": 5, "method": "HYB-L1K20", "bacc": 0.9928571428571429, "t": 28.80751609802246}
+{"ds": "dev:lung", "split": 5, "method": "HYB-K50", "bacc": 0.9928571428571429, "t": 1.1485886573791504}
+{"ds": "dev:lung", "split": 5, "method": "TPFN-CGf", "bacc": 0.9928571428571429, "t": 1.6627392768859863}
+{"ds": "dev:lung", "split": 6, "method": "DENSITY", "D": 0.35513513513513506, "inner_lr_all": 0.9141741741741741, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 6, "method": "LR", "bacc": 1.0, "t": 0.3632373809814453}
+{"ds": "dev:lung", "split": 6, "method": "XGB", "bacc": 0.9333333333333332, "t": 5.921809434890747}
+{"ds": "dev:lung", "split": 6, "method": "TR2m", "bacc": 0.9857142857142858, "t": 0.6409478187561035}
+{"ds": "dev:lung", "split": 6, "method": "KTSP", "bacc": 0.8571428571428571, "t": 0.2633631229400635}
+{"ds": "dev:lung", "split": 6, "method": "HYB-K20", "bacc": 1.0, "t": 0.9368488788604736}
+{"ds": "dev:lung", "split": 6, "method": "HYB-L1K20", "bacc": 0.9928571428571429, "t": 32.327903747558594}
+{"ds": "dev:lung", "split": 6, "method": "HYB-K50", "bacc": 1.0, "t": 1.090285301208496}
+{"ds": "dev:lung", "split": 6, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.6086382865905762}
+{"ds": "dev:lung", "split": 7, "method": "DENSITY", "D": 0.5063963963963963, "inner_lr_all": 0.9679279279279279, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 7, "method": "LR", "bacc": 0.8933333333333333, "t": 0.3358438014984131}
+{"ds": "dev:lung", "split": 7, "method": "XGB", "bacc": 0.8533333333333333, "t": 7.340767860412598}
+{"ds": "dev:lung", "split": 7, "method": "TR2m", "bacc": 0.8933333333333333, "t": 0.642845869064331}
+{"ds": "dev:lung", "split": 7, "method": "KTSP", "bacc": 0.86, "t": 0.21098923683166504}
+{"ds": "dev:lung", "split": 7, "method": "HYB-K20", "bacc": 0.9333333333333332, "t": 0.9709861278533936}
+{"ds": "dev:lung", "split": 7, "method": "HYB-L1K20", "bacc": 0.9333333333333332, "t": 31.512102842330933}
+{"ds": "dev:lung", "split": 7, "method": "HYB-K50", "bacc": 0.9333333333333332, "t": 1.0455567836761475}
+{"ds": "dev:lung", "split": 0, "method": "WIDE8k", "bacc": 0.9428571428571428, "t": 11.695602178573608}
+{"ds": "dev:lung", "split": 7, "method": "TPFN-CGf", "bacc": 0.8533333333333333, "t": 1.8959784507751465}
+{"ds": "dev:lung", "split": 8, "method": "DENSITY", "D": 0.26372372372372366, "inner_lr_all": 0.9259759759759759, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 8, "method": "LR", "bacc": 0.6333333333333333, "t": 0.362734317779541}
+{"ds": "dev:lung", "split": 1, "method": "WIDE8k", "bacc": 0.8928571428571429, "t": 3.3831117153167725}
+{"ds": "dev:lung", "split": 8, "method": "XGB", "bacc": 0.8261904761904763, "t": 8.33458423614502}
+{"ds": "dev:lung", "split": 2, "method": "WIDE8k", "bacc": 1.0, "t": 6.866767883300781}
+{"ds": "dev:lung", "split": 8, "method": "TR2m", "bacc": 0.9357142857142857, "t": 0.6803066730499268}
+{"ds": "dev:lung", "split": 8, "method": "KTSP", "bacc": 0.9285714285714285, "t": 0.23215842247009277}
+{"ds": "dev:lung", "split": 8, "method": "HYB-K20", "bacc": 0.9428571428571428, "t": 1.0021839141845703}
+{"ds": "dev:lung", "split": 3, "method": "WIDE8k", "bacc": 0.9928571428571429, "t": 4.601522922515869}
+{"ds": "dev:lung", "split": 4, "method": "WIDE8k", "bacc": 0.9425925925925925, "t": 6.301215887069702}
+{"ds": "dev:lung", "split": 5, "method": "WIDE8k", "bacc": 0.9928571428571429, "t": 6.466978073120117}
+{"ds": "dev:lung", "split": 6, "method": "WIDE8k", "bacc": 0.9928571428571429, "t": 6.289050579071045}
+{"ds": "dev:lung", "split": 7, "method": "WIDE8k", "bacc": 0.8933333333333333, "t": 6.789278268814087}
+{"ds": "dev:lung", "split": 8, "method": "DENSITY", "D": 0.26372372372372366, "inner_lr_all": 0.9259759759759759, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 8, "method": "HYB-L1K20", "bacc": 0.9357142857142857, "t": 30.827657222747803}
+{"ds": "dev:lung", "split": 8, "method": "HYB-K50", "bacc": 0.9428571428571428, "t": 1.086918592453003}
+{"ds": "dev:lung", "split": 8, "method": "TPFN-CGf", "bacc": 0.8833333333333332, "t": 1.5123775005340576}
+{"ds": "dev:lung", "split": 9, "method": "DENSITY", "D": 0.3398498498498497, "inner_lr_all": 0.9090864548759284, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 9, "method": "LR", "bacc": 0.9925925925925926, "t": 0.40403079986572266}
+{"ds": "dev:lung", "split": 8, "method": "WIDE8k", "bacc": 0.8761904761904763, "t": 5.261691093444824}
+{"ds": "dev:lung", "split": 9, "method": "DENSITY", "D": 0.3398498498498497, "inner_lr_all": 0.9090864548759284, "n": 203, "d": 3312, "C": 5, "grouped": false}
+{"ds": "dev:lung", "split": 9, "method": "WIDE8k", "bacc": 0.9925925925925926, "t": 5.159860849380493}
+{"ds": "dev:lung", "split": 9, "method": "XGB", "bacc": 0.9925925925925926, "t": 9.054241418838501}
+{"ds": "dev:lung", "split": 9, "method": "TR2m", "bacc": 0.9925925925925926, "t": 0.6088018417358398}
+{"ds": "dev:lung", "split": 9, "method": "KTSP", "bacc": 0.6203703703703705, "t": 0.35161542892456055}
+{"ds": "dev:lung", "split": 9, "method": "HYB-K20", "bacc": 0.9925925925925926, "t": 0.9889400005340576}
+{"ds": "dev:lung", "split": 9, "method": "HYB-L1K20", "bacc": 0.9925925925925926, "t": 30.344523668289185}
+{"ds": "dev:lung", "split": 9, "method": "HYB-K50", "bacc": 0.9925925925925926, "t": 1.1506984233856201}
+{"ds": "dev:lung", "split": 9, "method": "TPFN-CGf", "bacc": 0.9925925925925926, "t": 1.9018628597259521}
+{"ds": "dev:lung", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.9285714285714285, "t": 1.8425846099853516}
+{"ds": "dev:lung", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.9785714285714284, "t": 0.3733243942260742}
+{"ds": "dev:lung", "split": 2, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.3588571548461914}
+{"ds": "dev:lung", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.9928571428571429, "t": 0.3679227828979492}
+{"ds": "dev:lung", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.9851851851851852, "t": 0.36693620681762695}
+{"ds": "dev:lung", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.9928571428571429, "t": 0.36605048179626465}
+{"ds": "dev:lung", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.9928571428571429, "t": 0.36755943298339844}
+{"ds": "dev:lung", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.9333333333333332, "t": 0.36600780487060547}
+{"ds": "dev:lung", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.9285714285714285, "t": 0.36456727981567383}
+{"ds": "dev:lung", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.9777777777777779, "t": 0.36725711822509766}
+{"ds": "dev:lung", "split": 0, "method": "WIDE8kbal", "bacc": 0.9285714285714285, "t": 4.484360218048096}
+{"ds": "dev:lung", "split": 1, "method": "WIDE8kbal", "bacc": 0.9785714285714284, "t": 1.9018421173095703}
+{"ds": "dev:lung", "split": 2, "method": "WIDE8kbal", "bacc": 0.9857142857142858, "t": 1.9032719135284424}
+{"ds": "dev:lung", "split": 3, "method": "WIDE8kbal", "bacc": 0.9928571428571429, "t": 1.896200180053711}
+{"ds": "dev:lung", "split": 4, "method": "WIDE8kbal", "bacc": 0.9277777777777778, "t": 1.9009571075439453}
+{"ds": "dev:lung", "split": 5, "method": "WIDE8kbal", "bacc": 0.9928571428571429, "t": 1.9012296199798584}
+{"ds": "dev:lung", "split": 6, "method": "WIDE8kbal", "bacc": 0.9571428571428571, "t": 1.9067988395690918}
+{"ds": "dev:lung", "split": 7, "method": "WIDE8kbal", "bacc": 0.9333333333333332, "t": 1.8932421207427979}
+{"ds": "dev:lung", "split": 8, "method": "WIDE8kbal", "bacc": 0.9357142857142857, "t": 1.903853416442871}
+{"ds": "dev:lung", "split": 9, "method": "WIDE8kbal", "bacc": 0.9851851851851852, "t": 1.9040863513946533}
+{"ds": "dev:lung", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.9285714285714285}
+{"ds": "dev:lung", "split": 0, "method": "TICL2-CGf", "bacc": 0.9428571428571428, "t": 1.9572689533233643}
+{"ds": "dev:lung", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.9857142857142858}
+{"ds": "dev:lung", "split": 1, "method": "TICL2-CGf", "bacc": 0.9428571428571428, "t": 0.6692302227020264}
+{"ds": "dev:lung", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.9785714285714284}
+{"ds": "dev:lung", "split": 2, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.6672329902648926}
+{"ds": "dev:lung", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.9928571428571429}
+{"ds": "dev:lung", "split": 3, "method": "TICL2-CGf", "bacc": 0.9928571428571429, "t": 0.6587655544281006}
+{"ds": "dev:lung", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.9777777777777779}
+{"ds": "dev:lung", "split": 4, "method": "TICL2-CGf", "bacc": 0.9425925925925925, "t": 0.6628799438476562}
+{"ds": "dev:lung", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.9857142857142858}
+{"ds": "dev:lung", "split": 5, "method": "TICL2-CGf", "bacc": 0.9928571428571429, "t": 0.6713640689849854}
+{"ds": "dev:lung", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.9714285714285715}
+{"ds": "dev:lung", "split": 6, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.6663966178894043}
+{"ds": "dev:lung", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.8933333333333333}
+{"ds": "dev:lung", "split": 7, "method": "TICL2-CGf", "bacc": 0.8533333333333333, "t": 0.6688196659088135}
+{"ds": "dev:lung", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.9285714285714285}
+{"ds": "dev:lung", "split": 8, "method": "TICL2-CGf", "bacc": 0.8761904761904763, "t": 0.6631655693054199}
+{"ds": "dev:lung", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.9851851851851852}
+{"ds": "dev:lung", "split": 9, "method": "TICL2-CGf", "bacc": 0.9925925925925926, "t": 0.6596193313598633}
+{"ds": "dev:lung", "split": 0, "method": "RFbal", "bacc": 0.95, "t": 2.8476784229278564}
+{"ds": "dev:lung", "split": 0, "method": "RSEbal", "bacc": 0.95, "t": 5.425582647323608}
+{"ds": "dev:lung", "split": 1, "method": "RFbal", "bacc": 0.75, "t": 2.7374660968780518}
+{"ds": "dev:lung", "split": 1, "method": "RSEbal", "bacc": 0.9428571428571428, "t": 4.993627548217773}
+{"ds": "dev:lung", "split": 2, "method": "RFbal", "bacc": 0.96, "t": 2.275373935699463}
+{"ds": "dev:lung", "split": 2, "method": "RSEbal", "bacc": 1.0, "t": 5.7027740478515625}
+{"ds": "dev:lung", "split": 3, "method": "RFbal", "bacc": 0.95, "t": 2.5716707706451416}
+{"ds": "dev:lung", "split": 3, "method": "RSEbal", "bacc": 0.9928571428571429, "t": 5.295351028442383}
+{"ds": "dev:lung", "split": 4, "method": "RFbal", "bacc": 0.7925925925925925, "t": 2.64315128326416}
+{"ds": "dev:lung", "split": 4, "method": "RSEbal", "bacc": 0.9425925925925925, "t": 3.0762550830841064}
+{"ds": "dev:lung", "split": 5, "method": "RFbal", "bacc": 0.9428571428571428, "t": 2.250842571258545}
+{"ds": "dev:lung", "split": 5, "method": "RSEbal", "bacc": 0.9928571428571429, "t": 5.282222509384155}
+{"ds": "dev:lung", "split": 6, "method": "RFbal", "bacc": 0.7833333333333333, "t": 2.300795078277588}
+{"ds": "dev:lung", "split": 6, "method": "RSEbal", "bacc": 1.0, "t": 4.5622241497039795}
+{"ds": "dev:lung", "split": 7, "method": "RFbal", "bacc": 0.8133333333333332, "t": 2.5945236682891846}
+{"ds": "dev:lung", "split": 7, "method": "RSEbal", "bacc": 0.8933333333333333, "t": 4.407292366027832}
+{"ds": "dev:lung", "split": 8, "method": "RFbal", "bacc": 0.6333333333333333, "t": 3.370169162750244}
+{"ds": "dev:lung", "split": 8, "method": "RSEbal", "bacc": 0.8761904761904763, "t": 6.1611008644104}
+{"ds": "dev:lung", "split": 9, "method": "RFbal", "bacc": 0.95, "t": 2.7729132175445557}
+{"ds": "dev:lung", "split": 9, "method": "RSEbal", "bacc": 0.9925925925925926, "t": 5.0618157386779785}

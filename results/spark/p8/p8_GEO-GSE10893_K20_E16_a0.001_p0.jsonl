@@ -1,0 +1,10 @@
+{"ds": "GEO-GSE10893", "split": 0, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.42727272727272725, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 38.85405683517456}
+{"ds": "GEO-GSE10893", "split": 1, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.30227272727272725, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 47.04712796211243}
+{"ds": "GEO-GSE10893", "split": 2, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.425, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 65.56677651405334}
+{"ds": "GEO-GSE10893", "split": 3, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.45, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 45.10946798324585}
+{"ds": "GEO-GSE10893", "split": 4, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.43499999999999994, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 56.73863649368286}
+{"ds": "GEO-GSE10893", "split": 5, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.42727272727272725, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 46.86897850036621}
+{"ds": "GEO-GSE10893", "split": 6, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.4454545454545455, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 55.03696012496948}
+{"ds": "GEO-GSE10893", "split": 7, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.6416666666666667, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 64.03893280029297}
+{"ds": "GEO-GSE10893", "split": 8, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.44000000000000006, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 45.530946254730225}
+{"ds": "GEO-GSE10893", "split": 9, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.43499999999999994, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 47.51904010772705}

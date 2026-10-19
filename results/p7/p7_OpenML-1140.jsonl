@@ -1,0 +1,10 @@
+{"ds": "OpenML-1140", "split": 0, "method": "HYB-ENS", "bacc": 1.0, "t": 2.8838388919830322}
+{"ds": "OpenML-1140", "split": 1, "method": "HYB-ENS", "bacc": 0.87, "t": 3.3619701862335205}
+{"ds": "OpenML-1140", "split": 2, "method": "HYB-ENS", "bacc": 0.98, "t": 3.4086098670959473}
+{"ds": "OpenML-1140", "split": 3, "method": "HYB-ENS", "bacc": 0.9423076923076923, "t": 3.0911648273468018}
+{"ds": "OpenML-1140", "split": 4, "method": "HYB-ENS", "bacc": 0.9287179487179487, "t": 2.8839192390441895}
+{"ds": "OpenML-1140", "split": 5, "method": "HYB-ENS", "bacc": 0.955, "t": 2.878840923309326}
+{"ds": "OpenML-1140", "split": 6, "method": "HYB-ENS", "bacc": 0.955, "t": 3.0195090770721436}
+{"ds": "OpenML-1140", "split": 7, "method": "HYB-ENS", "bacc": 0.98, "t": 3.0304319858551025}
+{"ds": "OpenML-1140", "split": 8, "method": "HYB-ENS", "bacc": 0.9102564102564104, "t": 3.0359439849853516}
+{"ds": "OpenML-1140", "split": 9, "method": "HYB-ENS", "bacc": 0.9215384615384616, "t": 3.176191806793213}

@@ -1,0 +1,160 @@
+{"ds": "TDC-AMES", "split": 0, "method": "DENSITY", "D": 0.06193399512365039, "inner_lr_all": 0.6711947056774643, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 0, "method": "WIDE8k", "bacc": 0.5971765350877193, "t": 6.001928329467773}
+{"ds": "TDC-AMES", "split": 1, "method": "DENSITY", "D": 0.0652915551356742, "inner_lr_all": 0.6683724347871726, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 1, "method": "WIDE8k", "bacc": 0.6060606060606061, "t": 3.358224630355835}
+{"ds": "TDC-AMES", "split": 2, "method": "DENSITY", "D": 0.05922951766126072, "inner_lr_all": 0.6935653177977222, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 2, "method": "WIDE8k", "bacc": 0.6287878787878788, "t": 3.249570369720459}
+{"ds": "TDC-AMES", "split": 3, "method": "DENSITY", "D": 0.09363354852254235, "inner_lr_all": 0.7117514302209625, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 3, "method": "WIDE8k", "bacc": 0.6304713804713804, "t": 3.412822723388672}
+{"ds": "TDC-AMES", "split": 4, "method": "DENSITY", "D": 0.05835575881631616, "inner_lr_all": 0.6737548489142725, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 4, "method": "WIDE8k", "bacc": 0.6501424501424502, "t": 3.4925248622894287}
+{"ds": "TDC-AMES", "split": 5, "method": "DENSITY", "D": 0.07712179263903407, "inner_lr_all": 0.7129847323812841, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 5, "method": "WIDE8k", "bacc": 0.6829769736842105, "t": 3.3521251678466797}
+{"ds": "TDC-AMES", "split": 6, "method": "DENSITY", "D": 0.10798168267464425, "inner_lr_all": 0.6929855952057179, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 6, "method": "WIDE8k", "bacc": 0.7086894586894588, "t": 3.0261762142181396}
+{"ds": "TDC-AMES", "split": 7, "method": "DENSITY", "D": 0.034299060515404545, "inner_lr_all": 0.663517556290348, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 7, "method": "WIDE8k", "bacc": 0.6228956228956228, "t": 3.501821994781494}
+{"ds": "TDC-AMES", "split": 8, "method": "DENSITY", "D": 0.048417572035899914, "inner_lr_all": 0.6839867737364195, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 8, "method": "WIDE8k", "bacc": 0.5740740740740741, "t": 3.122073173522949}
+{"ds": "TDC-AMES", "split": 9, "method": "DENSITY", "D": 0.04574082821602887, "inner_lr_all": 0.6856138140975174, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-AMES", "split": 9, "method": "WIDE8k", "bacc": 0.6279461279461279, "t": 3.2703070640563965}
+{"ds": "TDC-AMES", "split": 0, "method": "LR", "bacc": 0.6102941176470589, "t": 0.04216766357421875}
+{"ds": "TDC-AMES", "split": 0, "method": "XGB", "bacc": 0.7071078431372549, "t": 0.8137006759643555}
+{"ds": "TDC-AMES", "split": 0, "method": "TR2m", "bacc": 0.6323529411764706, "t": 0.2024524211883545}
+{"ds": "TDC-AMES", "split": 0, "method": "KTSP", "bacc": 0.6115196078431372, "t": 0.17008328437805176}
+{"ds": "TDC-AMES", "split": 0, "method": "HYB-K20", "bacc": 0.5477941176470589, "t": 0.3215916156768799}
+{"ds": "TDC-AMES", "split": 0, "method": "HYB-K50", "bacc": 0.6446078431372549, "t": 0.4268302917480469}
+{"ds": "TDC-AMES", "split": 0, "method": "TPFN-CGf", "bacc": 0.5686274509803921, "t": 4.429934978485107}
+{"ds": "TDC-AMES", "split": 1, "method": "LR", "bacc": 0.6706408345752608, "t": 0.050580501556396484}
+{"ds": "TDC-AMES", "split": 1, "method": "XGB", "bacc": 0.6897168405365126, "t": 0.28777503967285156}
+{"ds": "TDC-AMES", "split": 1, "method": "TR2m", "bacc": 0.6230998509687034, "t": 0.18543481826782227}
+{"ds": "TDC-AMES", "split": 1, "method": "KTSP", "bacc": 0.5758569299552906, "t": 0.11203336715698242}
+{"ds": "TDC-AMES", "split": 1, "method": "HYB-K20", "bacc": 0.6423248882265276, "t": 0.16452932357788086}
+{"ds": "TDC-AMES", "split": 1, "method": "HYB-K50", "bacc": 0.5704918032786885, "t": 0.3965725898742676}
+{"ds": "TDC-AMES", "split": 1, "method": "TPFN-CGf", "bacc": 0.6469448584202683, "t": 0.7714762687683105}
+{"ds": "TDC-AMES", "split": 2, "method": "LR", "bacc": 0.7050617283950618, "t": 0.1240077018737793}
+{"ds": "TDC-AMES", "split": 2, "method": "XGB", "bacc": 0.7003703703703703, "t": 0.3853740692138672}
+{"ds": "TDC-AMES", "split": 2, "method": "TR2m", "bacc": 0.6537037037037037, "t": 0.46139049530029297}
+{"ds": "TDC-AMES", "split": 2, "method": "KTSP", "bacc": 0.615432098765432, "t": 0.18069052696228027}
+{"ds": "TDC-AMES", "split": 2, "method": "HYB-K20", "bacc": 0.6401234567901235, "t": 0.42461395263671875}
+{"ds": "TDC-AMES", "split": 2, "method": "HYB-K50", "bacc": 0.6330864197530864, "t": 0.515986442565918}
+{"ds": "TDC-AMES", "split": 2, "method": "TPFN-CGf", "bacc": 0.6335802469135803, "t": 0.8916256427764893}
+{"ds": "TDC-AMES", "split": 3, "method": "LR", "bacc": 0.6718811881188118, "t": 0.03740811347961426}
+{"ds": "TDC-AMES", "split": 3, "method": "XGB", "bacc": 0.6668316831683168, "t": 0.17039155960083008}
+{"ds": "TDC-AMES", "split": 3, "method": "TR2m", "bacc": 0.6804950495049505, "t": 0.1673123836517334}
+{"ds": "TDC-AMES", "split": 3, "method": "KTSP", "bacc": 0.5811881188118813, "t": 0.09184145927429199}
+{"ds": "TDC-AMES", "split": 3, "method": "HYB-K20", "bacc": 0.6166336633663367, "t": 0.1677706241607666}
+{"ds": "TDC-AMES", "split": 3, "method": "HYB-K50", "bacc": 0.5868811881188118, "t": 0.33588504791259766}
+{"ds": "TDC-AMES", "split": 3, "method": "TPFN-CGf", "bacc": 0.6172277227722773, "t": 0.6762905120849609}
+{"ds": "TDC-AMES", "split": 4, "method": "LR", "bacc": 0.6488524590163935, "t": 0.043059587478637695}
+{"ds": "TDC-AMES", "split": 4, "method": "XGB", "bacc": 0.6542622950819672, "t": 0.24225378036499023}
+{"ds": "TDC-AMES", "split": 4, "method": "TR2m", "bacc": 0.6285245901639345, "t": 0.1845719814300537}
+{"ds": "TDC-AMES", "split": 4, "method": "KTSP", "bacc": 0.590327868852459, "t": 0.23182344436645508}
+{"ds": "TDC-AMES", "split": 4, "method": "HYB-K20", "bacc": 0.6213114754098361, "t": 0.1603553295135498}
+{"ds": "TDC-AMES", "split": 4, "method": "HYB-K50", "bacc": 0.551311475409836, "t": 0.45990514755249023}
+{"ds": "TDC-AMES", "split": 4, "method": "TPFN-CGf", "bacc": 0.698032786885246, "t": 1.3902912139892578}
+{"ds": "TDC-AMES", "split": 5, "method": "LR", "bacc": 0.3804945054945055, "t": 0.03913617134094238}
+{"ds": "TDC-AMES", "split": 5, "method": "XGB", "bacc": 0.5137362637362638, "t": 0.27619457244873047}
+{"ds": "TDC-AMES", "split": 5, "method": "TR2m", "bacc": 0.5810439560439561, "t": 0.2303469181060791}
+{"ds": "TDC-AMES", "split": 5, "method": "KTSP", "bacc": 0.5370879120879121, "t": 0.1749584674835205}
+{"ds": "TDC-AMES", "split": 5, "method": "HYB-K20", "bacc": 0.4958791208791209, "t": 0.25922322273254395}
+{"ds": "TDC-AMES", "split": 5, "method": "HYB-K50", "bacc": 0.5137362637362638, "t": 0.6418042182922363}
+{"ds": "TDC-AMES", "split": 5, "method": "TPFN-CGf", "bacc": 0.5315934065934066, "t": 1.4471886157989502}
+{"ds": "TDC-AMES", "split": 6, "method": "LR", "bacc": 0.7535353535353535, "t": 0.04754066467285156}
+{"ds": "TDC-AMES", "split": 6, "method": "XGB", "bacc": 0.7164983164983165, "t": 0.2875237464904785}
+{"ds": "TDC-AMES", "split": 6, "method": "TR2m", "bacc": 0.6498316498316499, "t": 0.20187664031982422}
+{"ds": "TDC-AMES", "split": 6, "method": "KTSP", "bacc": 0.6301346801346801, "t": 0.1422581672668457}
+{"ds": "TDC-AMES", "split": 6, "method": "HYB-K20", "bacc": 0.688047138047138, "t": 0.20373749732971191}
+{"ds": "TDC-AMES", "split": 6, "method": "HYB-K50", "bacc": 0.6702020202020202, "t": 0.35947275161743164}
+{"ds": "TDC-AMES", "split": 6, "method": "TPFN-CGf", "bacc": 0.6895622895622895, "t": 1.5241870880126953}
+{"ds": "TDC-AMES", "split": 7, "method": "LR", "bacc": 0.6747377622377623, "t": 0.03435254096984863}
+{"ds": "TDC-AMES", "split": 7, "method": "XGB", "bacc": 0.7351398601398601, "t": 0.22298955917358398}
+{"ds": "TDC-AMES", "split": 7, "method": "TR2m", "bacc": 0.6238636363636363, "t": 0.27721333503723145}
+{"ds": "TDC-AMES", "split": 7, "method": "KTSP", "bacc": 0.5823426573426573, "t": 0.22941970825195312}
+{"ds": "TDC-AMES", "split": 7, "method": "HYB-K20", "bacc": 0.6013111888111888, "t": 0.2027134895324707}
+{"ds": "TDC-AMES", "split": 7, "method": "HYB-K50", "bacc": 0.5826048951048951, "t": 0.3002169132232666}
+{"ds": "TDC-AMES", "split": 7, "method": "TPFN-CGf", "bacc": 0.6089160839160839, "t": 1.3132896423339844}
+{"ds": "TDC-AMES", "split": 8, "method": "LR", "bacc": 0.6540296924708378, "t": 0.0428769588470459}
+{"ds": "TDC-AMES", "split": 8, "method": "XGB", "bacc": 0.6696712619300106, "t": 0.18164300918579102}
+{"ds": "TDC-AMES", "split": 8, "method": "TR2m", "bacc": 0.6041887592788971, "t": 0.1770341396331787}
+{"ds": "TDC-AMES", "split": 8, "method": "KTSP", "bacc": 0.5898727465535525, "t": 0.1457066535949707}
+{"ds": "TDC-AMES", "split": 8, "method": "HYB-K20", "bacc": 0.665694591728526, "t": 0.2548398971557617}
+{"ds": "TDC-AMES", "split": 8, "method": "HYB-K50", "bacc": 0.5994167550371156, "t": 0.46531176567077637}
+{"ds": "TDC-AMES", "split": 8, "method": "TPFN-CGf", "bacc": 0.6330858960763521, "t": 1.5180091857910156}
+{"ds": "TDC-AMES", "split": 9, "method": "LR", "bacc": 0.6857488758215151, "t": 0.07222247123718262}
+{"ds": "TDC-AMES", "split": 9, "method": "XGB", "bacc": 0.6943964026288482, "t": 0.2765791416168213}
+{"ds": "TDC-AMES", "split": 9, "method": "TR2m", "bacc": 0.6743341404358354, "t": 0.21377205848693848}
+{"ds": "TDC-AMES", "split": 9, "method": "KTSP", "bacc": 0.6300588031822899, "t": 0.138824462890625}
+{"ds": "TDC-AMES", "split": 9, "method": "HYB-K20", "bacc": 0.7132480110688344, "t": 0.21050643920898438}
+{"ds": "TDC-AMES", "split": 9, "method": "HYB-K50", "bacc": 0.6687997232791422, "t": 0.40726232528686523}
+{"ds": "TDC-AMES", "split": 9, "method": "TPFN-CGf", "bacc": 0.6362850224835697, "t": 1.4395883083343506}
+{"ds": "TDC-AMES", "split": 0, "method": "HYB-L1K20", "bacc": 0.6066176470588236, "t": 0.3809676170349121}
+{"ds": "TDC-AMES", "split": 1, "method": "HYB-L1K20", "bacc": 0.5631892697466467, "t": 0.3677217960357666}
+{"ds": "TDC-AMES", "split": 2, "method": "HYB-L1K20", "bacc": 0.6377777777777778, "t": 0.30196547508239746}
+{"ds": "TDC-AMES", "split": 3, "method": "HYB-L1K20", "bacc": 0.6166831683168317, "t": 0.389646053314209}
+{"ds": "TDC-AMES", "split": 4, "method": "HYB-L1K20", "bacc": 0.641311475409836, "t": 0.3967595100402832}
+{"ds": "TDC-AMES", "split": 5, "method": "HYB-L1K20", "bacc": 0.5343406593406593, "t": 0.2961740493774414}
+{"ds": "TDC-AMES", "split": 6, "method": "HYB-L1K20", "bacc": 0.678956228956229, "t": 0.303652286529541}
+{"ds": "TDC-AMES", "split": 7, "method": "HYB-L1K20", "bacc": 0.6258741258741258, "t": 0.2516365051269531}
+{"ds": "TDC-AMES", "split": 8, "method": "HYB-L1K20", "bacc": 0.6452810180275715, "t": 0.303783655166626}
+{"ds": "TDC-AMES", "split": 9, "method": "HYB-L1K20", "bacc": 0.6843652715323417, "t": 0.28380298614501953}
+{"ds": "TDC-AMES", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.5563725490196079, "t": 2.296861171722412}
+{"ds": "TDC-AMES", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.6678092399403874, "t": 0.6375970840454102}
+{"ds": "TDC-AMES", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.6765432098765432, "t": 0.629021167755127}
+{"ds": "TDC-AMES", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.6319306930693069, "t": 0.606194257736206}
+{"ds": "TDC-AMES", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.660655737704918, "t": 0.6489744186401367}
+{"ds": "TDC-AMES", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.5315934065934066, "t": 0.6536486148834229}
+{"ds": "TDC-AMES", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.7257575757575758, "t": 0.6228277683258057}
+{"ds": "TDC-AMES", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.6391608391608392, "t": 0.5748953819274902}
+{"ds": "TDC-AMES", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.6365323435843054, "t": 0.6030383110046387}
+{"ds": "TDC-AMES", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.6534071255620892, "t": 0.6186487674713135}
+{"ds": "TDC-AMES", "split": 0, "method": "WIDE8kbal", "bacc": 0.6010142543859649, "t": 4.965142250061035}
+{"ds": "TDC-AMES", "split": 1, "method": "WIDE8kbal", "bacc": 0.6456228956228955, "t": 2.8835861682891846}
+{"ds": "TDC-AMES", "split": 2, "method": "WIDE8kbal", "bacc": 0.6069023569023568, "t": 2.8382606506347656}
+{"ds": "TDC-AMES", "split": 3, "method": "WIDE8kbal", "bacc": 0.6405723905723906, "t": 2.821850299835205}
+{"ds": "TDC-AMES", "split": 4, "method": "WIDE8kbal", "bacc": 0.7058404558404558, "t": 2.787191152572632}
+{"ds": "TDC-AMES", "split": 5, "method": "WIDE8kbal", "bacc": 0.680921052631579, "t": 2.9722299575805664}
+{"ds": "TDC-AMES", "split": 6, "method": "WIDE8kbal", "bacc": 0.7103988603988605, "t": 2.7566027641296387}
+{"ds": "TDC-AMES", "split": 7, "method": "WIDE8kbal", "bacc": 0.6043771043771043, "t": 2.789815664291382}
+{"ds": "TDC-AMES", "split": 8, "method": "WIDE8kbal", "bacc": 0.5673400673400674, "t": 2.767338514328003}
+{"ds": "TDC-AMES", "split": 9, "method": "WIDE8kbal", "bacc": 0.6531986531986532, "t": 2.7124364376068115}
+{"ds": "TDC-AMES", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.5857843137254902}
+{"ds": "TDC-AMES", "split": 0, "method": "TICL2-CGf", "bacc": 0.5772058823529411, "t": 2.619445323944092}
+{"ds": "TDC-AMES", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.6915052160953801}
+{"ds": "TDC-AMES", "split": 1, "method": "TICL2-CGf", "bacc": 0.688822652757079, "t": 1.2708556652069092}
+{"ds": "TDC-AMES", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.7112345679012346}
+{"ds": "TDC-AMES", "split": 2, "method": "TICL2-CGf", "bacc": 0.7174074074074074, "t": 1.256568193435669}
+{"ds": "TDC-AMES", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.6318316831683168}
+{"ds": "TDC-AMES", "split": 3, "method": "TICL2-CGf", "bacc": 0.631980198019802, "t": 1.2351369857788086}
+{"ds": "TDC-AMES", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.670655737704918}
+{"ds": "TDC-AMES", "split": 4, "method": "TICL2-CGf", "bacc": 0.6852459016393442, "t": 1.2699482440948486}
+{"ds": "TDC-AMES", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.5398351648351649}
+{"ds": "TDC-AMES", "split": 5, "method": "TICL2-CGf", "bacc": 0.5755494505494505, "t": 1.2943832874298096}
+{"ds": "TDC-AMES", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.7161616161616162}
+{"ds": "TDC-AMES", "split": 6, "method": "TICL2-CGf", "bacc": 0.7164983164983165, "t": 1.2745625972747803}
+{"ds": "TDC-AMES", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.6878496503496503}
+{"ds": "TDC-AMES", "split": 7, "method": "TICL2-CGf", "bacc": 0.6201923076923077, "t": 1.225365161895752}
+{"ds": "TDC-AMES", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.7009544008483564}
+{"ds": "TDC-AMES", "split": 8, "method": "TICL2-CGf", "bacc": 0.6744432661717921, "t": 1.2736797332763672}
+{"ds": "TDC-AMES", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.6807333102732618}
+{"ds": "TDC-AMES", "split": 9, "method": "TICL2-CGf", "bacc": 0.6772742995503286, "t": 1.2793653011322021}
+{"ds": "TDC-AMES", "split": 0, "method": "RFbal", "bacc": 0.5894607843137255, "t": 0.980137825012207}
+{"ds": "TDC-AMES", "split": 0, "method": "RSEbal", "bacc": 0.7279411764705883, "t": 4.657837629318237}
+{"ds": "TDC-AMES", "split": 1, "method": "RFbal", "bacc": 0.7178837555886737, "t": 1.9637434482574463}
+{"ds": "TDC-AMES", "split": 1, "method": "RSEbal", "bacc": 0.6724292101341282, "t": 3.0406761169433594}
+{"ds": "TDC-AMES", "split": 2, "method": "RFbal", "bacc": 0.725679012345679, "t": 2.2812798023223877}
+{"ds": "TDC-AMES", "split": 2, "method": "RSEbal", "bacc": 0.7335802469135803, "t": 2.0105948448181152}
+{"ds": "TDC-AMES", "split": 3, "method": "RFbal", "bacc": 0.7364851485148515, "t": 1.6776723861694336}
+{"ds": "TDC-AMES", "split": 3, "method": "RSEbal", "bacc": 0.6769306930693069, "t": 3.8784561157226562}
+{"ds": "TDC-AMES", "split": 4, "method": "RFbal", "bacc": 0.6278688524590164, "t": 1.2299752235412598}
+{"ds": "TDC-AMES", "split": 4, "method": "RSEbal", "bacc": 0.6224590163934427, "t": 4.247773170471191}
+{"ds": "TDC-AMES", "split": 5, "method": "RFbal", "bacc": 0.4574175824175824, "t": 1.005983591079712}
+{"ds": "TDC-AMES", "split": 5, "method": "RSEbal", "bacc": 0.4189560439560439, "t": 4.536703824996948}
+{"ds": "TDC-AMES", "split": 6, "method": "RFbal", "bacc": 0.7163299663299663, "t": 1.1863582134246826}
+{"ds": "TDC-AMES", "split": 6, "method": "RSEbal", "bacc": 0.753030303030303, "t": 3.3878772258758545}
+{"ds": "TDC-AMES", "split": 7, "method": "RFbal", "bacc": 0.7148601398601399, "t": 1.4422128200531006}
+{"ds": "TDC-AMES", "split": 7, "method": "RSEbal", "bacc": 0.7020104895104895, "t": 2.7949020862579346}
+{"ds": "TDC-AMES", "split": 8, "method": "RFbal", "bacc": 0.6996288441145281, "t": 2.0657687187194824}
+{"ds": "TDC-AMES", "split": 8, "method": "RSEbal", "bacc": 0.6574761399787911, "t": 1.688450574874878}
+{"ds": "TDC-AMES", "split": 9, "method": "RFbal", "bacc": 0.6807333102732618, "t": 1.1512823104858398}
+{"ds": "TDC-AMES", "split": 9, "method": "RSEbal", "bacc": 0.7011414735385679, "t": 4.874653339385986}

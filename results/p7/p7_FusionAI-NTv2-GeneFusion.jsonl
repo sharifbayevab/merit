@@ -1,0 +1,10 @@
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 0, "method": "HYB-ENS", "bacc": 0.9575807334428024, "t": 1.9427030086517334}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 1, "method": "HYB-ENS", "bacc": 0.9486211901306241, "t": 1.8883707523345947}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 2, "method": "HYB-ENS", "bacc": 0.9413841807909604, "t": 1.9031002521514893}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 3, "method": "HYB-ENS", "bacc": 0.9404274004683841, "t": 1.9034643173217773}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 4, "method": "HYB-ENS", "bacc": 0.9523565573770492, "t": 1.7264251708984375}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 5, "method": "HYB-ENS", "bacc": 0.9397321428571428, "t": 1.8530590534210205}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 6, "method": "HYB-ENS", "bacc": 0.966931216931217, "t": 1.8404171466827393}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 7, "method": "HYB-ENS", "bacc": 0.9146853146853147, "t": 1.8839118480682373}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 8, "method": "HYB-ENS", "bacc": 0.9506072874493927, "t": 1.912140130996704}
+{"ds": "FusionAI-NTv2-GeneFusion", "split": 9, "method": "HYB-ENS", "bacc": 0.9420765027322404, "t": 1.870943307876587}

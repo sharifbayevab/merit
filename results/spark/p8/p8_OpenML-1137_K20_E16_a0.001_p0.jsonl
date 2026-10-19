@@ -1,0 +1,10 @@
+{"ds": "OpenML-1137", "split": 0, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9817639257294429, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 86.96254014968872}
+{"ds": "OpenML-1137", "split": 1, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.963225371120108, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 81.73339200019836}
+{"ds": "OpenML-1137", "split": 2, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9903846153846154, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 65.09319519996643}
+{"ds": "OpenML-1137", "split": 3, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.981612685560054, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 72.90628814697266}
+{"ds": "OpenML-1137", "split": 4, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9912280701754386, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 59.61353397369385}
+{"ds": "OpenML-1137", "split": 5, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9903846153846154, "epochs": 100, "alpha_l1": 0.001, "prune": 0, "t": 67.32352900505066}
+{"ds": "OpenML-1137", "split": 6, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9544534412955465, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 59.10636067390442}
+{"ds": "OpenML-1137", "split": 7, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9728407557354926, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 62.304205656051636}
+{"ds": "OpenML-1137", "split": 8, "method": "NR-K20-E16-a0.001-p0", "bacc": 1.0, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 80.59030532836914}
+{"ds": "OpenML-1137", "split": 9, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9912280701754386, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 80.32536768913269}

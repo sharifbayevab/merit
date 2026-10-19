@@ -1,0 +1,160 @@
+{"ds": "dev:arcene", "split": 0, "method": "DENSITY", "D": 0.17940821256038653, "inner_lr_all": 0.8440217391304348, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 0, "method": "LR", "bacc": 0.8484848484848485, "t": 0.20455598831176758}
+{"ds": "dev:arcene", "split": 0, "method": "XGB", "bacc": 0.7474747474747474, "t": 6.483007192611694}
+{"ds": "dev:arcene", "split": 0, "method": "TR2m", "bacc": 0.6893939393939394, "t": 0.1983180046081543}
+{"ds": "dev:arcene", "split": 0, "method": "KTSP", "bacc": 0.6161616161616161, "t": 0.14206361770629883}
+{"ds": "dev:arcene", "split": 0, "method": "HYB-K20", "bacc": 0.8131313131313131, "t": 0.2864217758178711}
+{"ds": "dev:arcene", "split": 0, "method": "HYB-L1K20", "bacc": 0.8585858585858586, "t": 0.3562781810760498}
+{"ds": "dev:arcene", "split": 0, "method": "HYB-K50", "bacc": 0.8358585858585859, "t": 0.48883795738220215}
+{"ds": "dev:arcene", "split": 0, "method": "TPFN-CGf", "bacc": 0.7702020202020202, "t": 3.8235673904418945}
+{"ds": "dev:arcene", "split": 1, "method": "DENSITY", "D": 0.16153381642512088, "inner_lr_all": 0.8432367149758454, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 1, "method": "LR", "bacc": 0.893939393939394, "t": 0.2267289161682129}
+{"ds": "dev:arcene", "split": 1, "method": "XGB", "bacc": 0.7474747474747474, "t": 5.394065856933594}
+{"ds": "dev:arcene", "split": 1, "method": "TR2m", "bacc": 0.7626262626262625, "t": 0.1787705421447754}
+{"ds": "dev:arcene", "split": 1, "method": "KTSP", "bacc": 0.7171717171717171, "t": 0.15915751457214355}
+{"ds": "dev:arcene", "split": 1, "method": "HYB-K20", "bacc": 0.8257575757575758, "t": 0.42243409156799316}
+{"ds": "dev:arcene", "split": 1, "method": "HYB-L1K20", "bacc": 0.797979797979798, "t": 0.4571359157562256}
+{"ds": "dev:arcene", "split": 1, "method": "HYB-K50", "bacc": 0.797979797979798, "t": 0.5945031642913818}
+{"ds": "dev:arcene", "split": 1, "method": "TPFN-CGf", "bacc": 0.797979797979798, "t": 1.6055278778076172}
+{"ds": "dev:arcene", "split": 2, "method": "DENSITY", "D": 0.14655797101449286, "inner_lr_all": 0.832608695652174, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 2, "method": "LR", "bacc": 0.7803030303030303, "t": 0.18695592880249023}
+{"ds": "dev:arcene", "split": 2, "method": "XGB", "bacc": 0.7752525252525253, "t": 5.928993225097656}
+{"ds": "dev:arcene", "split": 2, "method": "TR2m", "bacc": 0.6944444444444444, "t": 0.18772125244140625}
+{"ds": "dev:arcene", "split": 2, "method": "KTSP", "bacc": 0.7449494949494949, "t": 0.13678932189941406}
+{"ds": "dev:arcene", "split": 2, "method": "HYB-K20", "bacc": 0.9318181818181819, "t": 0.4365241527557373}
+{"ds": "dev:arcene", "split": 2, "method": "HYB-L1K20", "bacc": 0.8358585858585859, "t": 0.409343957901001}
+{"ds": "dev:arcene", "split": 2, "method": "HYB-K50", "bacc": 0.9090909090909092, "t": 0.5265445709228516}
+{"ds": "dev:arcene", "split": 2, "method": "TPFN-CGf", "bacc": 0.8585858585858586, "t": 1.6259725093841553}
+{"ds": "dev:arcene", "split": 3, "method": "DENSITY", "D": 0.10106821589205417, "inner_lr_all": 0.783772696984841, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 3, "method": "LR", "bacc": 0.8976982097186701, "t": 0.15241622924804688}
+{"ds": "dev:arcene", "split": 3, "method": "XGB", "bacc": 0.7289002557544757, "t": 5.337569713592529}
+{"ds": "dev:arcene", "split": 3, "method": "TR2m", "bacc": 0.7659846547314578, "t": 0.2372448444366455}
+{"ds": "dev:arcene", "split": 3, "method": "KTSP", "bacc": 0.6930946291560103, "t": 0.14955544471740723}
+{"ds": "dev:arcene", "split": 3, "method": "HYB-K20", "bacc": 0.7365728900255755, "t": 0.37514686584472656}
+{"ds": "dev:arcene", "split": 3, "method": "HYB-L1K20", "bacc": 0.7583120204603581, "t": 0.41681838035583496}
+{"ds": "dev:arcene", "split": 3, "method": "HYB-K50", "bacc": 0.7365728900255755, "t": 0.5799870491027832}
+{"ds": "dev:arcene", "split": 3, "method": "TPFN-CGf", "bacc": 0.7877237851662404, "t": 0.8152661323547363}
+{"ds": "dev:arcene", "split": 4, "method": "DENSITY", "D": 0.13792270531400952, "inner_lr_all": 0.8210623854739296, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 4, "method": "LR", "bacc": 0.9347826086956521, "t": 0.19028091430664062}
+{"ds": "dev:arcene", "split": 4, "method": "XGB", "bacc": 0.8542199488491049, "t": 5.458364725112915}
+{"ds": "dev:arcene", "split": 4, "method": "TR2m", "bacc": 0.7161125319693095, "t": 0.19823765754699707}
+{"ds": "dev:arcene", "split": 4, "method": "KTSP", "bacc": 0.6649616368286444, "t": 0.15703082084655762}
+{"ds": "dev:arcene", "split": 4, "method": "HYB-K20", "bacc": 0.9130434782608696, "t": 0.4147605895996094}
+{"ds": "dev:arcene", "split": 4, "method": "HYB-L1K20", "bacc": 0.9053708439897699, "t": 0.5220918655395508}
+{"ds": "dev:arcene", "split": 4, "method": "HYB-K50", "bacc": 0.8836317135549872, "t": 0.6768960952758789}
+{"ds": "dev:arcene", "split": 4, "method": "TPFN-CGf", "bacc": 0.7519181585677749, "t": 1.840141773223877}
+{"ds": "dev:arcene", "split": 5, "method": "DENSITY", "D": 0.19637681159420295, "inner_lr_all": 0.8615942028985507, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 5, "method": "LR", "bacc": 0.7929292929292929, "t": 0.1804790496826172}
+{"ds": "dev:arcene", "split": 5, "method": "XGB", "bacc": 0.8207070707070707, "t": 5.985836744308472}
+{"ds": "dev:arcene", "split": 5, "method": "TR2m", "bacc": 0.7803030303030303, "t": 0.2862987518310547}
+{"ds": "dev:arcene", "split": 5, "method": "KTSP", "bacc": 0.8080808080808081, "t": 0.2226850986480713}
+{"ds": "dev:arcene", "split": 5, "method": "HYB-K20", "bacc": 0.904040404040404, "t": 0.618657112121582}
+{"ds": "dev:arcene", "split": 5, "method": "HYB-L1K20", "bacc": 0.8484848484848485, "t": 0.5774273872375488}
+{"ds": "dev:arcene", "split": 5, "method": "HYB-K50", "bacc": 0.803030303030303, "t": 0.6416592597961426}
+{"ds": "dev:arcene", "split": 5, "method": "TPFN-CGf", "bacc": 0.7752525252525253, "t": 1.2966887950897217}
+{"ds": "dev:arcene", "split": 6, "method": "DENSITY", "D": 0.12512077294685997, "inner_lr_all": 0.8312198067632851, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 6, "method": "LR", "bacc": 0.898989898989899, "t": 0.2099308967590332}
+{"ds": "dev:arcene", "split": 6, "method": "XGB", "bacc": 0.8484848484848485, "t": 6.745213270187378}
+{"ds": "dev:arcene", "split": 6, "method": "TR2m", "bacc": 0.7626262626262625, "t": 0.23013854026794434}
+{"ds": "dev:arcene", "split": 6, "method": "KTSP", "bacc": 0.7398989898989898, "t": 0.17605185508728027}
+{"ds": "dev:arcene", "split": 6, "method": "HYB-K20", "bacc": 0.904040404040404, "t": 0.43909263610839844}
+{"ds": "dev:arcene", "split": 6, "method": "HYB-L1K20", "bacc": 0.9217171717171717, "t": 0.47168827056884766}
+{"ds": "dev:arcene", "split": 6, "method": "HYB-K50", "bacc": 0.8535353535353536, "t": 0.6161584854125977}
+{"ds": "dev:arcene", "split": 6, "method": "TPFN-CGf", "bacc": 0.797979797979798, "t": 1.3740174770355225}
+{"ds": "dev:arcene", "split": 7, "method": "DENSITY", "D": 0.2713768115942028, "inner_lr_all": 0.8716183574879226, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 7, "method": "LR", "bacc": 0.9217171717171717, "t": 0.22797536849975586}
+{"ds": "dev:arcene", "split": 7, "method": "XGB", "bacc": 0.898989898989899, "t": 5.320507764816284}
+{"ds": "dev:arcene", "split": 7, "method": "TR2m", "bacc": 0.7904040404040404, "t": 0.22719645500183105}
+{"ds": "dev:arcene", "split": 7, "method": "KTSP", "bacc": 0.7853535353535352, "t": 0.21213388442993164}
+{"ds": "dev:arcene", "split": 7, "method": "HYB-K20", "bacc": 0.9267676767676767, "t": 0.3885481357574463}
+{"ds": "dev:arcene", "split": 7, "method": "HYB-L1K20", "bacc": 0.9267676767676767, "t": 0.4048440456390381}
+{"ds": "dev:arcene", "split": 7, "method": "HYB-K50", "bacc": 0.9772727272727273, "t": 0.5169823169708252}
+{"ds": "dev:arcene", "split": 7, "method": "TPFN-CGf", "bacc": 0.9267676767676767, "t": 1.2245709896087646}
+{"ds": "dev:arcene", "split": 8, "method": "DENSITY", "D": 0.07767782775279031, "inner_lr_all": 0.8179826753290023, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 8, "method": "LR", "bacc": 0.7365728900255755, "t": 0.15360665321350098}
+{"ds": "dev:arcene", "split": 8, "method": "XGB", "bacc": 0.6918158567774936, "t": 5.283901691436768}
+{"ds": "dev:arcene", "split": 8, "method": "TR2m", "bacc": 0.7225063938618925, "t": 0.23546433448791504}
+{"ds": "dev:arcene", "split": 8, "method": "KTSP", "bacc": 0.5690537084398977, "t": 0.1465005874633789}
+{"ds": "dev:arcene", "split": 8, "method": "HYB-K20", "bacc": 0.7877237851662404, "t": 0.3306550979614258}
+{"ds": "dev:arcene", "split": 8, "method": "HYB-L1K20", "bacc": 0.7289002557544757, "t": 0.4077630043029785}
+{"ds": "dev:arcene", "split": 8, "method": "HYB-K50", "bacc": 0.7148337595907929, "t": 0.586493730545044}
+{"ds": "dev:arcene", "split": 8, "method": "TPFN-CGf", "bacc": 0.6994884910485933, "t": 1.173652172088623}
+{"ds": "dev:arcene", "split": 9, "method": "DENSITY", "D": 0.13730009995002512, "inner_lr_all": 0.8175807929368649, "n": 200, "d": 10000, "C": 2, "grouped": false}
+{"ds": "dev:arcene", "split": 9, "method": "LR", "bacc": 0.8618925831202047, "t": 0.1516399383544922}
+{"ds": "dev:arcene", "split": 9, "method": "XGB", "bacc": 0.7953964194373402, "t": 5.808710336685181}
+{"ds": "dev:arcene", "split": 9, "method": "TR2m", "bacc": 0.5562659846547314, "t": 0.19378662109375}
+{"ds": "dev:arcene", "split": 9, "method": "KTSP", "bacc": 0.629156010230179, "t": 0.19853448867797852}
+{"ds": "dev:arcene", "split": 9, "method": "HYB-K20", "bacc": 0.8107416879795396, "t": 0.4283914566040039}
+{"ds": "dev:arcene", "split": 9, "method": "HYB-L1K20", "bacc": 0.789002557544757, "t": 0.4058542251586914}
+{"ds": "dev:arcene", "split": 9, "method": "HYB-K50", "bacc": 0.7455242966751918, "t": 0.6141419410705566}
+{"ds": "dev:arcene", "split": 9, "method": "TPFN-CGf", "bacc": 0.7301790281329923, "t": 1.4327006340026855}
+{"ds": "dev:arcene", "split": 0, "method": "WIDE8k", "bacc": 0.8434343434343434, "t": 23.835796356201172}
+{"ds": "dev:arcene", "split": 1, "method": "WIDE8k", "bacc": 0.8383838383838385, "t": 20.63769030570984}
+{"ds": "dev:arcene", "split": 2, "method": "WIDE8k", "bacc": 0.7752525252525253, "t": 18.832862854003906}
+{"ds": "dev:arcene", "split": 3, "method": "WIDE8k", "bacc": 0.8312020460358056, "t": 12.836774826049805}
+{"ds": "dev:arcene", "split": 4, "method": "WIDE8k", "bacc": 0.9271099744245523, "t": 10.856166124343872}
+{"ds": "dev:arcene", "split": 5, "method": "WIDE8k", "bacc": 0.8535353535353536, "t": 9.069455862045288}
+{"ds": "dev:arcene", "split": 6, "method": "WIDE8k", "bacc": 0.898989898989899, "t": 9.909968614578247}
+{"ds": "dev:arcene", "split": 7, "method": "WIDE8k", "bacc": 0.898989898989899, "t": 9.521403074264526}
+{"ds": "dev:arcene", "split": 8, "method": "WIDE8k", "bacc": 0.7941176470588236, "t": 7.8004655838012695}
+{"ds": "dev:arcene", "split": 9, "method": "WIDE8k", "bacc": 0.8542199488491049, "t": 9.692039966583252}
+{"ds": "dev:arcene", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.7702020202020202, "t": 1.770411729812622}
+{"ds": "dev:arcene", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.7752525252525253, "t": 0.3876152038574219}
+{"ds": "dev:arcene", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.8181818181818181, "t": 0.22273039817810059}
+{"ds": "dev:arcene", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.7877237851662404, "t": 0.3829019069671631}
+{"ds": "dev:arcene", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.7301790281329923, "t": 0.2294635772705078}
+{"ds": "dev:arcene", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.8585858585858586, "t": 0.19504594802856445}
+{"ds": "dev:arcene", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.803030303030303, "t": 0.3353869915008545}
+{"ds": "dev:arcene", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.904040404040404, "t": 0.1842207908630371}
+{"ds": "dev:arcene", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.7071611253196931, "t": 0.36708617210388184}
+{"ds": "dev:arcene", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.7378516624040921, "t": 0.22267413139343262}
+{"ds": "dev:arcene", "split": 0, "method": "WIDE8kbal", "bacc": 0.8434343434343434, "t": 8.111117601394653}
+{"ds": "dev:arcene", "split": 1, "method": "WIDE8kbal", "bacc": 0.8156565656565656, "t": 5.941115379333496}
+{"ds": "dev:arcene", "split": 2, "method": "WIDE8kbal", "bacc": 0.7752525252525253, "t": 5.906597137451172}
+{"ds": "dev:arcene", "split": 3, "method": "WIDE8kbal", "bacc": 0.8312020460358056, "t": 5.897308588027954}
+{"ds": "dev:arcene", "split": 4, "method": "WIDE8kbal", "bacc": 0.8836317135549872, "t": 5.97637152671814}
+{"ds": "dev:arcene", "split": 5, "method": "WIDE8kbal", "bacc": 0.8813131313131313, "t": 5.903723955154419}
+{"ds": "dev:arcene", "split": 6, "method": "WIDE8kbal", "bacc": 0.8762626262626263, "t": 5.904868841171265}
+{"ds": "dev:arcene", "split": 7, "method": "WIDE8kbal", "bacc": 0.8762626262626263, "t": 5.968394756317139}
+{"ds": "dev:arcene", "split": 8, "method": "WIDE8kbal", "bacc": 0.7365728900255755, "t": 5.933913230895996}
+{"ds": "dev:arcene", "split": 9, "method": "WIDE8kbal", "bacc": 0.8324808184143222, "t": 5.95887303352356}
+{"ds": "dev:arcene", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.8434343434343434}
+{"ds": "dev:arcene", "split": 0, "method": "TICL2-CGf", "bacc": 0.7878787878787878, "t": 1.710970163345337}
+{"ds": "dev:arcene", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.8257575757575758}
+{"ds": "dev:arcene", "split": 1, "method": "TICL2-CGf", "bacc": 0.8484848484848485, "t": 0.3858683109283447}
+{"ds": "dev:arcene", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.8131313131313131}
+{"ds": "dev:arcene", "split": 2, "method": "TICL2-CGf", "bacc": 0.8358585858585859, "t": 0.35725998878479004}
+{"ds": "dev:arcene", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.7953964194373402}
+{"ds": "dev:arcene", "split": 3, "method": "TICL2-CGf", "bacc": 0.7583120204603581, "t": 0.3975346088409424}
+{"ds": "dev:arcene", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.9053708439897699}
+{"ds": "dev:arcene", "split": 4, "method": "TICL2-CGf", "bacc": 0.8976982097186701, "t": 0.3327510356903076}
+{"ds": "dev:arcene", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.8484848484848485}
+{"ds": "dev:arcene", "split": 5, "method": "TICL2-CGf", "bacc": 0.8484848484848485, "t": 0.39170217514038086}
+{"ds": "dev:arcene", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.8535353535353536}
+{"ds": "dev:arcene", "split": 6, "method": "TICL2-CGf", "bacc": 0.797979797979798, "t": 0.3784315586090088}
+{"ds": "dev:arcene", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.9722222222222222}
+{"ds": "dev:arcene", "split": 7, "method": "TICL2-CGf", "bacc": 0.9722222222222222, "t": 0.37868285179138184}
+{"ds": "dev:arcene", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.7800511508951407}
+{"ds": "dev:arcene", "split": 8, "method": "TICL2-CGf", "bacc": 0.8235294117647058, "t": 0.36806392669677734}
+{"ds": "dev:arcene", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.7225063938618925}
+{"ds": "dev:arcene", "split": 9, "method": "TICL2-CGf", "bacc": 0.7442455242966752, "t": 0.3174457550048828}
+{"ds": "dev:arcene", "split": 0, "method": "RFbal", "bacc": 0.8484848484848485, "t": 2.7552568912506104}
+{"ds": "dev:arcene", "split": 0, "method": "RSEbal", "bacc": 0.9217171717171717, "t": 2.462872266769409}
+{"ds": "dev:arcene", "split": 1, "method": "RFbal", "bacc": 0.7247474747474747, "t": 2.2017219066619873}
+{"ds": "dev:arcene", "split": 1, "method": "RSEbal", "bacc": 0.8484848484848485, "t": 4.5463526248931885}
+{"ds": "dev:arcene", "split": 2, "method": "RFbal", "bacc": 0.7474747474747474, "t": 3.022873640060425}
+{"ds": "dev:arcene", "split": 2, "method": "RSEbal", "bacc": 0.7803030303030303, "t": 5.5782694816589355}
+{"ds": "dev:arcene", "split": 3, "method": "RFbal", "bacc": 0.7583120204603581, "t": 2.4946112632751465}
+{"ds": "dev:arcene", "split": 3, "method": "RSEbal", "bacc": 0.8976982097186701, "t": 7.153892755508423}
+{"ds": "dev:arcene", "split": 4, "method": "RFbal", "bacc": 0.860613810741688, "t": 2.5006587505340576}
+{"ds": "dev:arcene", "split": 4, "method": "RSEbal", "bacc": 0.9130434782608696, "t": 6.616282224655151}
+{"ds": "dev:arcene", "split": 5, "method": "RFbal", "bacc": 0.8535353535353536, "t": 2.7976784706115723}
+{"ds": "dev:arcene", "split": 5, "method": "RSEbal", "bacc": 0.9166666666666667, "t": 2.3460254669189453}
+{"ds": "dev:arcene", "split": 6, "method": "RFbal", "bacc": 0.8712121212121212, "t": 2.215022325515747}
+{"ds": "dev:arcene", "split": 6, "method": "RSEbal", "bacc": 0.8712121212121212, "t": 5.139288425445557}
+{"ds": "dev:arcene", "split": 7, "method": "RFbal", "bacc": 0.9267676767676767, "t": 2.0038511753082275}
+{"ds": "dev:arcene", "split": 7, "method": "RSEbal", "bacc": 0.9494949494949495, "t": 6.2303454875946045}
+{"ds": "dev:arcene", "split": 8, "method": "RFbal", "bacc": 0.6994884910485933, "t": 2.4877872467041016}
+{"ds": "dev:arcene", "split": 8, "method": "RSEbal", "bacc": 0.7225063938618925, "t": 2.834609031677246}
+{"ds": "dev:arcene", "split": 9, "method": "RFbal", "bacc": 0.7301790281329923, "t": 2.050199508666992}
+{"ds": "dev:arcene", "split": 9, "method": "RSEbal", "bacc": 0.7813299232736572, "t": 2.5598526000976562}

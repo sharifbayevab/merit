@@ -1,0 +1,45 @@
+{"ds": "colon", "split": 0, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0006799697875976562, "acc": 0.6923076923076923, "bacc": 0.6375, "t_head": 56.21821475028992}
+{"ds": "colon", "split": 0, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.01789116859436035, "acc": 0.6923076923076923, "bacc": 0.6375, "t_head": 9.651374816894531}
+{"ds": "colon", "split": 0, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.40175604820251465, "n_groups_total": 461, "mean_group_size": 7.085, "acc": 0.7692307692307693, "bacc": 0.7375, "t_head": 3.2403018474578857}
+{"ds": "colon", "split": 1, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0025022029876708984, "acc": 0.6923076923076923, "bacc": 0.675, "t_head": 55.65569996833801}
+{"ds": "colon", "split": 1, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.010721921920776367, "acc": 0.6923076923076923, "bacc": 0.675, "t_head": 8.134022951126099}
+{"ds": "colon", "split": 1, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.10025334358215332, "n_groups_total": 604, "mean_group_size": 5.285, "acc": 0.6923076923076923, "bacc": 0.675, "t_head": 11.340519905090332}
+{"ds": "colon", "split": 2, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.002190828323364258, "acc": 0.6666666666666666, "bacc": 0.6875, "t_head": 64.27265405654907}
+{"ds": "colon", "split": 2, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.00429987907409668, "acc": 0.8333333333333334, "bacc": 0.875, "t_head": 14.197465181350708}
+{"ds": "colon", "split": 2, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.24157476425170898, "n_groups_total": 528, "mean_group_size": 5.81, "acc": 0.8333333333333334, "bacc": 0.875, "t_head": 4.5042500495910645}
+{"ds": "colon", "split": 3, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.001924276351928711, "acc": 0.9166666666666666, "bacc": 0.875, "t_head": 66.357342004776}
+{"ds": "colon", "split": 3, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0037271976470947266, "acc": 1.0, "bacc": 1.0, "t_head": 11.844733953475952}
+{"ds": "colon", "split": 3, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.15045523643493652, "n_groups_total": 589, "mean_group_size": 4.48, "acc": 1.0, "bacc": 1.0, "t_head": 4.18850302696228}
+{"ds": "colon", "split": 4, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0007698535919189453, "acc": 1.0, "bacc": 1.0, "t_head": 67.35977721214294}
+{"ds": "colon", "split": 4, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.002790689468383789, "acc": 1.0, "bacc": 1.0, "t_head": 11.639461040496826}
+{"ds": "colon", "split": 4, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06637191772460938, "n_groups_total": 502, "mean_group_size": 6.19, "acc": 1.0, "bacc": 1.0, "t_head": 4.433533191680908}
+{"ds": "colon", "split": 5, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0018770694732666016, "acc": 0.7692307692307693, "bacc": 0.7, "t_head": 66.92107200622559}
+{"ds": "colon", "split": 5, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0036630630493164062, "acc": 0.9230769230769231, "bacc": 0.9, "t_head": 11.686110973358154}
+{"ds": "colon", "split": 5, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.11763691902160645, "n_groups_total": 427, "mean_group_size": 7.32, "acc": 0.9230769230769231, "bacc": 0.9, "t_head": 4.013813018798828}
+{"ds": "colon", "split": 6, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0014951229095458984, "acc": 0.8461538461538461, "bacc": 0.8375, "t_head": 61.31097912788391}
+{"ds": "colon", "split": 6, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0019829273223876953, "acc": 0.8461538461538461, "bacc": 0.8375, "t_head": 11.932010889053345}
+{"ds": "colon", "split": 6, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.12764382362365723, "n_groups_total": 561, "mean_group_size": 5.54, "acc": 0.9230769230769231, "bacc": 0.9375, "t_head": 3.9824559688568115}
+{"ds": "colon", "split": 7, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0013718605041503906, "acc": 0.6666666666666666, "bacc": 0.6875, "t_head": 64.33787107467651}
+{"ds": "colon", "split": 7, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0018389225006103516, "acc": 0.6666666666666666, "bacc": 0.6875, "t_head": 10.023746967315674}
+{"ds": "colon", "split": 7, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.06448602676391602, "n_groups_total": 547, "mean_group_size": 5.405, "acc": 0.6666666666666666, "bacc": 0.6875, "t_head": 6.215247869491577}
+{"ds": "colon", "split": 8, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0016498565673828125, "acc": 0.75, "bacc": 0.6875, "t_head": 71.77666997909546}
+{"ds": "colon", "split": 8, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0063359737396240234, "acc": 0.8333333333333334, "bacc": 0.8125, "t_head": 12.670216798782349}
+{"ds": "colon", "split": 8, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.10811591148376465, "n_groups_total": 611, "mean_group_size": 4.965, "acc": 0.8333333333333334, "bacc": 0.8125, "t_head": 5.260859251022339}
+{"ds": "colon", "split": 9, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0020720958709716797, "acc": 0.8333333333333334, "bacc": 0.75, "t_head": 69.90838599205017}
+{"ds": "colon", "split": 9, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.002076864242553711, "acc": 0.8333333333333334, "bacc": 0.75, "t_head": 12.852585077285767}
+{"ds": "colon", "split": 9, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.14734268188476562, "n_groups_total": 507, "mean_group_size": 5.92, "acc": 0.9166666666666666, "bacc": 0.875, "t_head": 4.664515018463135}
+{"ds": "colon", "split": 10, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0013339519500732422, "acc": 0.7692307692307693, "bacc": 0.7375, "t_head": 71.49743509292603}
+{"ds": "colon", "split": 10, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.003300905227661133, "acc": 0.8461538461538461, "bacc": 0.8375, "t_head": 11.829496145248413}
+{"ds": "colon", "split": 10, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.1263868808746338, "n_groups_total": 501, "mean_group_size": 6.415, "acc": 0.8461538461538461, "bacc": 0.8375, "t_head": 5.188581943511963}
+{"ds": "colon", "split": 11, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0006651878356933594, "acc": 0.8461538461538461, "bacc": 0.8, "t_head": 69.83583092689514}
+{"ds": "colon", "split": 11, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0028052330017089844, "acc": 0.8461538461538461, "bacc": 0.8, "t_head": 12.661990880966187}
+{"ds": "colon", "split": 11, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.17606401443481445, "n_groups_total": 649, "mean_group_size": 4.745, "acc": 0.8461538461538461, "bacc": 0.8, "t_head": 5.013467073440552}
+{"ds": "colon", "split": 12, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0023119449615478516, "acc": 0.8333333333333334, "bacc": 0.875, "t_head": 72.0339138507843}
+{"ds": "colon", "split": 12, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0022630691528320312, "acc": 0.75, "bacc": 0.8125, "t_head": 12.3159818649292}
+{"ds": "colon", "split": 12, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.12168598175048828, "n_groups_total": 546, "mean_group_size": 5.725, "acc": 0.75, "bacc": 0.8125, "t_head": 4.525018215179443}
+{"ds": "colon", "split": 13, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0016050338745117188, "acc": 0.8333333333333334, "bacc": 0.75, "t_head": 70.72941088676453}
+{"ds": "colon", "split": 13, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.0039691925048828125, "acc": 0.8333333333333334, "bacc": 0.75, "t_head": 12.503736734390259}
+{"ds": "colon", "split": 13, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.09309005737304688, "n_groups_total": 462, "mean_group_size": 7.025, "acc": 0.9166666666666666, "bacc": 0.875, "t_head": 4.574821949005127}
+{"ds": "colon", "split": 14, "red": "ALL", "head": "TICL", "d_in": 2000, "t_red": 0.0015339851379394531, "acc": 0.75, "bacc": 0.6875, "t_head": 71.61327910423279}
+{"ds": "colon", "split": 14, "red": "F500", "head": "TICL", "d_in": 500, "t_red": 0.005613088607788086, "acc": 0.9166666666666666, "bacc": 0.9375, "t_head": 13.061109781265259}
+{"ds": "colon", "split": 14, "red": "CGf", "head": "TICL", "d_in": 200, "t_red": 0.12587785720825195, "n_groups_total": 524, "mean_group_size": 5.89, "acc": 0.9166666666666666, "bacc": 0.9375, "t_head": 4.926395893096924}

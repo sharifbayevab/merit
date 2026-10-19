@@ -1,0 +1,10 @@
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9615384615384616, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 200.05650520324707}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9380952380952381, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 189.6972303390503}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9166666666666667, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 181.68997836112976}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9256993006993006, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 156.94398522377014}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9471153846153846, "epochs": 50, "alpha_l1": 0.001, "prune": 0, "t": 116.5447154045105}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.8269230769230769, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 179.04445815086365}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9807692307692308, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 182.5302529335022}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9256993006993006, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 188.4288740158081}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.980952380952381, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 195.2887122631073}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "NR-K20-E16-a0.001-p0", "bacc": 0.9714285714285714, "epochs": 200, "alpha_l1": 0.001, "prune": 0, "t": 194.78118753433228}

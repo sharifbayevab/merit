@@ -1,0 +1,160 @@
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "DENSITY", "D": 0.20675277959450622, "inner_lr_all": 0.9684979289295836, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "WIDE8k", "bacc": 0.9904761904761905, "t": 22.26178550720215}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "DENSITY", "D": 0.16382348666521318, "inner_lr_all": 0.9837130295763389, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "WIDE8k", "bacc": 0.8841269841269841, "t": 18.74237322807312}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "DENSITY", "D": 0.1788685934369385, "inner_lr_all": 0.9420463629096721, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "WIDE8k", "bacc": 0.9902912621359223, "t": 15.71730351448059}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "DENSITY", "D": 0.20189303102972178, "inner_lr_all": 0.9546726255359349, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "WIDE8k", "bacc": 0.9857142857142858, "t": 16.43595552444458}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "DENSITY", "D": 0.15398538312207388, "inner_lr_all": 0.9535457348406989, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "WIDE8k", "bacc": 0.9903846153846154, "t": 15.92260456085205}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "DENSITY", "D": 0.1916012644429912, "inner_lr_all": 0.9546726255359349, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "WIDE8k", "bacc": 0.9952380952380953, "t": 15.730952739715576}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "DENSITY", "D": 0.14990033946868475, "inner_lr_all": 0.9268398268398269, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "WIDE8k", "bacc": 0.9347357065803668, "t": 15.767083168029785}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "DENSITY", "D": 0.17525070852408975, "inner_lr_all": 0.9684979289295836, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "WIDE8k", "bacc": 0.9952380952380953, "t": 15.689701557159424}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "DENSITY", "D": 0.16268803139306742, "inner_lr_all": 0.9268948477581572, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "WIDE8k", "bacc": 0.980952380952381, "t": 16.041538953781128}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "DENSITY", "D": 0.18415267785771383, "inner_lr_all": 0.9698327052643599, "n": 566, "d": 30000, "C": 2, "grouped": true}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "WIDE8k", "bacc": 0.9230769230769231, "t": 16.78845977783203}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "HYB-L1K20", "bacc": 0.9903846153846154, "t": 3.104642152786255}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "HYB-L1K20", "bacc": 0.9904761904761905, "t": 2.697563886642456}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "HYB-L1K20", "bacc": 0.9452380952380952, "t": 3.418632984161377}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "HYB-L1K20", "bacc": 0.9497377622377623, "t": 3.6564383506774902}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "HYB-L1K20", "bacc": 0.9855769230769231, "t": 3.713895797729492}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "HYB-L1K20", "bacc": 0.8605769230769231, "t": 2.535813331604004}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "HYB-L1K20", "bacc": 1.0, "t": 2.339541435241699}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "HYB-L1K20", "bacc": 0.9449300699300699, "t": 2.62286114692688}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "HYB-L1K20", "bacc": 1.0, "t": 2.731694459915161}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "HYB-L1K20", "bacc": 0.980952380952381, "t": 3.099318265914917}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "LR", "bacc": 0.9951923076923077, "t": 1.9595654010772705}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "XGB", "bacc": 0.9951923076923077, "t": 21.983734607696533}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "TR2m", "bacc": 0.9855769230769231, "t": 0.33503222465515137}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "KTSP", "bacc": 0.8125, "t": 0.26721811294555664}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "HYB-K20", "bacc": 0.9663461538461539, "t": 1.2001838684082031}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "HYB-K50", "bacc": 0.9759615384615384, "t": 2.753866672515869}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "TPFN-CGf", "bacc": 0.9903846153846154, "t": 5.41509747505188}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "LR", "bacc": 1.0, "t": 2.150595188140869}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "XGB", "bacc": 0.85, "t": 20.994722843170166}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "TR2m", "bacc": 0.9452380952380952, "t": 0.5306730270385742}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "KTSP", "bacc": 0.819047619047619, "t": 0.6895208358764648}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "HYB-K20", "bacc": 0.9714285714285714, "t": 2.989841938018799}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "HYB-K50", "bacc": 0.9761904761904762, "t": 5.376709699630737}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "TPFN-CGf", "bacc": 1.0, "t": 2.338494062423706}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "LR", "bacc": 0.95, "t": 3.0230088233947754}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "XGB", "bacc": 0.95, "t": 24.33677577972412}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "TR2m", "bacc": 0.8214285714285714, "t": 0.39020848274230957}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "KTSP", "bacc": 0.8380952380952381, "t": 0.5928375720977783}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "HYB-K20", "bacc": 0.9904761904761905, "t": 2.374680995941162}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "HYB-K50", "bacc": 0.9404761904761905, "t": 2.2818291187286377}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "TPFN-CGf", "bacc": 0.9452380952380952, "t": 2.9493303298950195}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "LR", "bacc": 0.9545454545454546, "t": 3.328810453414917}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "XGB", "bacc": 0.9545454545454546, "t": 19.222991228103638}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "TR2m", "bacc": 0.8492132867132867, "t": 0.4159359931945801}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "KTSP", "bacc": 0.8461538461538461, "t": 0.7009551525115967}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "HYB-K20", "bacc": 0.9449300699300699, "t": 3.218520402908325}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "HYB-K50", "bacc": 0.9449300699300699, "t": 4.206002950668335}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "TPFN-CGf", "bacc": 0.9545454545454546, "t": 1.2999656200408936}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "LR", "bacc": 0.9951923076923077, "t": 4.767304182052612}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "XGB", "bacc": 0.9237637362637363, "t": 19.775925874710083}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "TR2m", "bacc": 0.9237637362637363, "t": 0.9162452220916748}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "KTSP", "bacc": 0.8365384615384616, "t": 0.916574239730835}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "HYB-K20", "bacc": 0.9807692307692308, "t": 4.007108688354492}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "HYB-K50", "bacc": 0.9807692307692308, "t": 2.5742666721343994}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.8467590808868408}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "LR", "bacc": 0.8653846153846154, "t": 2.006166458129883}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "XGB", "bacc": 0.875, "t": 22.7525851726532}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "TR2m", "bacc": 0.8509615384615384, "t": 0.9044153690338135}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "KTSP", "bacc": 0.8269230769230769, "t": 0.8381314277648926}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "HYB-K20", "bacc": 0.8605769230769231, "t": 2.4683117866516113}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "HYB-K50", "bacc": 0.8557692307692308, "t": 3.0521020889282227}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "TPFN-CGf", "bacc": 0.8701923076923077, "t": 0.924208402633667}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "LR", "bacc": 1.0, "t": 1.7885820865631104}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "XGB", "bacc": 0.8846153846153846, "t": 18.974881887435913}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "TR2m", "bacc": 0.9182692307692308, "t": 0.8651318550109863}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "KTSP", "bacc": 0.8125, "t": 0.7256238460540771}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "HYB-K20", "bacc": 0.9951923076923077, "t": 1.930711030960083}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "HYB-K50", "bacc": 0.9951923076923077, "t": 2.8732848167419434}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "TPFN-CGf", "bacc": 0.9615384615384616, "t": 1.7259531021118164}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "LR", "bacc": 0.9090909090909092, "t": 2.1808505058288574}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "XGB", "bacc": 0.9090909090909092, "t": 22.747734546661377}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "TR2m", "bacc": 0.8898601398601399, "t": 0.9466245174407959}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "KTSP", "bacc": 0.6551573426573426, "t": 0.6673793792724609}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "HYB-K20", "bacc": 0.9807692307692308, "t": 3.0867533683776855}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "HYB-K50", "bacc": 0.9353146853146853, "t": 3.2163138389587402}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "TPFN-CGf", "bacc": 0.9497377622377623, "t": 1.6475701332092285}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "LR", "bacc": 1.0, "t": 2.2074427604675293}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "XGB", "bacc": 1.0, "t": 21.242928743362427}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "TR2m", "bacc": 0.9904761904761905, "t": 0.6901938915252686}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "KTSP", "bacc": 0.8023809523809524, "t": 0.46193552017211914}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "HYB-K20", "bacc": 0.9904761904761905, "t": 2.2999913692474365}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "HYB-K50", "bacc": 0.9904761904761905, "t": 2.197422981262207}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.3503403663635254}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "LR", "bacc": 1.0, "t": 1.9919137954711914}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "XGB", "bacc": 0.95, "t": 21.179622411727905}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "TR2m", "bacc": 0.9857142857142858, "t": 0.6837482452392578}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "KTSP", "bacc": 0.8333333333333333, "t": 0.4458296298980713}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "HYB-K20", "bacc": 0.980952380952381, "t": 3.2939891815185547}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "HYB-K50", "bacc": 0.980952380952381, "t": 3.9144351482391357}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.4145092964172363}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.9903846153846154, "t": 2.5999836921691895}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.9904761904761905, "t": 0.918231725692749}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.9452380952380952, "t": 0.9116976261138916}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.9545454545454546, "t": 0.9242992401123047}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.9951923076923077, "t": 0.9245233535766602}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.8653846153846154, "t": 0.9217596054077148}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.9951923076923077, "t": 0.916959285736084}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.9449300699300699, "t": 0.9069240093231201}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.9227845668792725}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.9952380952380953, "t": 0.9205448627471924}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "WIDE8kbal", "bacc": 0.9523809523809523, "t": 16.51505446434021}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "WIDE8kbal", "bacc": 0.9619047619047619, "t": 13.674686431884766}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "WIDE8kbal", "bacc": 0.9563106796116505, "t": 13.667248487472534}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "WIDE8kbal", "bacc": 0.9714285714285714, "t": 13.717105150222778}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "WIDE8kbal", "bacc": 0.9759615384615384, "t": 13.662183284759521}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "WIDE8kbal", "bacc": 0.9619047619047619, "t": 13.730216026306152}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "WIDE8kbal", "bacc": 0.970873786407767, "t": 13.650498867034912}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "WIDE8kbal", "bacc": 0.9571428571428571, "t": 13.723894834518433}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "WIDE8kbal", "bacc": 0.9714285714285714, "t": 13.672075510025024}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "WIDE8kbal", "bacc": 0.9663461538461539, "t": 13.714438915252686}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.9807692307692308}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "TICL2-CGf", "bacc": 0.9903846153846154, "t": 2.7019128799438477}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.9904761904761905}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.3505668640136719}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.9452380952380952}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "TICL2-CGf", "bacc": 0.95, "t": 1.3415884971618652}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.9497377622377623}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "TICL2-CGf", "bacc": 0.9545454545454546, "t": 1.3528108596801758}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.9855769230769231}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.353484869003296}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.8605769230769231}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "TICL2-CGf", "bacc": 0.8701923076923077, "t": 1.3472213745117188}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.3474678993225098}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.9497377622377623}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "TICL2-CGf", "bacc": 0.9497377622377623, "t": 1.352268934249878}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.9952380952380953}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.3517589569091797}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.9857142857142858}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "TICL2-CGf", "bacc": 1.0, "t": 1.348508596420288}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "RFbal", "bacc": 1.0, "t": 5.746381521224976}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 0, "method": "RSEbal", "bacc": 0.9951923076923077, "t": 5.649059772491455}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "RFbal", "bacc": 0.95, "t": 5.326669931411743}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 1, "method": "RSEbal", "bacc": 0.9952380952380953, "t": 4.170499086380005}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "RFbal", "bacc": 0.95, "t": 4.951277732849121}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 2, "method": "RSEbal", "bacc": 0.9452380952380952, "t": 5.414681673049927}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "RFbal", "bacc": 0.9090909090909092, "t": 4.9451329708099365}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 3, "method": "RSEbal", "bacc": 0.9545454545454546, "t": 5.403619289398193}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "RFbal", "bacc": 0.8571428571428572, "t": 5.114573001861572}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 4, "method": "RSEbal", "bacc": 0.9903846153846154, "t": 5.90085244178772}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "RFbal", "bacc": 0.875, "t": 6.449998617172241}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 5, "method": "RSEbal", "bacc": 0.8653846153846154, "t": 3.7319979667663574}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "RFbal", "bacc": 0.8846153846153846, "t": 4.988828420639038}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 6, "method": "RSEbal", "bacc": 1.0, "t": 6.373748064041138}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "RFbal", "bacc": 0.9090909090909092, "t": 5.884376525878906}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 7, "method": "RSEbal", "bacc": 0.9449300699300699, "t": 8.119037628173828}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "RFbal", "bacc": 1.0, "t": 6.588892459869385}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 8, "method": "RSEbal", "bacc": 1.0, "t": 6.467247486114502}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "RFbal", "bacc": 0.95, "t": 4.823153018951416}
+{"ds": "TCGA-TCGA-HNSC_Gene-Expression-Quantification", "split": 9, "method": "RSEbal", "bacc": 0.9952380952380953, "t": 7.1558263301849365}

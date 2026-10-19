@@ -1,0 +1,10 @@
+{"ds": "dev:TOX_171", "split": 0, "method": "NR-K20-E16", "bacc": 0.9722222222222222, "epochs": 100, "t": 17.53564214706421}
+{"ds": "dev:TOX_171", "split": 1, "method": "NR-K20-E16", "bacc": 1.0, "epochs": 100, "t": 18.235297203063965}
+{"ds": "dev:TOX_171", "split": 2, "method": "NR-K20-E16", "bacc": 0.9722222222222222, "epochs": 200, "t": 21.746308088302612}
+{"ds": "dev:TOX_171", "split": 3, "method": "NR-K20-E16", "bacc": 1.0, "epochs": 50, "t": 15.834376096725464}
+{"ds": "dev:TOX_171", "split": 4, "method": "NR-K20-E16", "bacc": 1.0, "epochs": 100, "t": 18.339877128601074}
+{"ds": "dev:TOX_171", "split": 5, "method": "NR-K20-E16", "bacc": 0.9722222222222222, "epochs": 100, "t": 17.53697180747986}
+{"ds": "dev:TOX_171", "split": 6, "method": "NR-K20-E16", "bacc": 0.96875, "epochs": 100, "t": 18.387057781219482}
+{"ds": "dev:TOX_171", "split": 7, "method": "NR-K20-E16", "bacc": 0.9166666666666666, "epochs": 50, "t": 17.017243146896362}
+{"ds": "dev:TOX_171", "split": 8, "method": "NR-K20-E16", "bacc": 0.9722222222222222, "epochs": 100, "t": 19.260793209075928}
+{"ds": "dev:TOX_171", "split": 9, "method": "NR-K20-E16", "bacc": 0.8809523809523809, "epochs": 200, "t": 24.10093903541565}

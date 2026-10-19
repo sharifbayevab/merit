@@ -1,0 +1,160 @@
+{"ds": "dev:GLI_85", "split": 0, "method": "DENSITY", "D": 0.0848214285714286, "inner_lr_all": 0.8169642857142857, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 0, "method": "LR", "bacc": 0.8333333333333333, "t": 0.24768733978271484}
+{"ds": "dev:GLI_85", "split": 0, "method": "XGB", "bacc": 0.7878787878787878, "t": 6.3741724491119385}
+{"ds": "dev:GLI_85", "split": 0, "method": "TR2m", "bacc": 0.9166666666666667, "t": 0.21271324157714844}
+{"ds": "dev:GLI_85", "split": 0, "method": "KTSP", "bacc": 0.8181818181818181, "t": 0.12294840812683105}
+{"ds": "dev:GLI_85", "split": 0, "method": "HYB-K20", "bacc": 0.9166666666666667, "t": 0.4831395149230957}
+{"ds": "dev:GLI_85", "split": 0, "method": "HYB-L1K20", "bacc": 0.9166666666666667, "t": 0.3349928855895996}
+{"ds": "dev:GLI_85", "split": 0, "method": "HYB-K50", "bacc": 0.8333333333333333, "t": 0.8811237812042236}
+{"ds": "dev:GLI_85", "split": 0, "method": "TPFN-CGf", "bacc": 0.9545454545454546, "t": 4.662288188934326}
+{"ds": "dev:GLI_85", "split": 1, "method": "DENSITY", "D": 0.013392857142857206, "inner_lr_all": 0.8728174603174604, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 1, "method": "LR", "bacc": 0.8, "t": 2.214188575744629}
+{"ds": "dev:GLI_85", "split": 1, "method": "XGB", "bacc": 0.6583333333333333, "t": 7.738423824310303}
+{"ds": "dev:GLI_85", "split": 1, "method": "TR2m", "bacc": 0.7583333333333333, "t": 0.3163623809814453}
+{"ds": "dev:GLI_85", "split": 1, "method": "KTSP", "bacc": 0.7583333333333333, "t": 0.19433331489562988}
+{"ds": "dev:GLI_85", "split": 1, "method": "HYB-K20", "bacc": 0.8, "t": 0.4205324649810791}
+{"ds": "dev:GLI_85", "split": 1, "method": "HYB-L1K20", "bacc": 0.8, "t": 0.345203161239624}
+{"ds": "dev:GLI_85", "split": 1, "method": "HYB-K50", "bacc": 0.675, "t": 0.5731339454650879}
+{"ds": "dev:GLI_85", "split": 1, "method": "TPFN-CGf", "bacc": 0.8, "t": 2.0203864574432373}
+{"ds": "dev:GLI_85", "split": 2, "method": "DENSITY", "D": 0.04236111111111107, "inner_lr_all": 0.8601190476190476, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 2, "method": "LR", "bacc": 0.9583333333333333, "t": 0.4955575466156006}
+{"ds": "dev:GLI_85", "split": 2, "method": "XGB", "bacc": 0.8583333333333334, "t": 6.482366323471069}
+{"ds": "dev:GLI_85", "split": 2, "method": "TR2m", "bacc": 0.9166666666666667, "t": 0.3037989139556885}
+{"ds": "dev:GLI_85", "split": 2, "method": "KTSP", "bacc": 0.875, "t": 0.16023778915405273}
+{"ds": "dev:GLI_85", "split": 2, "method": "HYB-K20", "bacc": 0.875, "t": 0.7853467464447021}
+{"ds": "dev:GLI_85", "split": 2, "method": "HYB-L1K20", "bacc": 0.9166666666666667, "t": 0.45853257179260254}
+{"ds": "dev:GLI_85", "split": 2, "method": "HYB-K50", "bacc": 0.9166666666666667, "t": 0.6386690139770508}
+{"ds": "dev:GLI_85", "split": 2, "method": "TPFN-CGf", "bacc": 0.875, "t": 1.477215051651001}
+{"ds": "dev:GLI_85", "split": 3, "method": "DENSITY", "D": 0.01041666666666663, "inner_lr_all": 0.7752976190476191, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 3, "method": "LR", "bacc": 1.0, "t": 0.2606964111328125}
+{"ds": "dev:GLI_85", "split": 3, "method": "XGB", "bacc": 0.9583333333333333, "t": 6.234019041061401}
+{"ds": "dev:GLI_85", "split": 3, "method": "TR2m", "bacc": 0.9583333333333333, "t": 0.2668309211730957}
+{"ds": "dev:GLI_85", "split": 3, "method": "KTSP", "bacc": 0.8333333333333333, "t": 0.1577134132385254}
+{"ds": "dev:GLI_85", "split": 3, "method": "HYB-K20", "bacc": 0.9166666666666667, "t": 0.852053165435791}
+{"ds": "dev:GLI_85", "split": 3, "method": "HYB-L1K20", "bacc": 0.9583333333333333, "t": 0.7324681282043457}
+{"ds": "dev:GLI_85", "split": 3, "method": "HYB-K50", "bacc": 0.9583333333333333, "t": 1.4935121536254883}
+{"ds": "dev:GLI_85", "split": 3, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.3647098541259766}
+{"ds": "dev:GLI_85", "split": 4, "method": "DENSITY", "D": 0.022222222222222143, "inner_lr_all": 0.8705357142857143, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 4, "method": "LR", "bacc": 0.7583333333333333, "t": 0.4026303291320801}
+{"ds": "dev:GLI_85", "split": 4, "method": "XGB", "bacc": 0.9, "t": 7.040375232696533}
+{"ds": "dev:GLI_85", "split": 4, "method": "TR2m", "bacc": 0.8, "t": 0.21546578407287598}
+{"ds": "dev:GLI_85", "split": 4, "method": "KTSP", "bacc": 0.9, "t": 0.15609431266784668}
+{"ds": "dev:GLI_85", "split": 4, "method": "HYB-K20", "bacc": 0.8583333333333334, "t": 0.36922240257263184}
+{"ds": "dev:GLI_85", "split": 4, "method": "HYB-L1K20", "bacc": 0.8, "t": 0.33902835845947266}
+{"ds": "dev:GLI_85", "split": 4, "method": "HYB-K50", "bacc": 0.9, "t": 0.7442858219146729}
+{"ds": "dev:GLI_85", "split": 4, "method": "TPFN-CGf", "bacc": 0.9, "t": 1.409942865371704}
+{"ds": "dev:GLI_85", "split": 5, "method": "DENSITY", "D": 0.08382936507936489, "inner_lr_all": 0.8427579365079364, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 5, "method": "LR", "bacc": 0.8712121212121212, "t": 0.39842963218688965}
+{"ds": "dev:GLI_85", "split": 5, "method": "XGB", "bacc": 0.7878787878787878, "t": 5.959489345550537}
+{"ds": "dev:GLI_85", "split": 5, "method": "TR2m", "bacc": 0.9545454545454546, "t": 0.21498703956604004}
+{"ds": "dev:GLI_85", "split": 5, "method": "KTSP", "bacc": 0.7348484848484849, "t": 0.14441943168640137}
+{"ds": "dev:GLI_85", "split": 5, "method": "HYB-K20", "bacc": 0.9545454545454546, "t": 0.3063986301422119}
+{"ds": "dev:GLI_85", "split": 5, "method": "HYB-L1K20", "bacc": 0.8712121212121212, "t": 0.560577392578125}
+{"ds": "dev:GLI_85", "split": 5, "method": "HYB-K50", "bacc": 0.9545454545454546, "t": 1.7175979614257812}
+{"ds": "dev:GLI_85", "split": 5, "method": "TPFN-CGf", "bacc": 0.8712121212121212, "t": 1.5236127376556396}
+{"ds": "dev:GLI_85", "split": 6, "method": "DENSITY", "D": 0.09523809523809523, "inner_lr_all": 0.8764880952380952, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 6, "method": "LR", "bacc": 0.8, "t": 0.46271228790283203}
+{"ds": "dev:GLI_85", "split": 6, "method": "XGB", "bacc": 0.8, "t": 5.6296069622039795}
+{"ds": "dev:GLI_85", "split": 6, "method": "TR2m", "bacc": 0.8, "t": 0.28131914138793945}
+{"ds": "dev:GLI_85", "split": 6, "method": "KTSP", "bacc": 0.8166666666666667, "t": 0.30792808532714844}
+{"ds": "dev:GLI_85", "split": 6, "method": "HYB-K20", "bacc": 0.8583333333333334, "t": 0.490581750869751}
+{"ds": "dev:GLI_85", "split": 6, "method": "HYB-L1K20", "bacc": 0.8, "t": 0.3288862705230713}
+{"ds": "dev:GLI_85", "split": 6, "method": "HYB-K50", "bacc": 0.9, "t": 0.9148654937744141}
+{"ds": "dev:GLI_85", "split": 6, "method": "TPFN-CGf", "bacc": 0.8, "t": 1.3032314777374268}
+{"ds": "dev:GLI_85", "split": 7, "method": "DENSITY", "D": 0.08184523809523803, "inner_lr_all": 0.846031746031746, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 7, "method": "LR", "bacc": 0.9, "t": 0.31772804260253906}
+{"ds": "dev:GLI_85", "split": 7, "method": "XGB", "bacc": 0.7, "t": 7.312481164932251}
+{"ds": "dev:GLI_85", "split": 7, "method": "TR2m", "bacc": 1.0, "t": 0.20409774780273438}
+{"ds": "dev:GLI_85", "split": 7, "method": "KTSP", "bacc": 0.875, "t": 0.2164750099182129}
+{"ds": "dev:GLI_85", "split": 7, "method": "HYB-K20", "bacc": 0.8583333333333334, "t": 0.47060227394104004}
+{"ds": "dev:GLI_85", "split": 7, "method": "HYB-L1K20", "bacc": 0.9, "t": 0.4273684024810791}
+{"ds": "dev:GLI_85", "split": 7, "method": "HYB-K50", "bacc": 0.8583333333333334, "t": 0.6250154972076416}
+{"ds": "dev:GLI_85", "split": 7, "method": "TPFN-CGf", "bacc": 0.9, "t": 1.047861099243164}
+{"ds": "dev:GLI_85", "split": 8, "method": "DENSITY", "D": -0.019246031746031678, "inner_lr_all": 0.8297619047619048, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 8, "method": "LR", "bacc": 0.8166666666666667, "t": 0.2363576889038086}
+{"ds": "dev:GLI_85", "split": 8, "method": "XGB", "bacc": 1.0, "t": 6.226334571838379}
+{"ds": "dev:GLI_85", "split": 8, "method": "TR2m", "bacc": 0.9166666666666667, "t": 0.2646303176879883}
+{"ds": "dev:GLI_85", "split": 8, "method": "KTSP", "bacc": 0.875, "t": 0.20358610153198242}
+{"ds": "dev:GLI_85", "split": 8, "method": "HYB-K20", "bacc": 0.875, "t": 0.43852877616882324}
+{"ds": "dev:GLI_85", "split": 8, "method": "HYB-L1K20", "bacc": 0.7583333333333333, "t": 0.33830881118774414}
+{"ds": "dev:GLI_85", "split": 8, "method": "HYB-K50", "bacc": 0.9166666666666667, "t": 0.47525954246520996}
+{"ds": "dev:GLI_85", "split": 8, "method": "TPFN-CGf", "bacc": 0.9166666666666667, "t": 1.5948152542114258}
+{"ds": "dev:GLI_85", "split": 9, "method": "DENSITY", "D": 0.007440476190476164, "inner_lr_all": 0.8125, "n": 85, "d": 22283, "C": 2, "grouped": false}
+{"ds": "dev:GLI_85", "split": 9, "method": "LR", "bacc": 0.9, "t": 0.23673272132873535}
+{"ds": "dev:GLI_85", "split": 9, "method": "XGB", "bacc": 0.9, "t": 5.674584865570068}
+{"ds": "dev:GLI_85", "split": 9, "method": "TR2m", "bacc": 0.8583333333333334, "t": 0.2201833724975586}
+{"ds": "dev:GLI_85", "split": 9, "method": "KTSP", "bacc": 0.6916666666666667, "t": 0.1255786418914795}
+{"ds": "dev:GLI_85", "split": 9, "method": "HYB-K20", "bacc": 0.8166666666666667, "t": 0.322711706161499}
+{"ds": "dev:GLI_85", "split": 9, "method": "HYB-L1K20", "bacc": 0.9, "t": 0.34882092475891113}
+{"ds": "dev:GLI_85", "split": 9, "method": "HYB-K50", "bacc": 0.9, "t": 0.6211216449737549}
+{"ds": "dev:GLI_85", "split": 9, "method": "TPFN-CGf", "bacc": 0.8583333333333334, "t": 1.4589340686798096}
+{"ds": "dev:GLI_85", "split": 0, "method": "WIDE8k", "bacc": 0.8712121212121212, "t": 16.249677658081055}
+{"ds": "dev:GLI_85", "split": 1, "method": "WIDE8k", "bacc": 0.8, "t": 12.078345775604248}
+{"ds": "dev:GLI_85", "split": 2, "method": "WIDE8k", "bacc": 0.9166666666666667, "t": 10.41245412826538}
+{"ds": "dev:GLI_85", "split": 3, "method": "WIDE8k", "bacc": 0.9583333333333333, "t": 11.107480525970459}
+{"ds": "dev:GLI_85", "split": 4, "method": "WIDE8k", "bacc": 0.8, "t": 12.669064044952393}
+{"ds": "dev:GLI_85", "split": 5, "method": "WIDE8k", "bacc": 0.9545454545454546, "t": 11.979202032089233}
+{"ds": "dev:GLI_85", "split": 6, "method": "WIDE8k", "bacc": 0.8, "t": 11.547743082046509}
+{"ds": "dev:GLI_85", "split": 7, "method": "WIDE8k", "bacc": 0.9, "t": 12.18817949295044}
+{"ds": "dev:GLI_85", "split": 8, "method": "WIDE8k", "bacc": 0.9166666666666667, "t": 11.436311483383179}
+{"ds": "dev:GLI_85", "split": 9, "method": "WIDE8k", "bacc": 0.9, "t": 9.499930620193481}
+{"ds": "dev:GLI_85", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.9545454545454546, "t": 1.7646996974945068}
+{"ds": "dev:GLI_85", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.8583333333333334, "t": 0.3031313419342041}
+{"ds": "dev:GLI_85", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.875, "t": 0.2711358070373535}
+{"ds": "dev:GLI_85", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.9583333333333333, "t": 0.2756221294403076}
+{"ds": "dev:GLI_85", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.9, "t": 0.2729930877685547}
+{"ds": "dev:GLI_85", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.9545454545454546, "t": 0.27503538131713867}
+{"ds": "dev:GLI_85", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.8583333333333334, "t": 0.2759523391723633}
+{"ds": "dev:GLI_85", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.9, "t": 0.2655620574951172}
+{"ds": "dev:GLI_85", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.875, "t": 0.2735750675201416}
+{"ds": "dev:GLI_85", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.8583333333333334, "t": 0.2731194496154785}
+{"ds": "dev:GLI_85", "split": 0, "method": "WIDE8kbal", "bacc": 0.9545454545454546, "t": 5.514923095703125}
+{"ds": "dev:GLI_85", "split": 1, "method": "WIDE8kbal", "bacc": 0.7583333333333333, "t": 3.4145095348358154}
+{"ds": "dev:GLI_85", "split": 2, "method": "WIDE8kbal", "bacc": 0.875, "t": 3.466660737991333}
+{"ds": "dev:GLI_85", "split": 3, "method": "WIDE8kbal", "bacc": 0.875, "t": 3.4212331771850586}
+{"ds": "dev:GLI_85", "split": 4, "method": "WIDE8kbal", "bacc": 0.8583333333333334, "t": 3.4244449138641357}
+{"ds": "dev:GLI_85", "split": 5, "method": "WIDE8kbal", "bacc": 0.9545454545454546, "t": 3.424633264541626}
+{"ds": "dev:GLI_85", "split": 6, "method": "WIDE8kbal", "bacc": 0.8583333333333334, "t": 3.4451072216033936}
+{"ds": "dev:GLI_85", "split": 7, "method": "WIDE8kbal", "bacc": 0.9583333333333333, "t": 3.4295103549957275}
+{"ds": "dev:GLI_85", "split": 8, "method": "WIDE8kbal", "bacc": 0.8333333333333333, "t": 3.424248456954956}
+{"ds": "dev:GLI_85", "split": 9, "method": "WIDE8kbal", "bacc": 0.8583333333333334, "t": 3.4845874309539795}
+{"ds": "dev:GLI_85", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.9545454545454546}
+{"ds": "dev:GLI_85", "split": 0, "method": "TICL2-CGf", "bacc": 0.9166666666666667, "t": 1.921076774597168}
+{"ds": "dev:GLI_85", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.7166666666666667}
+{"ds": "dev:GLI_85", "split": 1, "method": "TICL2-CGf", "bacc": 0.8, "t": 0.5225217342376709}
+{"ds": "dev:GLI_85", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.875}
+{"ds": "dev:GLI_85", "split": 2, "method": "TICL2-CGf", "bacc": 0.875, "t": 0.5308437347412109}
+{"ds": "dev:GLI_85", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.875}
+{"ds": "dev:GLI_85", "split": 3, "method": "TICL2-CGf", "bacc": 0.9583333333333333, "t": 0.5253877639770508}
+{"ds": "dev:GLI_85", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.9}
+{"ds": "dev:GLI_85", "split": 4, "method": "TICL2-CGf", "bacc": 0.8, "t": 0.5256257057189941}
+{"ds": "dev:GLI_85", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.9545454545454546}
+{"ds": "dev:GLI_85", "split": 5, "method": "TICL2-CGf", "bacc": 0.9545454545454546, "t": 0.5279560089111328}
+{"ds": "dev:GLI_85", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.8}
+{"ds": "dev:GLI_85", "split": 6, "method": "TICL2-CGf", "bacc": 0.8, "t": 0.5262866020202637}
+{"ds": "dev:GLI_85", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.9583333333333333}
+{"ds": "dev:GLI_85", "split": 7, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.5243406295776367}
+{"ds": "dev:GLI_85", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.875}
+{"ds": "dev:GLI_85", "split": 8, "method": "TICL2-CGf", "bacc": 0.9583333333333333, "t": 0.5252342224121094}
+{"ds": "dev:GLI_85", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.8583333333333334}
+{"ds": "dev:GLI_85", "split": 9, "method": "TICL2-CGf", "bacc": 0.8583333333333334, "t": 0.5226168632507324}
+{"ds": "dev:GLI_85", "split": 0, "method": "RFbal", "bacc": 0.75, "t": 2.011423110961914}
+{"ds": "dev:GLI_85", "split": 0, "method": "RSEbal", "bacc": 0.8333333333333333, "t": 1.9745981693267822}
+{"ds": "dev:GLI_85", "split": 1, "method": "RFbal", "bacc": 0.7, "t": 1.908280372619629}
+{"ds": "dev:GLI_85", "split": 1, "method": "RSEbal", "bacc": 0.7, "t": 4.767751693725586}
+{"ds": "dev:GLI_85", "split": 2, "method": "RFbal", "bacc": 0.7583333333333333, "t": 1.3845083713531494}
+{"ds": "dev:GLI_85", "split": 2, "method": "RSEbal", "bacc": 0.9166666666666667, "t": 3.114046335220337}
+{"ds": "dev:GLI_85", "split": 3, "method": "RFbal", "bacc": 1.0, "t": 1.933988094329834}
+{"ds": "dev:GLI_85", "split": 3, "method": "RSEbal", "bacc": 1.0, "t": 9.744401693344116}
+{"ds": "dev:GLI_85", "split": 4, "method": "RFbal", "bacc": 0.8, "t": 2.305509328842163}
+{"ds": "dev:GLI_85", "split": 4, "method": "RSEbal", "bacc": 0.7583333333333333, "t": 6.471251964569092}
+{"ds": "dev:GLI_85", "split": 5, "method": "RFbal", "bacc": 0.8712121212121212, "t": 1.971869707107544}
+{"ds": "dev:GLI_85", "split": 5, "method": "RSEbal", "bacc": 0.8712121212121212, "t": 4.660051107406616}
+{"ds": "dev:GLI_85", "split": 6, "method": "RFbal", "bacc": 0.7, "t": 2.1736347675323486}
+{"ds": "dev:GLI_85", "split": 6, "method": "RSEbal", "bacc": 0.7583333333333333, "t": 17.986109495162964}
+{"ds": "dev:GLI_85", "split": 7, "method": "RFbal", "bacc": 0.7, "t": 1.8063058853149414}
+{"ds": "dev:GLI_85", "split": 7, "method": "RSEbal", "bacc": 0.9, "t": 2.0680134296417236}
+{"ds": "dev:GLI_85", "split": 8, "method": "RFbal", "bacc": 0.9, "t": 1.7395563125610352}
+{"ds": "dev:GLI_85", "split": 8, "method": "RSEbal", "bacc": 0.8583333333333334, "t": 2.664011001586914}
+{"ds": "dev:GLI_85", "split": 9, "method": "RFbal", "bacc": 0.8, "t": 2.083211898803711}
+{"ds": "dev:GLI_85", "split": 9, "method": "RSEbal", "bacc": 0.9, "t": 5.30366063117981}

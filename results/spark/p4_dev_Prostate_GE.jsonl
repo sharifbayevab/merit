@@ -1,0 +1,160 @@
+{"ds": "dev:Prostate_GE", "split": 0, "method": "DENSITY", "D": -0.011904761904761862, "inner_lr_all": 0.9010989010989011, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "LR", "bacc": 0.9545454545454546, "t": 0.8221337795257568}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "XGB", "bacc": 1.0, "t": 3.1552894115448}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "TR2m", "bacc": 0.95, "t": 0.23421525955200195}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "KTSP", "bacc": 0.9045454545454545, "t": 0.1692507266998291}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "HYB-K20", "bacc": 0.95, "t": 0.22107815742492676}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "HYB-L1K20", "bacc": 1.0, "t": 0.19907927513122559}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "HYB-K50", "bacc": 0.9545454545454546, "t": 0.4521152973175049}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "TPFN-CGf", "bacc": 0.95, "t": 4.762597322463989}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "DENSITY", "D": -0.025641025641025772, "inner_lr_all": 0.9249084249084248, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "LR", "bacc": 0.8590909090909091, "t": 0.06734728813171387}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "XGB", "bacc": 0.8090909090909091, "t": 1.1332728862762451}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "TR2m", "bacc": 0.8590909090909091, "t": 0.20149564743041992}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "KTSP", "bacc": 0.759090909090909, "t": 0.12662029266357422}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "HYB-K20", "bacc": 0.8136363636363637, "t": 0.1678144931793213}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "HYB-L1K20", "bacc": 0.8590909090909091, "t": 0.3773922920227051}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "HYB-K50", "bacc": 0.8590909090909091, "t": 0.7113144397735596}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "TPFN-CGf", "bacc": 0.9045454545454545, "t": 1.7183837890625}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "DENSITY", "D": -0.0009157509157511345, "inner_lr_all": 0.9395604395604394, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "LR", "bacc": 0.8500000000000001, "t": 0.07333660125732422}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "XGB", "bacc": 0.8500000000000001, "t": 1.218137502670288}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "TR2m", "bacc": 0.9, "t": 0.24781537055969238}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "KTSP", "bacc": 0.8500000000000001, "t": 0.16127586364746094}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "HYB-K20", "bacc": 0.8500000000000001, "t": 0.1919877529144287}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "HYB-L1K20", "bacc": 0.9, "t": 0.1255016326904297}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "HYB-K50", "bacc": 0.9, "t": 0.3665196895599365}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "TPFN-CGf", "bacc": 0.9, "t": 1.2973136901855469}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "DENSITY", "D": 0.0027472527472527375, "inner_lr_all": 0.9157509157509157, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "LR", "bacc": 0.95, "t": 0.3383655548095703}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "XGB", "bacc": 1.0, "t": 1.2555015087127686}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "TR2m", "bacc": 1.0, "t": 0.2228851318359375}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "KTSP", "bacc": 1.0, "t": 0.12079381942749023}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "HYB-K20", "bacc": 0.9, "t": 0.17884254455566406}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "HYB-L1K20", "bacc": 1.0, "t": 0.12817001342773438}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "HYB-K50", "bacc": 1.0, "t": 0.6284854412078857}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "TPFN-CGf", "bacc": 0.95, "t": 1.6620957851409912}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "DENSITY", "D": 0.011904761904761973, "inner_lr_all": 0.8782051282051282, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "LR", "bacc": 1.0, "t": 0.07518243789672852}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "XGB", "bacc": 1.0, "t": 1.0719776153564453}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "TR2m", "bacc": 1.0, "t": 0.21274065971374512}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "KTSP", "bacc": 1.0, "t": 0.10634613037109375}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "HYB-K20", "bacc": 1.0, "t": 0.6094410419464111}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "HYB-L1K20", "bacc": 1.0, "t": 0.3257718086242676}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "HYB-K50", "bacc": 1.0, "t": 0.3695037364959717}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "TPFN-CGf", "bacc": 0.95, "t": 1.7672679424285889}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "DENSITY", "D": -0.012820512820512775, "inner_lr_all": 0.9249084249084248, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "LR", "bacc": 0.9090909090909092, "t": 0.07104802131652832}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "XGB", "bacc": 0.8636363636363636, "t": 1.175144910812378}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "TR2m", "bacc": 0.9090909090909092, "t": 0.28534436225891113}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "KTSP", "bacc": 0.8636363636363636, "t": 0.19081521034240723}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "HYB-K20", "bacc": 0.9090909090909092, "t": 0.21900153160095215}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "HYB-L1K20", "bacc": 0.9090909090909092, "t": 0.22178983688354492}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "HYB-K50", "bacc": 0.9090909090909092, "t": 0.5015933513641357}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "TPFN-CGf", "bacc": 0.9090909090909092, "t": 1.3191192150115967}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "DENSITY", "D": 0.024725274725274637, "inner_lr_all": 0.9258241758241758, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "LR", "bacc": 0.95, "t": 0.06744050979614258}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "XGB", "bacc": 0.9, "t": 1.354795217514038}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "TR2m", "bacc": 0.85, "t": 0.3227705955505371}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "KTSP", "bacc": 0.95, "t": 0.24178004264831543}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "HYB-K20", "bacc": 0.95, "t": 0.19364285469055176}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "HYB-L1K20", "bacc": 0.95, "t": 0.15351104736328125}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "HYB-K50", "bacc": 0.95, "t": 0.3516678810119629}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "TPFN-CGf", "bacc": 0.9, "t": 1.5773956775665283}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "DENSITY", "D": 0.0, "inner_lr_all": 0.9276556776556776, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "LR", "bacc": 0.85, "t": 0.06031942367553711}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "XGB", "bacc": 0.95, "t": 1.466137170791626}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "TR2m", "bacc": 0.95, "t": 0.35321855545043945}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "KTSP", "bacc": 0.9, "t": 0.24173545837402344}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "HYB-K20", "bacc": 0.9, "t": 0.23637962341308594}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "HYB-L1K20", "bacc": 0.9, "t": 0.16335535049438477}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "HYB-K50", "bacc": 0.8500000000000001, "t": 0.500084638595581}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "TPFN-CGf", "bacc": 0.9, "t": 1.1441278457641602}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "DENSITY", "D": -0.012820512820512775, "inner_lr_all": 0.902014652014652, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "LR", "bacc": 0.95, "t": 0.0771481990814209}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "XGB", "bacc": 0.9, "t": 1.1988945007324219}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "TR2m", "bacc": 0.95, "t": 0.30452942848205566}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "KTSP", "bacc": 0.95, "t": 0.16540813446044922}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "HYB-K20", "bacc": 0.95, "t": 0.16816115379333496}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "HYB-L1K20", "bacc": 0.95, "t": 0.14564776420593262}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "HYB-K50", "bacc": 0.95, "t": 0.32700037956237793}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "TPFN-CGf", "bacc": 0.9, "t": 2.2436537742614746}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "DENSITY", "D": 0.010989010989011061, "inner_lr_all": 0.9029304029304029, "n": 102, "d": 5966, "C": 2, "grouped": false}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "LR", "bacc": 0.9, "t": 0.07684922218322754}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "XGB", "bacc": 0.95, "t": 1.266052484512329}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "TR2m", "bacc": 0.95, "t": 0.27624058723449707}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "KTSP", "bacc": 0.9, "t": 0.24112725257873535}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "HYB-K20", "bacc": 0.95, "t": 0.25023531913757324}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "HYB-L1K20", "bacc": 0.95, "t": 0.15437054634094238}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "HYB-K50", "bacc": 0.95, "t": 0.3635823726654053}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "TPFN-CGf", "bacc": 1.0, "t": 1.581838846206665}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "WIDE8k", "bacc": 0.95, "t": 15.108125925064087}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "WIDE8k", "bacc": 0.9045454545454545, "t": 8.75691819190979}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "WIDE8k", "bacc": 0.9, "t": 9.470963716506958}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "WIDE8k", "bacc": 1.0, "t": 7.463005781173706}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "WIDE8k", "bacc": 1.0, "t": 9.338104009628296}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "WIDE8k", "bacc": 0.9090909090909092, "t": 9.682308197021484}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "WIDE8k", "bacc": 0.95, "t": 9.316281080245972}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "WIDE8k", "bacc": 0.9, "t": 6.18915581703186}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "WIDE8k", "bacc": 0.95, "t": 9.09386420249939}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "WIDE8k", "bacc": 1.0, "t": 8.886766910552979}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.95, "t": 1.64919114112854}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.9045454545454545, "t": 0.30095744132995605}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.9, "t": 0.31702733039855957}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.95, "t": 0.3155949115753174}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.95, "t": 0.3149547576904297}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.9090909090909092, "t": 0.31946587562561035}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.9, "t": 0.3168628215789795}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.9, "t": 0.3257894515991211}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.9, "t": 0.3132052421569824}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "TPFNbal-CGf", "bacc": 1.0, "t": 0.30963850021362305}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "WIDE8kbal", "bacc": 0.95, "t": 4.430590867996216}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "WIDE8kbal", "bacc": 0.9045454545454545, "t": 2.4401872158050537}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "WIDE8kbal", "bacc": 0.9, "t": 2.498598098754883}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "WIDE8kbal", "bacc": 1.0, "t": 2.50412654876709}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "WIDE8kbal", "bacc": 1.0, "t": 2.4456255435943604}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "WIDE8kbal", "bacc": 0.9090909090909092, "t": 2.4922049045562744}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "WIDE8kbal", "bacc": 0.95, "t": 2.5067083835601807}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "WIDE8kbal", "bacc": 0.9, "t": 2.504441976547241}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "WIDE8kbal", "bacc": 0.95, "t": 2.457186222076416}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "WIDE8kbal", "bacc": 1.0, "t": 2.506897449493408}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.95}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "TICL2-CGf", "bacc": 0.95, "t": 1.9305174350738525}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.9045454545454545}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "TICL2-CGf", "bacc": 0.9045454545454545, "t": 0.5386621952056885}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.8500000000000001}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "TICL2-CGf", "bacc": 0.8500000000000001, "t": 0.534656286239624}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.5394926071166992}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.5382835865020752}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.9090909090909092}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "TICL2-CGf", "bacc": 0.9090909090909092, "t": 0.5390262603759766}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.95}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "TICL2-CGf", "bacc": 0.95, "t": 0.5383472442626953}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.95}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "TICL2-CGf", "bacc": 0.95, "t": 0.5445640087127686}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.9}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "TICL2-CGf", "bacc": 0.9, "t": 0.5389878749847412}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.95}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "TICL2-CGf", "bacc": 0.95, "t": 0.5378818511962891}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "RFbal", "bacc": 0.9045454545454545, "t": 1.5287232398986816}
+{"ds": "dev:Prostate_GE", "split": 0, "method": "RSEbal", "bacc": 0.9545454545454546, "t": 4.186808109283447}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "RFbal", "bacc": 0.8136363636363637, "t": 2.170647144317627}
+{"ds": "dev:Prostate_GE", "split": 1, "method": "RSEbal", "bacc": 0.8590909090909091, "t": 4.689946174621582}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "RFbal", "bacc": 0.8, "t": 1.3710930347442627}
+{"ds": "dev:Prostate_GE", "split": 2, "method": "RSEbal", "bacc": 0.8500000000000001, "t": 2.4925174713134766}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "RFbal", "bacc": 1.0, "t": 1.3259963989257812}
+{"ds": "dev:Prostate_GE", "split": 3, "method": "RSEbal", "bacc": 0.95, "t": 7.533005952835083}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "RFbal", "bacc": 1.0, "t": 1.726921558380127}
+{"ds": "dev:Prostate_GE", "split": 4, "method": "RSEbal", "bacc": 1.0, "t": 2.672982931137085}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "RFbal", "bacc": 0.9090909090909092, "t": 1.6823089122772217}
+{"ds": "dev:Prostate_GE", "split": 5, "method": "RSEbal", "bacc": 0.9090909090909092, "t": 2.533961772918701}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "RFbal", "bacc": 0.95, "t": 1.543520212173462}
+{"ds": "dev:Prostate_GE", "split": 6, "method": "RSEbal", "bacc": 0.95, "t": 3.271496057510376}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "RFbal", "bacc": 0.9, "t": 1.5672833919525146}
+{"ds": "dev:Prostate_GE", "split": 7, "method": "RSEbal", "bacc": 0.9, "t": 4.997395992279053}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "RFbal", "bacc": 0.95, "t": 1.2555029392242432}
+{"ds": "dev:Prostate_GE", "split": 8, "method": "RSEbal", "bacc": 0.95, "t": 3.059803009033203}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "RFbal", "bacc": 0.8500000000000001, "t": 1.1486682891845703}
+{"ds": "dev:Prostate_GE", "split": 9, "method": "RSEbal", "bacc": 0.9, "t": 6.636955261230469}

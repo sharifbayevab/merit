@@ -1,0 +1,160 @@
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "DENSITY", "D": 0.027729765928784622, "inner_lr_all": 0.6593195086111424, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "WIDE8k", "bacc": 0.75, "t": 6.243048906326294}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "DENSITY", "D": 0.05549016010606489, "inner_lr_all": 0.6636091448499893, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "WIDE8k", "bacc": 0.6350704225352113, "t": 3.725162982940674}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "DENSITY", "D": 0.026038693411336022, "inner_lr_all": 0.622006386196759, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "WIDE8k", "bacc": 0.763265306122449, "t": 3.640004873275757}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "DENSITY", "D": 0.024808467386244315, "inner_lr_all": 0.667082217497608, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "WIDE8k", "bacc": 0.6857142857142857, "t": 3.67106032371521}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "DENSITY", "D": 0.005319148936170248, "inner_lr_all": 0.6577078263763233, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "WIDE8k", "bacc": 0.7091036414565827, "t": 3.4591825008392334}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "DENSITY", "D": 0.010063759528515348, "inner_lr_all": 0.6529777279861791, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "WIDE8k", "bacc": 0.69, "t": 3.5716750621795654}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "DENSITY", "D": 0.051095627289810874, "inner_lr_all": 0.6495525119768352, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "WIDE8k", "bacc": 0.6409859154929578, "t": 4.073641538619995}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "DENSITY", "D": 0.037877080560881904, "inner_lr_all": 0.6787201241354633, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "WIDE8k", "bacc": 0.6979591836734693, "t": 3.888050079345703}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "DENSITY", "D": 0.002025655090119871, "inner_lr_all": 0.6747351148005732, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "WIDE8k", "bacc": 0.6551020408163265, "t": 3.8149871826171875}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "DENSITY", "D": 0.007244718981163634, "inner_lr_all": 0.6390674070838792, "n": 600, "d": 2048, "C": 2, "grouped": true}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "WIDE8k", "bacc": 0.715266106442577, "t": 3.5845766067504883}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "LR", "bacc": 0.6543103448275862, "t": 0.05930972099304199}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "XGB", "bacc": 0.6754310344827585, "t": 0.44367337226867676}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "TR2m", "bacc": 0.585344827586207, "t": 0.28272342681884766}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "KTSP", "bacc": 0.6650862068965517, "t": 0.30187296867370605}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "HYB-K20", "bacc": 0.6573275862068966, "t": 0.4451420307159424}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "HYB-K50", "bacc": 0.6323275862068966, "t": 0.4674525260925293}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "TPFN-CGf", "bacc": 0.7043103448275863, "t": 2.485715389251709}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "LR", "bacc": 0.6702188940092166, "t": 0.0469667911529541}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "XGB", "bacc": 0.7033410138248848, "t": 0.24046850204467773}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "TR2m", "bacc": 0.6742511520737328, "t": 0.19308757781982422}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "KTSP", "bacc": 0.6463133640552995, "t": 0.12196850776672363}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "HYB-K20", "bacc": 0.6244239631336406, "t": 0.368316650390625}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "HYB-K50", "bacc": 0.6929723502304148, "t": 0.5049810409545898}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "TPFN-CGf", "bacc": 0.6906682027649769, "t": 0.6566684246063232}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "LR", "bacc": 0.6993281075027995, "t": 0.049657344818115234}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "XGB", "bacc": 0.6799178798058978, "t": 0.2772524356842041}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "TR2m", "bacc": 0.6753452780888392, "t": 0.18271684646606445}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "KTSP", "bacc": 0.7375886524822695, "t": 0.1163787841796875}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "HYB-K20", "bacc": 0.631765584173199, "t": 0.3981592655181885}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "HYB-K50", "bacc": 0.6349384098544233, "t": 0.4271528720855713}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "TPFN-CGf", "bacc": 0.6636804777902202, "t": 1.5622773170471191}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "LR", "bacc": 0.6925133689839572, "t": 0.06350827217102051}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "XGB", "bacc": 0.7054367201426024, "t": 0.26430749893188477}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "TR2m", "bacc": 0.6929590017825311, "t": 0.2089531421661377}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "KTSP", "bacc": 0.7352941176470589, "t": 0.11226034164428711}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "HYB-K20", "bacc": 0.6657754010695187, "t": 0.2074565887451172}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "HYB-K50", "bacc": 0.6622103386809269, "t": 0.43813657760620117}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "TPFN-CGf", "bacc": 0.7036541889483066, "t": 1.5955686569213867}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "LR", "bacc": 0.6550860719874805, "t": 0.06337261199951172}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "XGB", "bacc": 0.6661971830985915, "t": 0.3825979232788086}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "TR2m", "bacc": 0.6583724569640063, "t": 0.3587930202484131}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "KTSP", "bacc": 0.5987480438184662, "t": 0.16236448287963867}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "HYB-K20", "bacc": 0.6291079812206573, "t": 0.22305798530578613}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "HYB-K50", "bacc": 0.6128325508607199, "t": 0.36870741844177246}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "TPFN-CGf", "bacc": 0.6431924882629108, "t": 1.4066343307495117}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "LR", "bacc": 0.6494876431585292, "t": 0.055356502532958984}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "XGB", "bacc": 0.6684749849306811, "t": 0.2655816078186035}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "TR2m", "bacc": 0.6449668474984931, "t": 0.33119750022888184}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "KTSP", "bacc": 0.6657625075346594, "t": 0.243821382522583}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "HYB-K20", "bacc": 0.6170886075949367, "t": 0.21863341331481934}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "HYB-K50", "bacc": 0.6234177215189873, "t": 0.44371485710144043}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "TPFN-CGf", "bacc": 0.6241711874623267, "t": 1.3834939002990723}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "LR", "bacc": 0.7362903225806452, "t": 0.0615689754486084}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "XGB", "bacc": 0.646774193548387, "t": 0.22534513473510742}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "TR2m", "bacc": 0.6403225806451613, "t": 0.22148823738098145}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "KTSP", "bacc": 0.7209677419354839, "t": 0.1535205841064453}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "HYB-K20", "bacc": 0.6978494623655914, "t": 0.19789552688598633}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "HYB-K50", "bacc": 0.6486559139784946, "t": 0.3841381072998047}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "TPFN-CGf", "bacc": 0.6709677419354838, "t": 1.57244873046875}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "LR", "bacc": 0.6827284105131415, "t": 0.06511282920837402}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "XGB", "bacc": 0.6328222778473092, "t": 0.3315279483795166}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "TR2m", "bacc": 0.69180225281602, "t": 0.35879087448120117}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "KTSP", "bacc": 0.6476846057571966, "t": 0.16263365745544434}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "HYB-K20", "bacc": 0.6115456821026283, "t": 0.22821784019470215}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "HYB-K50", "bacc": 0.6157697121401753, "t": 0.42273592948913574}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "TPFN-CGf", "bacc": 0.6713078848560701, "t": 1.6438734531402588}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "LR", "bacc": 0.685359589041096, "t": 0.05882000923156738}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "XGB", "bacc": 0.6585331050228311, "t": 0.31761837005615234}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "TR2m", "bacc": 0.6837899543378996, "t": 0.19843149185180664}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "KTSP", "bacc": 0.7049086757990868, "t": 0.11552190780639648}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "HYB-K20", "bacc": 0.7100456621004566, "t": 0.22360515594482422}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "HYB-K50", "bacc": 0.6454052511415524, "t": 0.52974534034729}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "TPFN-CGf", "bacc": 0.7412956621004566, "t": 0.7087512016296387}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "LR", "bacc": 0.5954570791527314, "t": 0.12199807167053223}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "XGB", "bacc": 0.6243032329988851, "t": 0.2715733051300049}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "TR2m", "bacc": 0.6842251950947602, "t": 0.24112749099731445}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "KTSP", "bacc": 0.6507803790412485, "t": 0.15315651893615723}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "HYB-K20", "bacc": 0.6073021181716833, "t": 0.7932393550872803}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "HYB-K50", "bacc": 0.6145484949832776, "t": 0.5166435241699219}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "TPFN-CGf", "bacc": 0.6386566332218506, "t": 0.7688853740692139}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "HYB-L1K20", "bacc": 0.6409482758620689, "t": 0.40071773529052734}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "HYB-L1K20", "bacc": 0.6422811059907834, "t": 0.5277152061462402}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "HYB-L1K20", "bacc": 0.6195408734602463, "t": 0.3689289093017578}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "HYB-L1K20", "bacc": 0.679590017825312, "t": 0.27966737747192383}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "HYB-L1K20", "bacc": 0.5413145539906103, "t": 0.5651919841766357}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "HYB-L1K20", "bacc": 0.6472272453285112, "t": 0.8177685737609863}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "HYB-L1K20", "bacc": 0.714247311827957, "t": 0.7109143733978271}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "HYB-L1K20", "bacc": 0.6221839799749687, "t": 0.6346292495727539}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "HYB-L1K20", "bacc": 0.6686643835616438, "t": 0.74123215675354}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "HYB-L1K20", "bacc": 0.5760869565217391, "t": 0.4969453811645508}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.728448275862069, "t": 2.217176914215088}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.6949884792626728, "t": 0.6226212978363037}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.7072601717058604, "t": 0.6273736953735352}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.6876114081996435, "t": 0.6328206062316895}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.6272300469483567, "t": 0.6224181652069092}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.6148282097649186, "t": 0.6285674571990967}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.7306451612903226, "t": 0.6259629726409912}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.6476846057571966, "t": 0.6302533149719238}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.7248858447488584, "t": 0.6313331127166748}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.6481326644370122, "t": 0.6278424263000488}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "WIDE8kbal", "bacc": 0.6714285714285715, "t": 5.178026437759399}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "WIDE8kbal", "bacc": 0.6657746478873239, "t": 3.194628953933716}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "WIDE8kbal", "bacc": 0.6806122448979592, "t": 3.110538959503174}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "WIDE8kbal", "bacc": 0.6377551020408163, "t": 3.1178951263427734}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "WIDE8kbal", "bacc": 0.6072829131652662, "t": 3.150078535079956}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "WIDE8kbal", "bacc": 0.6742857142857143, "t": 3.188150405883789}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "WIDE8kbal", "bacc": 0.6635211267605634, "t": 3.0591180324554443}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "WIDE8kbal", "bacc": 0.6969387755102041, "t": 3.0533971786499023}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "WIDE8kbal", "bacc": 0.686734693877551, "t": 3.1072580814361572}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "WIDE8kbal", "bacc": 0.6803921568627451, "t": 3.1553399562835693}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.7025862068965517}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "TICL2-CGf", "bacc": 0.6784482758620689, "t": 2.6611363887786865}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.6843317972350231}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "TICL2-CGf", "bacc": 0.6728110599078341, "t": 1.2917768955230713}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.6865434863755132}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "TICL2-CGf", "bacc": 0.642963792459873, "t": 1.2708697319030762}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "TICL2bal-CGf", "bacc": 0.6907308377896613}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "TICL2-CGf", "bacc": 0.7067736185383244, "t": 1.2875933647155762}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.6724569640062599}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "TICL2-CGf", "bacc": 0.6602503912363067, "t": 1.2786295413970947}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.6036769138034961}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "TICL2-CGf", "bacc": 0.6353224834237492, "t": 1.2794642448425293}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "TICL2bal-CGf", "bacc": 0.7134408602150537}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "TICL2-CGf", "bacc": 0.6620967741935484, "t": 1.2848148345947266}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.655819774718398}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "TICL2-CGf", "bacc": 0.6173341677096371, "t": 1.2880244255065918}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.7034817351598174}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "TICL2-CGf", "bacc": 0.6892123287671232, "t": 1.2902214527130127}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.6481326644370122}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "TICL2-CGf", "bacc": 0.5857023411371238, "t": 1.2933483123779297}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "RFbal", "bacc": 0.7012931034482759, "t": 1.7428820133209229}
+{"ds": "TDC-CYP3A4-Veith", "split": 0, "method": "RSEbal", "bacc": 0.6745689655172413, "t": 2.9718337059020996}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "RFbal", "bacc": 0.6667626728110599, "t": 1.8163151741027832}
+{"ds": "TDC-CYP3A4-Veith", "split": 1, "method": "RSEbal", "bacc": 0.6915322580645161, "t": 4.620875358581543}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "RFbal", "bacc": 0.7171519223590892, "t": 2.0879201889038086}
+{"ds": "TDC-CYP3A4-Veith", "split": 2, "method": "RSEbal", "bacc": 0.6921425905188503, "t": 7.324892997741699}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "RFbal", "bacc": 0.6911764705882353, "t": 1.969012975692749}
+{"ds": "TDC-CYP3A4-Veith", "split": 3, "method": "RSEbal", "bacc": 0.7098930481283423, "t": 2.831397294998169}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "RFbal", "bacc": 0.6539906103286385, "t": 1.8431792259216309}
+{"ds": "TDC-CYP3A4-Veith", "split": 4, "method": "RSEbal", "bacc": 0.6702660406885759, "t": 3.210350751876831}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "RFbal", "bacc": 0.6818866787221217, "t": 1.7206456661224365}
+{"ds": "TDC-CYP3A4-Veith", "split": 5, "method": "RSEbal", "bacc": 0.6558167570825799, "t": 3.118450164794922}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "RFbal", "bacc": 0.6362903225806452, "t": 1.2190611362457275}
+{"ds": "TDC-CYP3A4-Veith", "split": 6, "method": "RSEbal", "bacc": 0.7129032258064516, "t": 3.082456588745117}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "RFbal", "bacc": 0.6523779724655819, "t": 1.2808218002319336}
+{"ds": "TDC-CYP3A4-Veith", "split": 7, "method": "RSEbal", "bacc": 0.653316645807259, "t": 8.564637422561646}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "RFbal", "bacc": 0.7582762557077626, "t": 1.8711843490600586}
+{"ds": "TDC-CYP3A4-Veith", "split": 8, "method": "RSEbal", "bacc": 0.6546803652968036, "t": 13.98322606086731}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "RFbal", "bacc": 0.6197045707915273, "t": 2.226317882537842}
+{"ds": "TDC-CYP3A4-Veith", "split": 9, "method": "RSEbal", "bacc": 0.6074414715719063, "t": 2.971893310546875}

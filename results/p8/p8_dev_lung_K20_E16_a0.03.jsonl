@@ -1,0 +1,10 @@
+{"ds": "dev:lung", "split": 0, "method": "NR-K20-E16-a0.03", "bacc": 0.8285714285714285, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 7.172869920730591}
+{"ds": "dev:lung", "split": 1, "method": "NR-K20-E16-a0.03", "bacc": 0.8428571428571429, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 6.785935878753662}
+{"ds": "dev:lung", "split": 2, "method": "NR-K20-E16-a0.03", "bacc": 0.8428571428571429, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 6.87817120552063}
+{"ds": "dev:lung", "split": 3, "method": "NR-K20-E16-a0.03", "bacc": 0.8357142857142857, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 8.346803903579712}
+{"ds": "dev:lung", "split": 4, "method": "NR-K20-E16-a0.03", "bacc": 0.8148148148148149, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 8.324509859085083}
+{"ds": "dev:lung", "split": 5, "method": "NR-K20-E16-a0.03", "bacc": 0.8, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 10.791753053665161}
+{"ds": "dev:lung", "split": 6, "method": "NR-K20-E16-a0.03", "bacc": 0.8428571428571429, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 7.0315468311309814}
+{"ds": "dev:lung", "split": 7, "method": "NR-K20-E16-a0.03", "bacc": 0.8714285714285716, "epochs": 200, "active_rules": 0, "alpha_l1": 0.03, "t": 10.815256834030151}
+{"ds": "dev:lung", "split": 8, "method": "NR-K20-E16-a0.03", "bacc": 0.7857142857142858, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 8.389477014541626}
+{"ds": "dev:lung", "split": 9, "method": "NR-K20-E16-a0.03", "bacc": 0.8296296296296296, "epochs": 50, "active_rules": 0, "alpha_l1": 0.03, "t": 8.482991218566895}

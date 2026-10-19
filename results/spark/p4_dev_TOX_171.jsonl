@@ -1,0 +1,161 @@
+{"ds": "dev:TOX_171", "split": 0, "method": "DENSITY", "D": 0.29292929292929293, "inner_lr_all": 0.8743686868686869, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 0, "method": "LR", "bacc": 0.9722222222222222, "t": 1.297712802886963}
+{"ds": "dev:TOX_171", "split": 0, "method": "XGB", "bacc": 0.7951388888888888, "t": 16.315374851226807}
+{"ds": "dev:TOX_171", "split": 0, "method": "TR2m", "bacc": 0.7152777777777778, "t": 0.5108287334442139}
+{"ds": "dev:TOX_171", "split": 0, "method": "KTSP", "bacc": 0.6875, "t": 0.21521258354187012}
+{"ds": "dev:TOX_171", "split": 0, "method": "HYB-K20", "bacc": 0.9444444444444444, "t": 0.997891902923584}
+{"ds": "dev:TOX_171", "split": 0, "method": "HYB-L1K20", "bacc": 0.8298611111111112, "t": 34.92727065086365}
+{"ds": "dev:TOX_171", "split": 0, "method": "HYB-K50", "bacc": 0.9166666666666666, "t": 2.903359889984131}
+{"ds": "dev:TOX_171", "split": 0, "method": "TPFN-CGf", "bacc": 0.9166666666666666, "t": 5.756459951400757}
+{"ds": "dev:TOX_171", "split": 1, "method": "DENSITY", "D": 0.22297979797979794, "inner_lr_all": 0.8660353535353535, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 1, "method": "LR", "bacc": 0.8819444444444444, "t": 0.41732335090637207}
+{"ds": "dev:TOX_171", "split": 1, "method": "XGB", "bacc": 0.7083333333333333, "t": 16.314529418945312}
+{"ds": "dev:TOX_171", "split": 1, "method": "TR2m", "bacc": 0.8194444444444444, "t": 0.5784149169921875}
+{"ds": "dev:TOX_171", "split": 1, "method": "KTSP", "bacc": 0.6770833333333334, "t": 0.33042001724243164}
+{"ds": "dev:TOX_171", "split": 1, "method": "HYB-K20", "bacc": 0.9097222222222222, "t": 1.1605982780456543}
+{"ds": "dev:TOX_171", "split": 1, "method": "HYB-L1K20", "bacc": 0.8819444444444444, "t": 35.7104651927948}
+{"ds": "dev:TOX_171", "split": 1, "method": "HYB-K50", "bacc": 0.8819444444444444, "t": 0.9510116577148438}
+{"ds": "dev:TOX_171", "split": 1, "method": "TPFN-CGf", "bacc": 0.8541666666666666, "t": 2.059438467025757}
+{"ds": "dev:TOX_171", "split": 2, "method": "DENSITY", "D": 0.27714646464646475, "inner_lr_all": 0.9203282828282829, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 2, "method": "LR", "bacc": 0.9444444444444444, "t": 0.3088979721069336}
+{"ds": "dev:TOX_171", "split": 2, "method": "XGB", "bacc": 0.8576388888888888, "t": 14.653619289398193}
+{"ds": "dev:TOX_171", "split": 2, "method": "TR2m", "bacc": 0.7118055555555556, "t": 0.5753467082977295}
+{"ds": "dev:TOX_171", "split": 2, "method": "KTSP", "bacc": 0.5625, "t": 0.25565552711486816}
+{"ds": "dev:TOX_171", "split": 2, "method": "HYB-K20", "bacc": 0.9444444444444444, "t": 0.9712755680084229}
+{"ds": "dev:TOX_171", "split": 2, "method": "HYB-L1K20", "bacc": 0.8298611111111112, "t": 34.16044354438782}
+{"ds": "dev:TOX_171", "split": 2, "method": "HYB-K50", "bacc": 0.8888888888888888, "t": 1.03486967086792}
+{"ds": "dev:TOX_171", "split": 2, "method": "TPFN-CGf", "bacc": 0.8020833333333334, "t": 1.7603733539581299}
+{"ds": "dev:TOX_171", "split": 3, "method": "DENSITY", "D": 0.2787878787878788, "inner_lr_all": 0.8204545454545454, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 3, "method": "LR", "bacc": 0.9444444444444444, "t": 0.27439212799072266}
+{"ds": "dev:TOX_171", "split": 3, "method": "XGB", "bacc": 0.7430555555555556, "t": 15.960810899734497}
+{"ds": "dev:TOX_171", "split": 3, "method": "TR2m", "bacc": 0.71875, "t": 0.5066466331481934}
+{"ds": "dev:TOX_171", "split": 3, "method": "KTSP", "bacc": 0.6840277777777778, "t": 0.2893967628479004}
+{"ds": "dev:TOX_171", "split": 3, "method": "HYB-K20", "bacc": 1.0, "t": 0.9818985462188721}
+{"ds": "dev:TOX_171", "split": 3, "method": "HYB-L1K20", "bacc": 0.8298611111111112, "t": 35.33269000053406}
+{"ds": "dev:TOX_171", "split": 3, "method": "HYB-K50", "bacc": 0.9722222222222222, "t": 1.5454225540161133}
+{"ds": "dev:TOX_171", "split": 3, "method": "TPFN-CGf", "bacc": 0.8576388888888888, "t": 2.7455883026123047}
+{"ds": "dev:TOX_171", "split": 4, "method": "DENSITY", "D": 0.22348484848484862, "inner_lr_all": 0.790909090909091, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 4, "method": "LR", "bacc": 0.9722222222222222, "t": 0.30056071281433105}
+{"ds": "dev:TOX_171", "split": 4, "method": "XGB", "bacc": 0.9444444444444444, "t": 15.039299249649048}
+{"ds": "dev:TOX_171", "split": 4, "method": "TR2m", "bacc": 0.8888888888888888, "t": 0.6333999633789062}
+{"ds": "dev:TOX_171", "split": 4, "method": "KTSP", "bacc": 0.6865079365079365, "t": 0.25281643867492676}
+{"ds": "dev:TOX_171", "split": 4, "method": "HYB-K20", "bacc": 0.9722222222222222, "t": 1.1537766456604004}
+{"ds": "dev:TOX_171", "split": 4, "method": "HYB-L1K20", "bacc": 0.9166666666666666, "t": 36.2393581867218}
+{"ds": "dev:TOX_171", "split": 4, "method": "HYB-K50", "bacc": 1.0, "t": 1.012570858001709}
+{"ds": "dev:TOX_171", "split": 4, "method": "TPFN-CGf", "bacc": 0.9166666666666666, "t": 1.7766144275665283}
+{"ds": "dev:TOX_171", "split": 5, "method": "DENSITY", "D": 0.24570707070707076, "inner_lr_all": 0.8868686868686869, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 5, "method": "LR", "bacc": 1.0, "t": 0.3682100772857666}
+{"ds": "dev:TOX_171", "split": 5, "method": "XGB", "bacc": 0.861111111111111, "t": 14.615798234939575}
+{"ds": "dev:TOX_171", "split": 5, "method": "TR2m", "bacc": 0.8576388888888888, "t": 0.4936232566833496}
+{"ds": "dev:TOX_171", "split": 5, "method": "KTSP", "bacc": 0.6875, "t": 0.1969606876373291}
+{"ds": "dev:TOX_171", "split": 5, "method": "HYB-K20", "bacc": 1.0, "t": 1.0608277320861816}
+{"ds": "dev:TOX_171", "split": 5, "method": "HYB-L1K20", "bacc": 0.9444444444444444, "t": 37.425639629364014}
+{"ds": "dev:TOX_171", "split": 5, "method": "HYB-K50", "bacc": 1.0, "t": 0.9304864406585693}
+{"ds": "dev:TOX_171", "split": 5, "method": "TPFN-CGf", "bacc": 0.9444444444444444, "t": 1.7964987754821777}
+{"ds": "dev:TOX_171", "split": 6, "method": "DENSITY", "D": 0.12184343434343448, "inner_lr_all": 0.8092171717171718, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 6, "method": "LR", "bacc": 0.9722222222222222, "t": 0.3043019771575928}
+{"ds": "dev:TOX_171", "split": 6, "method": "XGB", "bacc": 0.7569444444444444, "t": 13.853209972381592}
+{"ds": "dev:TOX_171", "split": 6, "method": "TR2m", "bacc": 0.6805555555555556, "t": 0.47578978538513184}
+{"ds": "dev:TOX_171", "split": 6, "method": "KTSP", "bacc": 0.7395833333333333, "t": 0.22838521003723145}
+{"ds": "dev:TOX_171", "split": 6, "method": "HYB-K20", "bacc": 0.9409722222222222, "t": 1.0614521503448486}
+{"ds": "dev:TOX_171", "split": 6, "method": "HYB-L1K20", "bacc": 0.8541666666666666, "t": 37.405012130737305}
+{"ds": "dev:TOX_171", "split": 6, "method": "HYB-K50", "bacc": 0.9097222222222222, "t": 0.9180705547332764}
+{"ds": "dev:TOX_171", "split": 6, "method": "TPFN-CGf", "bacc": 0.9097222222222222, "t": 2.5152289867401123}
+{"ds": "dev:TOX_171", "split": 7, "method": "DENSITY", "D": 0.2869949494949495, "inner_lr_all": 0.8542929292929293, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 7, "method": "LR", "bacc": 0.9444444444444444, "t": 0.28543686866760254}
+{"ds": "dev:TOX_171", "split": 7, "method": "XGB", "bacc": 0.8576388888888888, "t": 14.305302143096924}
+{"ds": "dev:TOX_171", "split": 7, "method": "TR2m", "bacc": 0.6909722222222222, "t": 0.48991823196411133}
+{"ds": "dev:TOX_171", "split": 7, "method": "KTSP", "bacc": 0.6215277777777778, "t": 0.33589959144592285}
+{"ds": "dev:TOX_171", "split": 7, "method": "HYB-K20", "bacc": 0.9444444444444444, "t": 0.9608414173126221}
+{"ds": "dev:TOX_171", "split": 7, "method": "HYB-L1K20", "bacc": 0.9166666666666666, "t": 34.89882683753967}
+{"ds": "dev:TOX_171", "split": 7, "method": "HYB-K50", "bacc": 0.9444444444444444, "t": 0.8810651302337646}
+{"ds": "dev:TOX_171", "split": 7, "method": "TPFN-CGf", "bacc": 0.8888888888888888, "t": 2.0797972679138184}
+{"ds": "dev:TOX_171", "split": 8, "method": "DENSITY", "D": 0.17386363636363633, "inner_lr_all": 0.8337121212121211, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 8, "method": "LR", "bacc": 1.0, "t": 0.37532949447631836}
+{"ds": "dev:TOX_171", "split": 8, "method": "XGB", "bacc": 0.7951388888888888, "t": 13.421185493469238}
+{"ds": "dev:TOX_171", "split": 8, "method": "TR2m", "bacc": 0.7395833333333333, "t": 0.5026490688323975}
+{"ds": "dev:TOX_171", "split": 8, "method": "KTSP", "bacc": 0.6736111111111112, "t": 0.28110694885253906}
+{"ds": "dev:TOX_171", "split": 8, "method": "HYB-K20", "bacc": 0.9097222222222222, "t": 0.8485641479492188}
+{"ds": "dev:TOX_171", "split": 8, "method": "HYB-L1K20", "bacc": 0.7986111111111112, "t": 38.63226342201233}
+{"ds": "dev:TOX_171", "split": 8, "method": "HYB-K50", "bacc": 0.8854166666666666, "t": 0.9888017177581787}
+{"ds": "dev:TOX_171", "split": 8, "method": "TPFN-CGf", "bacc": 0.8819444444444444, "t": 1.71158766746521}
+{"ds": "dev:TOX_171", "split": 9, "method": "DENSITY", "D": 0.2621212121212121, "inner_lr_all": 0.8842171717171716, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 9, "method": "LR", "bacc": 0.9444444444444444, "t": 0.26273107528686523}
+{"ds": "dev:TOX_171", "split": 0, "method": "WIDE8k", "bacc": 0.7743055555555556, "t": 15.698232650756836}
+{"ds": "dev:TOX_171", "split": 9, "method": "XGB", "bacc": 0.8809523809523809, "t": 13.535576820373535}
+{"ds": "dev:TOX_171", "split": 9, "method": "TR2m", "bacc": 0.8888888888888888, "t": 0.5135197639465332}
+{"ds": "dev:TOX_171", "split": 9, "method": "KTSP", "bacc": 0.7142857142857142, "t": 0.2310793399810791}
+{"ds": "dev:TOX_171", "split": 9, "method": "HYB-K20", "bacc": 0.9722222222222222, "t": 0.8461201190948486}
+{"ds": "dev:TOX_171", "split": 1, "method": "WIDE8k", "bacc": 0.7083333333333333, "t": 10.191205978393555}
+{"ds": "dev:TOX_171", "split": 2, "method": "WIDE8k", "bacc": 0.8611111111111112, "t": 10.301381349563599}
+{"ds": "dev:TOX_171", "split": 3, "method": "WIDE8k", "bacc": 0.8611111111111112, "t": 10.447144031524658}
+{"ds": "dev:TOX_171", "split": 4, "method": "WIDE8k", "bacc": 0.9444444444444444, "t": 10.320305585861206}
+{"ds": "dev:TOX_171", "split": 9, "method": "HYB-L1K20", "bacc": 0.9166666666666666, "t": 35.46648645401001}
+{"ds": "dev:TOX_171", "split": 9, "method": "HYB-K50", "bacc": 0.9444444444444444, "t": 0.838798999786377}
+{"ds": "dev:TOX_171", "split": 9, "method": "TPFN-CGf", "bacc": 0.861111111111111, "t": 1.8053178787231445}
+{"ds": "dev:TOX_171", "split": 5, "method": "WIDE8k", "bacc": 0.8611111111111112, "t": 10.478995323181152}
+{"ds": "dev:TOX_171", "split": 6, "method": "WIDE8k", "bacc": 0.7708333333333333, "t": 10.618940591812134}
+{"ds": "dev:TOX_171", "split": 7, "method": "WIDE8k", "bacc": 0.8888888888888888, "t": 10.970265865325928}
+{"ds": "dev:TOX_171", "split": 8, "method": "WIDE8k", "bacc": 0.9409722222222222, "t": 11.675755262374878}
+{"ds": "dev:TOX_171", "split": 9, "method": "DENSITY", "D": 0.2621212121212121, "inner_lr_all": 0.8842171717171716, "n": 171, "d": 5748, "C": 4, "grouped": false}
+{"ds": "dev:TOX_171", "split": 9, "method": "WIDE8k", "bacc": 0.7777777777777778, "t": 10.090588092803955}
+{"ds": "dev:TOX_171", "split": 0, "method": "TPFNbal-CGf", "bacc": 0.9166666666666666, "t": 1.8794512748718262}
+{"ds": "dev:TOX_171", "split": 1, "method": "TPFNbal-CGf", "bacc": 0.8541666666666666, "t": 0.3802378177642822}
+{"ds": "dev:TOX_171", "split": 2, "method": "TPFNbal-CGf", "bacc": 0.8020833333333334, "t": 0.3728034496307373}
+{"ds": "dev:TOX_171", "split": 3, "method": "TPFNbal-CGf", "bacc": 0.8576388888888888, "t": 0.3764379024505615}
+{"ds": "dev:TOX_171", "split": 4, "method": "TPFNbal-CGf", "bacc": 0.9166666666666666, "t": 0.38215065002441406}
+{"ds": "dev:TOX_171", "split": 5, "method": "TPFNbal-CGf", "bacc": 0.9444444444444444, "t": 0.3848862648010254}
+{"ds": "dev:TOX_171", "split": 6, "method": "TPFNbal-CGf", "bacc": 0.9097222222222222, "t": 0.3732140064239502}
+{"ds": "dev:TOX_171", "split": 7, "method": "TPFNbal-CGf", "bacc": 0.8888888888888888, "t": 0.38074231147766113}
+{"ds": "dev:TOX_171", "split": 8, "method": "TPFNbal-CGf", "bacc": 0.8819444444444444, "t": 0.39139223098754883}
+{"ds": "dev:TOX_171", "split": 9, "method": "TPFNbal-CGf", "bacc": 0.861111111111111, "t": 0.39252758026123047}
+{"ds": "dev:TOX_171", "split": 0, "method": "WIDE8kbal", "bacc": 0.7743055555555556, "t": 5.308621406555176}
+{"ds": "dev:TOX_171", "split": 1, "method": "WIDE8kbal", "bacc": 0.7083333333333333, "t": 3.287544012069702}
+{"ds": "dev:TOX_171", "split": 2, "method": "WIDE8kbal", "bacc": 0.8611111111111112, "t": 3.343761682510376}
+{"ds": "dev:TOX_171", "split": 3, "method": "WIDE8kbal", "bacc": 0.8611111111111112, "t": 3.344614267349243}
+{"ds": "dev:TOX_171", "split": 4, "method": "WIDE8kbal", "bacc": 0.9444444444444444, "t": 3.2852838039398193}
+{"ds": "dev:TOX_171", "split": 5, "method": "WIDE8kbal", "bacc": 0.8611111111111112, "t": 3.3395233154296875}
+{"ds": "dev:TOX_171", "split": 6, "method": "WIDE8kbal", "bacc": 0.7708333333333333, "t": 3.3492536544799805}
+{"ds": "dev:TOX_171", "split": 7, "method": "WIDE8kbal", "bacc": 0.8888888888888888, "t": 3.2926487922668457}
+{"ds": "dev:TOX_171", "split": 8, "method": "WIDE8kbal", "bacc": 0.9409722222222222, "t": 3.3436121940612793}
+{"ds": "dev:TOX_171", "split": 9, "method": "WIDE8kbal", "bacc": 0.7777777777777778, "t": 3.347297430038452}
+{"ds": "dev:TOX_171", "split": 0, "method": "TICL2bal-CGf", "bacc": 0.9722222222222222}
+{"ds": "dev:TOX_171", "split": 0, "method": "TICL2-CGf", "bacc": 0.9722222222222222, "t": 1.9710955619812012}
+{"ds": "dev:TOX_171", "split": 1, "method": "TICL2bal-CGf", "bacc": 0.9097222222222222}
+{"ds": "dev:TOX_171", "split": 1, "method": "TICL2-CGf", "bacc": 0.9097222222222222, "t": 0.6380951404571533}
+{"ds": "dev:TOX_171", "split": 2, "method": "TICL2bal-CGf", "bacc": 0.9166666666666666}
+{"ds": "dev:TOX_171", "split": 2, "method": "TICL2-CGf", "bacc": 0.9166666666666666, "t": 0.6331198215484619}
+{"ds": "dev:TOX_171", "split": 3, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "dev:TOX_171", "split": 3, "method": "TICL2-CGf", "bacc": 1.0, "t": 0.6393189430236816}
+{"ds": "dev:TOX_171", "split": 4, "method": "TICL2bal-CGf", "bacc": 0.9722222222222222}
+{"ds": "dev:TOX_171", "split": 4, "method": "TICL2-CGf", "bacc": 0.9722222222222222, "t": 0.6311395168304443}
+{"ds": "dev:TOX_171", "split": 5, "method": "TICL2bal-CGf", "bacc": 0.9722222222222222}
+{"ds": "dev:TOX_171", "split": 5, "method": "TICL2-CGf", "bacc": 0.9722222222222222, "t": 0.6318910121917725}
+{"ds": "dev:TOX_171", "split": 6, "method": "TICL2bal-CGf", "bacc": 1.0}
+{"ds": "dev:TOX_171", "split": 6, "method": "TICL2-CGf", "bacc": 0.96875, "t": 0.6328935623168945}
+{"ds": "dev:TOX_171", "split": 7, "method": "TICL2bal-CGf", "bacc": 0.9722222222222222}
+{"ds": "dev:TOX_171", "split": 7, "method": "TICL2-CGf", "bacc": 0.9722222222222222, "t": 0.6337735652923584}
+{"ds": "dev:TOX_171", "split": 8, "method": "TICL2bal-CGf", "bacc": 0.8888888888888888}
+{"ds": "dev:TOX_171", "split": 8, "method": "TICL2-CGf", "bacc": 0.8888888888888888, "t": 0.6361973285675049}
+{"ds": "dev:TOX_171", "split": 9, "method": "TICL2bal-CGf", "bacc": 0.8888888888888888}
+{"ds": "dev:TOX_171", "split": 9, "method": "TICL2-CGf", "bacc": 0.8888888888888888, "t": 0.6365983486175537}
+{"ds": "dev:TOX_171", "split": 0, "method": "RFbal", "bacc": 0.7951388888888888, "t": 2.4941275119781494}
+{"ds": "dev:TOX_171", "split": 0, "method": "RSEbal", "bacc": 0.9722222222222222, "t": 11.241841316223145}
+{"ds": "dev:TOX_171", "split": 1, "method": "RFbal", "bacc": 0.7638888888888888, "t": 3.471662998199463}
+{"ds": "dev:TOX_171", "split": 1, "method": "RSEbal", "bacc": 0.8541666666666666, "t": 2.2452385425567627}
+{"ds": "dev:TOX_171", "split": 2, "method": "RFbal", "bacc": 0.8819444444444444, "t": 3.1063554286956787}
+{"ds": "dev:TOX_171", "split": 2, "method": "RSEbal", "bacc": 0.9166666666666666, "t": 4.031398773193359}
+{"ds": "dev:TOX_171", "split": 3, "method": "RFbal", "bacc": 0.8576388888888888, "t": 3.6988918781280518}
+{"ds": "dev:TOX_171", "split": 3, "method": "RSEbal", "bacc": 0.9444444444444444, "t": 3.3126301765441895}
+{"ds": "dev:TOX_171", "split": 4, "method": "RFbal", "bacc": 0.9365079365079365, "t": 3.4343690872192383}
+{"ds": "dev:TOX_171", "split": 4, "method": "RSEbal", "bacc": 1.0, "t": 3.4203572273254395}
+{"ds": "dev:TOX_171", "split": 5, "method": "RFbal", "bacc": 0.9166666666666666, "t": 2.319589853286743}
+{"ds": "dev:TOX_171", "split": 5, "method": "RSEbal", "bacc": 1.0, "t": 3.5078039169311523}
+{"ds": "dev:TOX_171", "split": 6, "method": "RFbal", "bacc": 0.7638888888888888, "t": 3.0636634826660156}
+{"ds": "dev:TOX_171", "split": 6, "method": "RSEbal", "bacc": 0.9097222222222222, "t": 2.9198548793792725}
+{"ds": "dev:TOX_171", "split": 7, "method": "RFbal", "bacc": 0.9131944444444444, "t": 3.3893954753875732}
+{"ds": "dev:TOX_171", "split": 7, "method": "RSEbal", "bacc": 0.9722222222222222, "t": 2.315843105316162}
+{"ds": "dev:TOX_171", "split": 8, "method": "RFbal", "bacc": 0.8229166666666666, "t": 2.7542240619659424}
+{"ds": "dev:TOX_171", "split": 8, "method": "RSEbal", "bacc": 0.8819444444444444, "t": 2.892287015914917}
+{"ds": "dev:TOX_171", "split": 9, "method": "RFbal", "bacc": 0.7817460317460316, "t": 2.5006113052368164}
+{"ds": "dev:TOX_171", "split": 9, "method": "RSEbal", "bacc": 0.9444444444444444, "t": 1.385021448135376}
